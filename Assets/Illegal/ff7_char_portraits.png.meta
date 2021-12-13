@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: a99733eb4425e2444b97f31b04eff11f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9210208162130769999
+    second: ff7_char_portraits_0
+  - first:
+      213: -3154688848492766520
+    second: ff7_char_portraits_1
+  - first:
+      213: -3604999595496395205
+    second: ff7_char_portraits_2
+  - first:
+      213: -5488828976917594260
+    second: ff7_char_portraits_3
+  - first:
+      213: 1596714004271899196
+    second: ff7_char_portraits_4
+  - first:
+      213: -8075214340640955733
+    second: ff7_char_portraits_5
+  - first:
+      213: -3821859093947608928
+    second: ff7_char_portraits_6
+  - first:
+      213: -642641978191948540
+    second: ff7_char_portraits_7
+  - first:
+      213: 3796040659593047423
+    second: ff7_char_portraits_8
+  - first:
+      213: -9172913546106779620
+    second: ff7_char_portraits_9
+  - first:
+      213: -6930995443694102338
+    second: ff7_char_portraits_10
+  - first:
+      213: -1331302547055964
+    second: ff7_char_portraits_11
+  - first:
+      213: -2180055606615718859
+    second: ff7_char_portraits_12
+  - first:
+      213: 6269402716081467086
+    second: ff7_char_portraits_13
+  - first:
+      213: -2513213546998550192
+    second: ff7_char_portraits_14
+  - first:
+      213: 7301023012034358660
+    second: ff7_char_portraits_15
+  - first:
+      213: 6896023491982229090
+    second: ff7_char_portraits_16
+  - first:
+      213: 6583765655998897103
+    second: ff7_char_portraits_17
+  - first:
+      213: 2133427319660734522
+    second: ff7_char_portraits_18
+  - first:
+      213: 5994510419830065656
+    second: ff7_char_portraits_19
+  - first:
+      213: -5701921427521457417
+    second: ff7_char_portraits_20
+  - first:
+      213: -6381611640712175908
+    second: ff7_char_portraits_21
+  - first:
+      213: -2575865526843094000
+    second: ff7_char_portraits_22
+  - first:
+      213: 3492281088637236841
+    second: ff7_char_portraits_23
+  - first:
+      213: -7805581591421499752
+    second: ff7_char_portraits_24
+  - first:
+      213: -3279955883257115721
+    second: ff7_char_portraits_25
+  - first:
+      213: 2163526703765981248
+    second: ff7_char_portraits_26
+  - first:
+      213: -6428685226614943068
+    second: ff7_char_portraits_27
+  - first:
+      213: 944850968872961265
+    second: ff7_char_portraits_28
+  - first:
+      213: -4849134346117204131
+    second: ff7_char_portraits_29
+  - first:
+      213: 8172546750358591780
+    second: ff7_char_portraits_30
+  - first:
+      213: 6478674009899237574
+    second: ff7_char_portraits_31
+  - first:
+      213: 42910784485288229
+    second: ff7_char_portraits_32
+  - first:
+      213: 1381512538549007282
+    second: ff7_char_portraits_33
+  - first:
+      213: 5800565202732935165
+    second: ff7_char_portraits_34
+  - first:
+      213: -5742638050622236364
+    second: ff7_char_portraits_35
+  - first:
+      213: 3959572216084909714
+    second: ff7_char_portraits_36
+  - first:
+      213: 8332905092429118297
+    second: ff7_char_portraits_37
+  - first:
+      213: 7507965992172669854
+    second: ff7_char_portraits_38
+  - first:
+      213: 2240534669773430978
+    second: ff7_char_portraits_39
+  - first:
+      213: -6751423913326422730
+    second: ff7_char_portraits_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ff7_char_portraits_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f483533968b31df70800000000000000
+      internalID: 9210208162130769999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 109
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad3b0e43b4834d0800000000000000
+      internalID: -3154688848492766520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 109
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea20fc7f778fdc0800000000000000
+      internalID: -3604999595496395205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 109
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb4f56023c3d3b0800000000000000
+      internalID: -5488828976917594260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 109
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a4885deaa82610800000000000000
+      internalID: 1596714004271899196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a4fc67531fef80800000000000000
+      internalID: -8075214340640955733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 60
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a018a3376706fac0800000000000000
+      internalID: -3821859093947608928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 60
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4055d149680e417f0800000000000000
+      internalID: -642641978191948540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 60
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dabfb1ede3ea430800000000000000
+      internalID: 3796040659593047423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 60
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18cfe0eab343b080800000000000000
+      internalID: -9172913546106779620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb813cead5820df90800000000000000
+      internalID: -6930995443694102338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1898ff254bfff0800000000000000
+      internalID: -1331302547055964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5344219e9f2eeb1e0800000000000000
+      internalID: -2180055606615718859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea7e5bd84610750800000000000000
+      internalID: 6269402716081467086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b37638954f1dd0800000000000000
+      internalID: -2513213546998550192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da2493fb1725560800000000000000
+      internalID: 7301023012034358660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e795a44d893bf50800000000000000
+      internalID: 6896023491982229090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1b3a5bfb3e5b50800000000000000
+      internalID: 6583765655998897103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ed7608d47b9d10800000000000000
+      internalID: 2133427319660734522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f949507777c03350800000000000000
+      internalID: 5994510419830065656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f23567fba4bed0b0800000000000000
+      internalID: -5701921427521457417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde5ad42606ff67a0800000000000000
+      internalID: -6381611640712175908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc75b63ffa04cd0800000000000000
+      internalID: -2575865526843094000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667900b523177030800000000000000
+      internalID: 3492281088637236841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964ef9f5e00da390800000000000000
+      internalID: -7805581591421499752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbc18b80814b72d0800000000000000
+      internalID: -3279955883257115721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480b000314660e10800000000000000
+      internalID: 2163526703765981248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a290d6d8d8b8c6a0800000000000000
+      internalID: -6428685226614943068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44b5d33f8cc1d00800000000000000
+      internalID: 944850968872961265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b987010a64bcb0800000000000000
+      internalID: -4849134346117204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429956d28f7ba6170800000000000000
+      internalID: 8172546750358591780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0899fbfafd8e950800000000000000
+      internalID: 6478674009899237574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52967429123789000800000000000000
+      internalID: 42910784485288229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b336f0955e1c2310800000000000000
+      internalID: 1381512538549007282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76365b15fbf7050800000000000000
+      internalID: 5800565202732935165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43915076e1d0e40b0800000000000000
+      internalID: -5742638050622236364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4f3aa3f933f630800000000000000
+      internalID: 3959572216084909714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf74d280d64a370800000000000000
+      internalID: 8332905092429118297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b4a2d7a47a13860800000000000000
+      internalID: 7507965992172669854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0eaca496af71f10800000000000000
+      internalID: 2240534669773430978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ff7_char_portraits_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d91ea8bf1e42a0800000000000000
+      internalID: -6751423913326422730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
