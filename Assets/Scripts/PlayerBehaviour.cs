@@ -1,79 +1,98 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Numerics;
 using UnityEngine;
+using Vector2 = UnityEngine.Vector2;
+using Vector3 = UnityEngine.Vector3;
 
 public class PlayerBehaviour : MonoBehaviour
 {
-    [SerializeField]
-    private Vector2 speed = new Vector2(2.0f, 2.0f);
+    private const float DialogueDistance = 0.5f;
+
+    [SerializeField] private Vector2 speed = new Vector2(2.0f, 2.0f);
 
     private Animator _animator;
     private Rigidbody2D _rigidbody;
+    private BoxCollider2D _boxCollider;
     private Vector2 _movement = Vector2.zero;
+    private Vector2 _facingDirection = new Vector2(0, 1); // facing up by default
 
     private void Start()
     {
         _animator = GetComponent<Animator>();
         _rigidbody = GetComponent<Rigidbody2D>();
+        _boxCollider = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
     private void Update()
     {
-        int horizontal = 0;  	//Used to store the horizontal move direction.
-        int vertical = 0;		//Used to store the vertical move direction.
-			
-        //Check if we are running either in the Unity editor or in a standalone build.
-			
-        //Get input from the input manager, round it to an integer and store in horizontal to set x axis move direction
-        horizontal = (int) (Input.GetAxisRaw ("Horizontal"));
-			
-        //Get input from the input manager, round it to an integer and store in vertical to set y axis move direction
-        vertical = (int) (Input.GetAxisRaw ("Vertical"));
-			
-        //Check if moving horizontally, if so set vertical to zero.
-        if(horizontal != 0)
+        if (!DialogueManager.instance.IsDisplayingDialogue() && TryDialogue())
         {
-            vertical = 0;
+            return;
         }
 
-        _movement = new Vector2(speed.x * horizontal, speed.y * vertical);
-        SetAnimationAxes(horizontal, vertical);
+        Move();
     }
 
     private void FixedUpdate()
     {
         _rigidbody.velocity = _movement;
+        if (Math.Abs(_movement.x) > float.Epsilon || Math.Abs(_movement.y) > float.Epsilon)
+        {
+            _facingDirection = new Vector2(_movement.x, _movement.y);
+        }
+
         Camera.main.transform.position =
             new Vector3(transform.position.x, transform.position.y, Camera.main.transform.position.z);
     }
-    
+
     private void SetAnimationAxes(int horizontal, int vertical)
     {
         _animator.SetInteger("horizontal", horizontal);
         _animator.SetInteger("vertical", vertical);
     }
-    
 
-    private void SetAnimation(int horizontal, int vertical)
+    private bool TryDialogue()
     {
-        if (horizontal > 0)
+        var interactPressed = Input.GetButtonDown("Fire1");
+        if (interactPressed)
         {
-            _animator.SetTrigger("movedRight");
-        } else if (horizontal < 0)
-        {
-            _animator.SetTrigger("movedLeft");
-        } else if (vertical > 0)
-        {
-            _animator.SetTrigger("movedUp");
-        } else if (vertical < 0)
-        {
-            _animator.SetTrigger("movedDown");
+            _boxCollider.enabled = false;
+            var hit = Physics2D.Raycast(transform.position, _facingDirection, DialogueDistance);
+            _boxCollider.enabled = true;
+            DialogueBehaviour dialogueBehaviour;
+            if (hit.collider != null &&
+                (dialogueBehaviour = hit.collider.gameObject.GetComponent<DialogueBehaviour>()) != null &&
+                dialogueBehaviour.GiveDialogue() != null)
+            {
+                Debug.Log("Hit " + hit.collider.gameObject.name);
+                _movement = Vector2.zero;
+                DialogueManager.instance.DisplayDialogue(dialogueBehaviour.GiveDialogue());
+                return true;
+            }
         }
-        else
+
+        return false;
+    }
+
+    private void Move()
+    {
+        var horizontal = 0;
+        var vertical = 0;
+
+        if (!DialogueManager.instance.IsDisplayingDialogue())
         {
-            _animator.SetTrigger("stoppedMoving");
+            horizontal = (int) (Input.GetAxisRaw("Horizontal"));
+            vertical = (int) (Input.GetAxisRaw("Vertical"));
+            if (horizontal != 0)
+            {
+                vertical = 0;
+            }
         }
+
+        _movement = new Vector2(speed.x * horizontal, speed.y * vertical);
+        SetAnimationAxes(horizontal, vertical);
     }
 }

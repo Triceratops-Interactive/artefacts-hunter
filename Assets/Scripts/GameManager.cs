@@ -1,14 +1,13 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] private DialogueElement[] _dialogueElements;
+    [FormerlySerializedAs("_dialogueElements")] [SerializeField]
+    public DialogueElement[] introDialogue;
 
     private void Start()
     {
-        DialogueManager.instance.DisplayDialogue(_dialogueElements);
+        DialogueManager.instance.DisplayDialogue(introDialogue);
     }
 }

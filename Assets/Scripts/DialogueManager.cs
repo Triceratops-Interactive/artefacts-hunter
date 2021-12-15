@@ -11,16 +11,19 @@ public class DialogueManager : MonoBehaviour
     private Text _textComponent;
     private Image _characterImage;
     private DialogueElement[] _currentElements;
-    private int _elementPos;
-    private int _dialoguePos;
+    private int _elementPos = 0;
+    private int _dialoguePos = -1;
 
     public void DisplayDialogue(DialogueElement[] dialogueElements)
     {
         _currentElements = dialogueElements;
-        _elementPos = 0;
-        _dialoguePos = -1;
         NextDialogue();
         EnablePanel(true);
+    }
+
+    public bool IsDisplayingDialogue()
+    {
+        return _dialoguePos != -1;
     }
 
     private void NextDialogue()
@@ -34,6 +37,8 @@ public class DialogueManager : MonoBehaviour
 
         if (_elementPos >= _currentElements.Length)
         {
+            _elementPos = 0;
+            _dialoguePos = -1;
             EnablePanel(false);
             return;
         }
@@ -50,10 +55,7 @@ public class DialogueManager : MonoBehaviour
         }
 
         instance = this;
-    }
-
-    private void Start()
-    {
+        
         _textComponent = GameObject.Find("DialogueText").GetComponent<Text>();
         _characterImage = GameObject.Find("CharacterImage").GetComponent<Image>();
 
