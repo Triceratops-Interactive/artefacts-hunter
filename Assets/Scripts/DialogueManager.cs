@@ -43,6 +43,7 @@ public class DialogueManager : MonoBehaviour
             return;
         }
 
+        _characterImage.enabled = _currentElements[_elementPos].characterSprite != null;
         _characterImage.sprite = _currentElements[_elementPos].characterSprite;
         _textComponent.text = _currentElements[_elementPos].dialogue[_dialoguePos];
     }
