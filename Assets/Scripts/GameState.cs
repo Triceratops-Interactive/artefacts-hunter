@@ -13,14 +13,17 @@ public class GameState : MonoBehaviour
 
     private void Awake()
     {
-        if (instance != null)
+        if (instance == null)
         {
-            throw new Exception("tried to instantiate GameState twice!");
+            instance = this;
+            readDescriptions = new bool[NumGames];
+            playedGames = new bool[NumGames];
+            DontDestroyOnLoad(gameObject);
         }
-
-        instance = this;
-        readDescriptions = new bool[NumGames];
-        playedGames = new bool[NumGames];
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
     public int NumPlayedGames()

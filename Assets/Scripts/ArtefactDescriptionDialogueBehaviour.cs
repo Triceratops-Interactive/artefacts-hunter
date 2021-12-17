@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ArtefactDescriptionDialogueBehaviour : DialogueBehaviour
@@ -6,7 +7,7 @@ public class ArtefactDescriptionDialogueBehaviour : DialogueBehaviour
     [SerializeField] private DialogueElement[] descriptionText;
     [SerializeField] private int artefactIdx;
     
-    public override DialogueElement[] GiveDialogue()
+    public override (DialogueElement[] dialogue, Action callback) GiveDialogue()
     {
         GameState.instance.readDescriptions[artefactIdx] = true;
         
@@ -21,6 +22,6 @@ public class ArtefactDescriptionDialogueBehaviour : DialogueBehaviour
             shownDescription.AddRange(GameManager.instance.GetDialogueAfterDescription());
         } 
         
-        return shownDescription.ToArray();
+        return (shownDescription.ToArray(), null);
     }
 }

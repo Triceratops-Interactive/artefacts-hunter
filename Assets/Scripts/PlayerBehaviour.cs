@@ -64,13 +64,19 @@ public class PlayerBehaviour : MonoBehaviour
             _boxCollider.enabled = true;
             DialogueBehaviour dialogueBehaviour;
             DialogueElement[] dialogue;
-            if (hit.collider != null &&
-                (dialogueBehaviour = hit.collider.gameObject.GetComponent<DialogueBehaviour>()) != null &&
-                (dialogue = dialogueBehaviour.GiveDialogue()) != null)
+            Action callback;
+            if (hit.collider == null ||
+                (dialogueBehaviour = hit.collider.gameObject.GetComponent<DialogueBehaviour>()) == null)
+            {
+                return false;
+            }
+            (dialogue, callback) = dialogueBehaviour.GiveDialogue();
+
+            if (dialogue != null)
             {
                 Debug.Log("Hit " + hit.collider.gameObject.name);
                 _movement = Vector2.zero;
-                DialogueManager.instance.DisplayDialogue(dialogue);
+                DialogueManager.instance.DisplayDialogue(dialogue, callback);
                 return true;
             }
         }

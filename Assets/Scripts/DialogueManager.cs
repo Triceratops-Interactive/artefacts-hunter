@@ -13,10 +13,12 @@ public class DialogueManager : MonoBehaviour
     private DialogueElement[] _currentElements;
     private int _elementPos = 0;
     private int _dialoguePos = -1;
+    private Action _callback;
 
-    public void DisplayDialogue(DialogueElement[] dialogueElements)
+    public void DisplayDialogue(DialogueElement[] dialogueElements, Action callback = null)
     {
         _currentElements = dialogueElements;
+        _callback = callback;
         NextDialogue();
         EnablePanel(true);
     }
@@ -37,9 +39,12 @@ public class DialogueManager : MonoBehaviour
 
         if (_elementPos >= _currentElements.Length)
         {
+            // Finished displaying dialogue
             _elementPos = 0;
             _dialoguePos = -1;
             EnablePanel(false);
+            _callback?.Invoke();
+            
             return;
         }
 
