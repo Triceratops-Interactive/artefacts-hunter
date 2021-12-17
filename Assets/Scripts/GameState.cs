@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Linq;
-using UnityEditor.Animations;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 public class GameState : MonoBehaviour
 {
@@ -42,6 +40,15 @@ public class GameState : MonoBehaviour
         else
         {
             Destroy(gameObject);
+        }
+    }
+
+    private void Update()
+    {
+        bool escPressed = Input.GetButtonDown("Escape");
+        if (escPressed)
+        {
+            Environment.Exit(0);
         }
     }
 
