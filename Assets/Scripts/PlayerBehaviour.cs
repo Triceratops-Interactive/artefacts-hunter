@@ -8,7 +8,7 @@ using Vector3 = UnityEngine.Vector3;
 
 public class PlayerBehaviour : MonoBehaviour
 {
-    private const float DialogueDistance = 0.5f;
+    [SerializeField] private float DialogueDistance = 0.5f;
 
     [SerializeField] private Vector2 speed = new Vector2(2.0f, 2.0f);
 
