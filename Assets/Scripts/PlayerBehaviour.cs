@@ -63,13 +63,19 @@ public class PlayerBehaviour : MonoBehaviour
             var hit = Physics2D.Raycast(transform.position, _facingDirection, DialogueDistance);
             _boxCollider.enabled = true;
             DialogueBehaviour dialogueBehaviour;
-            if (hit.collider != null &&
-                (dialogueBehaviour = hit.collider.gameObject.GetComponent<DialogueBehaviour>()) != null &&
-                dialogueBehaviour.GiveDialogue() != null)
+            DialogueElement[] dialogue;
+            Action callback;
+            if (hit.collider == null ||
+                (dialogueBehaviour = hit.collider.gameObject.GetComponent<DialogueBehaviour>()) == null)
             {
-                Debug.Log("Hit " + hit.collider.gameObject.name);
+                return false;
+            }
+            (dialogue, callback) = dialogueBehaviour.GiveDialogue();
+
+            if (dialogue != null)
+            {
                 _movement = Vector2.zero;
-                DialogueManager.instance.DisplayDialogue(dialogueBehaviour.GiveDialogue());
+                DialogueManager.instance.DisplayDialogue(dialogue, callback);
                 return true;
             }
         }

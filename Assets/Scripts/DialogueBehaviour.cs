@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public abstract class DialogueBehaviour : MonoBehaviour
 {
-    public abstract DialogueElement[] GiveDialogue();
+    public abstract (DialogueElement[] dialogue, Action callback) GiveDialogue();
 }
