@@ -380,6 +380,8 @@ MonoBehaviour:
   - dialogue:
     - "Play the artefact\u2019s minigame again?"
     characterSprite: {fileID: 0}
+  minigameScenes:
+  - Pyramid_labyrinth_dark
 --- !u!4 &117209996
 Transform:
   m_ObjectHideFlags: 0

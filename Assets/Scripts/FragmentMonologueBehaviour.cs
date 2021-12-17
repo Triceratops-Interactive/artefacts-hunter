@@ -28,6 +28,6 @@ public class FragmentMonologueBehaviour : DialogueBehaviour
     {
         Debug.Log("Loading Game...");
         GameState.instance.playedGames[artefactIdx] = true;
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene(GameManager.instance.minigameScenes[artefactIdx]);
     }
 }

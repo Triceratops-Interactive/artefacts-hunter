@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private DialogueElement[] furtherFragmentsMonologue;
     [SerializeField] private DialogueElement[] fragmentPlayAgainText;
 
+    public String[] minigameScenes;
+
     private Animator _playerAnimator;
     
     private void Awake()
