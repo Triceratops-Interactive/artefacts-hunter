@@ -168,6 +168,63 @@ Transform:
   m_Father: {fileID: 1732235638}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &179086736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3414685769428762192, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_Name
+      value: GameState
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
 --- !u!1 &210792936
 GameObject:
   m_ObjectHideFlags: 0
@@ -566,7 +623,8 @@ PrefabInstance:
       value: I use my holy power to provide a whole new Sphinx monument for your
         museuem.
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6179018369984223163, guid: d31bd261d25fe4f4fbfc0edddc93972a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d31bd261d25fe4f4fbfc0edddc93972a, type: 3}
 --- !u!1 &539317972
 GameObject:
@@ -77347,6 +77405,43 @@ Transform:
   m_Father: {fileID: 1732235638}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1227996986 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6179018369984223143, guid: d31bd261d25fe4f4fbfc0edddc93972a, type: 3}
+  m_PrefabInstance: {fileID: 261837215}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1227996988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1227996986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a154f1157cf662e4ca234c3d67abcae0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beforeFirstMinigameTalk:
+  - dialogue:
+    - Hello my name is chafre, how did you find me?
+    - You must be an extraordinarily skilled adventurer to make it to my burial chamber.
+    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+  - dialogue:
+    - "Yes and I\u2019m also a very skilled time traveler.  Do you heard what human
+      beings did with the great sphinx of gizeh."
+    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+  - dialogue:
+    - How horrible, so much of my slaves have died to build this great monument,
+      but then someone destroys it wantonly. What are you doing here?
+    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+  - dialogue:
+    - I'm here looking for lost artefacts
+    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+  - dialogue:
+    - Then i have a present for you.
+    - I use my holy power to provide a whole new Sphinx monument for your museuem.
+    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
 --- !u!1 &1291966361
 GameObject:
   m_ObjectHideFlags: 0
