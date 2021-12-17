@@ -45,10 +45,10 @@ public class GameState : MonoBehaviour
 
     private void Update()
     {
-        bool escPressed = Input.GetButtonDown("Escape");
+        bool escPressed = Input.GetButtonDown("Cancel");
         if (escPressed)
         {
-            Environment.Exit(0);
+            Application.Quit();
         }
     }
 
