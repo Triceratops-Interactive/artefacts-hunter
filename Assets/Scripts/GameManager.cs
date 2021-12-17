@@ -56,5 +56,25 @@ public class GameManager : MonoBehaviour
         {
             DialogueManager.instance.DisplayDialogue(introDialogue);
         }
+
+        if (GameState.instance.playedGames[GameState.SphinxNoseIdx])
+        {
+            GameObject.Find("SphinxNoseFragment").SetActive(false);
+            GameObject.Find("SphinxNoseShowcase").SetActive(false);
+        }
+        else
+        {
+            GameObject.Find("SphinxNose").SetActive(false);
+        }
+        
+        if (GameState.instance.playedGames[GameState.DinoBoneIdx])
+        {
+            GameObject.Find("DinoBoneFragment").SetActive(false);
+            GameObject.Find("DinoBoneShowcase").SetActive(false);
+        }
+        else
+        {
+            GameObject.Find("DinoBone").SetActive(false);
+        }
     }
 }
