@@ -74,7 +74,6 @@ public class PlayerBehaviour : MonoBehaviour
 
             if (dialogue != null)
             {
-                Debug.Log("Hit " + hit.collider.gameObject.name);
                 _movement = Vector2.zero;
                 DialogueManager.instance.DisplayDialogue(dialogue, callback);
                 return true;

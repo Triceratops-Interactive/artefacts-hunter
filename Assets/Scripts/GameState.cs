@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using UnityEditor.Animations;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -10,6 +11,24 @@ public class GameState : MonoBehaviour
     public const int NumGames = 2;
     public const int SphinxNoseIdx = 0;
     public const int DinoBoneIdx = 1;
+
+    public const int NumCharacters = 4;
+    public const int DanielWhiteIdx = 0;
+    public const int DanielBlackIdx = 1;
+    public const int JillWhiteIdx = 2;
+    public const int JillBlackIdx = 3;
+    
+    // Set by Unity editor
+    [Header("Character properties")]
+    public RuntimeAnimatorController[] menuAnimators;
+    public RuntimeAnimatorController[] ingameAnimators;
+    public Sprite[] characterImage;
+    
+    // Changed during the game
+    [Header("Ingame properties - DO NOT SET")]
+    public int selectedCharacterIdx;
+    public bool[] readDescriptions;
+    public bool[] playedGames;
 
     private void Awake()
     {
@@ -30,7 +49,4 @@ public class GameState : MonoBehaviour
     {
         return playedGames.Count(playedGame => playedGame);
     }
-    
-    public bool[] readDescriptions;
-    public bool[] playedGames;
 }

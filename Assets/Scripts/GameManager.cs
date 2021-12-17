@@ -6,16 +6,6 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    private void Awake()
-    {
-        if (instance != null)
-        {
-            throw new Exception("tried to instantiate GameManager twice!");
-        }
-
-        instance = this;
-    }
-
     [FormerlySerializedAs("_dialogueElements")] [SerializeField]
     private DialogueElement[] introDialogue;
 
@@ -25,6 +15,19 @@ public class GameManager : MonoBehaviour
     [SerializeField] private DialogueElement[] furtherFragmentsMonologue;
     [SerializeField] private DialogueElement[] fragmentPlayAgainText;
 
+    private Animator _playerAnimator;
+    
+    private void Awake()
+    {
+        if (instance != null)
+        {
+            throw new Exception("tried to instantiate GameManager twice!");
+        }
+
+        instance = this;
+        _playerAnimator = GameObject.Find("Player").GetComponent<Animator>();
+    }
+    
     public DialogueElement[] GetDialogueBeforeDescription()
     {
         return GameState.instance.NumPlayedGames() == 0 ? beforeFirstArtefactDescription : null;
@@ -47,6 +50,8 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        _playerAnimator.runtimeAnimatorController =
+            GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx];
         if (GameState.instance.NumPlayedGames() == 0)
         {
             DialogueManager.instance.DisplayDialogue(introDialogue);
