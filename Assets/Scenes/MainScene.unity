@@ -380,6 +380,10 @@ MonoBehaviour:
   - dialogue:
     - "Play the artefact\u2019s minigame again?"
     characterSprite: {fileID: 0}
+  notReadDescriptionMonologue:
+  - dialogue:
+    - I should probably read the artifacts description first.
+    characterSprite: {fileID: 21300000, guid: f4e5428e5dcb39642a76f53d43257618, type: 3}
   minigameScenes:
   - Pyramid_labyrinth_dark
   - Dino_Escape
