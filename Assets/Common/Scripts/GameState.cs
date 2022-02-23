@@ -43,15 +43,6 @@ public class GameState : MonoBehaviour
         }
     }
 
-    private void Update()
-    {
-        bool escPressed = Input.GetButtonDown("Cancel");
-        if (escPressed)
-        {
-            Application.Quit();
-        }
-    }
-
     public int NumPlayedGames()
     {
         return playedGames.Count(playedGame => playedGame);

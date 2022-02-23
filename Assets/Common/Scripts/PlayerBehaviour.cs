@@ -25,9 +25,15 @@ public class PlayerBehaviour : MonoBehaviour
         _boxCollider = GetComponent<BoxCollider2D>();
     }
 
-    // Update is called once per frame
     private void Update()
     {
+        if (IngameMenuBehaviour.instance.IsMenuActive())
+        {
+            _movement = Vector2.zero;
+            SetAnimationAxes(0, 0);
+            return;
+        }
+        
         if (!DialogueManager.instance.IsDisplayingDialogue() && TryDialogue())
         {
             return;
@@ -70,6 +76,7 @@ public class PlayerBehaviour : MonoBehaviour
             {
                 return false;
             }
+
             (dialogue, callback) = dialogueBehaviour.GiveDialogue();
 
             if (dialogue != null)

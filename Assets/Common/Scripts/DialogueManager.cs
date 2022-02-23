@@ -85,6 +85,11 @@ public class DialogueManager : MonoBehaviour
 
     private void Update()
     {
+        if (IngameMenuBehaviour.instance.IsMenuActive())
+        {
+            return;
+        }
+        
         var confirmed = Input.GetButtonDown("Fire1");
         if (confirmed)
         {
