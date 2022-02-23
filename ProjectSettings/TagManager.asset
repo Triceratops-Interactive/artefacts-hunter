@@ -47,11 +47,12 @@ TagManager:
   - name: Items
     uniqueID: 857263939
     locked: 0
+  - name: Walls
+    uniqueID: 3263414631
+    locked: 0
   - name: Characters
     uniqueID: 2847878745
     locked: 0
-  - name: Walls
-    uniqueID: 3263414631
   - name: TopItems
     uniqueID: 2823791109
     locked: 0

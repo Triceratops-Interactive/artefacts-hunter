@@ -12,6 +12,10 @@ public class PlayerBehaviour : MonoBehaviour
 
     [SerializeField] private Vector2 speed = new Vector2(2.0f, 2.0f);
 
+    [SerializeField] private Vector3 camera_offset = new Vector3(0.0f, 0.0f,0.0f);
+
+  
+
     private Animator _animator;
     private Rigidbody2D _rigidbody;
     private BoxCollider2D _boxCollider;
@@ -39,13 +43,22 @@ public class PlayerBehaviour : MonoBehaviour
     private void FixedUpdate()
     {
         _rigidbody.velocity = _movement;
+        if (Math.Abs(_movement.x) > float.Epsilon)
+        { };
+        if (Math.Abs(_movement.x) < float.Epsilon)
+        { };
+        if (Math.Abs(_movement.y) > float.Epsilon)
+        { };
+        if (Math.Abs(_movement.y) < float.Epsilon)
+        { };
+
         if (Math.Abs(_movement.x) > float.Epsilon || Math.Abs(_movement.y) > float.Epsilon)
         {
             _facingDirection = new Vector2(_movement.x, _movement.y);
         }
 
         Camera.main.transform.position =
-            new Vector3(transform.position.x, transform.position.y, Camera.main.transform.position.z);
+            new Vector3(transform.position.x+camera_offset.x, transform.position.y+camera_offset.y, Camera.main.transform.position.z+camera_offset.z);
     }
 
     private void SetAnimationAxes(int horizontal, int vertical)
@@ -82,6 +95,7 @@ public class PlayerBehaviour : MonoBehaviour
 
         return false;
     }
+
 
     private void Move()
     {
