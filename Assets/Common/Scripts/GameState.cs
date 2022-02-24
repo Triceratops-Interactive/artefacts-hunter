@@ -15,16 +15,16 @@ public class GameState : MonoBehaviour
     public const int DanielBlackIdx = 1;
     public const int JillWhiteIdx = 2;
     public const int JillBlackIdx = 3;
-    
+
     // Set by Unity editor
-    [Header("Character properties")]
-    public RuntimeAnimatorController[] menuAnimators;
+    [Header("Character properties")] public RuntimeAnimatorController[] menuAnimators;
     public RuntimeAnimatorController[] ingameAnimators;
     public Sprite[] characterImage;
-    
+
     // Changed during the game
     [Header("Ingame properties - DO NOT SET")]
     public int selectedCharacterIdx;
+
     public bool[] readDescriptions;
     public bool[] playedGames;
 
