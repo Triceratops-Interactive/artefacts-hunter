@@ -18,7 +18,12 @@ public class TextboxBehaviour : MonoBehaviour
 
     public void CloseBtnPressed()
     {
+        DisableTextbox();
+    }
+
+    public void DisableTextbox()
+    {
         activeTextbox = null;
-        gameObject.SetActive(false);
+        gameObject.SetActive(false);   
     }
 }
