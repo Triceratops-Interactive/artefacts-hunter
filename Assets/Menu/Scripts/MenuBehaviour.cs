@@ -4,10 +4,16 @@ using UnityEngine.SceneManagement;
 public class MenuBehaviour : MonoBehaviour
 {
     private Animator _characterAnimator;
+    private GameObject _controlsPanel;
+    private GameObject _creditsPanel;
 
     private void Awake()
     {
         _characterAnimator = GameObject.Find("CharacterImage").GetComponent<Animator>();
+        _controlsPanel = GameObject.Find("ControlsPanel");
+        _controlsPanel.SetActive(false);
+        _creditsPanel = GameObject.Find("CreditsPanel");
+        _creditsPanel.SetActive(false);
     }
 
     public void ChooseLeftCharacter()
@@ -33,5 +39,20 @@ public class MenuBehaviour : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene("MainScene");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+
+    public void ShowControlsPanel()
+    {
+        _controlsPanel.SetActive(true);
+    }
+
+    public void ShowCreditsPanel()
+    {
+        _creditsPanel.SetActive(true);
     }
 }
