@@ -10,7 +10,7 @@ public class PlayerBehaviour : MonoBehaviour
 {
     [SerializeField] private float DialogueDistance = 0.5f;
 
-    [SerializeField] private Vector2 speed = new Vector2(2.0f, 2.0f);
+    [SerializeField] public Vector2 speed = new Vector2(2.0f, 2.0f);
 
 
     private Animator _animator;
