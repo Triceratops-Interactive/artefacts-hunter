@@ -79,5 +79,14 @@ public class GameManager : MonoBehaviour
         {
             GameObject.Find("DinoBone").SetActive(false);
         }
+        
+        if (GameState.instance.playedGames[GameState.LaurelIdx])
+        {
+            GameObject.Find("LaurelFragment").SetActive(false);
+        }
+        else
+        {
+            GameObject.Find("Laurel").SetActive(false);
+        }
     }
 }

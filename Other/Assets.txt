@@ -15,11 +15,24 @@ Underwater Fantasy
 Top Down River Environment
 Brutal 2D Adventure Jungle Pack (Only picture of "jungle" taken)
 
+opengameart.org:
+https://opengameart.org/content/desert-tileset-0
+https://opengameart.org/content/whispers-of-avalon-desert-tileset
+https://opengameart.org/content/lpc-beach-desert
+https://opengameart.org/content/lpc-desert-ruins
+https://opengameart.org/content/lpc-sandrock-alt-colors
+!https://opengameart.org/content/lpc-compatible-ancient-greek-architecture
+https://opengameart.org/content/lpc-compatible-ancient-roman-architecture
+https://opengameart.org/content/laurels
+https://opengameart.org/content/lpc-pennomis-ui-elements
+https://opengameart.org/content/lpc-lifebars
+
 Sounds:
 Text Scroll Pack: https://freesound.org/people/EVRetro/packs/27842/
 Zombie Gargles: https://freesound.org/people/Breviceps/sounds/445983/
 Escape From Jungle: https://freesound.org/people/C00lDude/sounds/615443/
 jump: https://freesound.org/people/jeckkech/sounds/391670/
+desert (pre fight): https://freesound.org/people/KasDonatov/sounds/402710/
 
 8-bit Video Game sounds:
 - squaresweep4: https://freesound.org/people/ProjectsU012/sounds/384363/

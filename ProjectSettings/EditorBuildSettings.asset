@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dino_Escape.unity
     guid: 84db265cf5ca41a46bb08f0e30189e97
+  - enabled: 1
+    path: Assets/Scenes/FinalLevel.unity
+    guid: 12b589fb98fbc534a967f598d75d450d
   m_configObjects: {}

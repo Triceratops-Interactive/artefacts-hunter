@@ -6,9 +6,10 @@ public class GameState : MonoBehaviour
 {
     public static GameState instance;
 
-    public const int NumGames = 2;
+    public const int NumGames = 3;
     public const int SphinxNoseIdx = 0;
     public const int DinoBoneIdx = 1;
+    public const int LaurelIdx = 2;
 
     public const int NumCharacters = 4;
     public const int DanielWhiteIdx = 0;
