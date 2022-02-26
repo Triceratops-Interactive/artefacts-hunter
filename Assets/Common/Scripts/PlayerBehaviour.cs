@@ -28,7 +28,7 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void Update()
     {
-        if (IngameMenuBehaviour.instance.IsMenuActive())
+        if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive())
         {
             _movement = Vector2.zero;
             SetAnimationAxes(0, 0);

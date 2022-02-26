@@ -8,12 +8,16 @@ public class DialogueManager : MonoBehaviour
 {
     public static DialogueManager instance;
 
+    [SerializeField] private AudioClip textScrollClip;
+
     private Text _textComponent;
     private Image _characterImage;
     private DialogueElement[] _currentElements;
     private int _elementPos = 0;
     private int _dialoguePos = -1;
     private Action _callback;
+    private string _currentDisplayedText;
+    private int _currentDisplayedCharacterCount;
 
     public void DisplayDialogue(DialogueElement[] dialogueElements, Action callback = null)
     {
@@ -42,9 +46,11 @@ public class DialogueManager : MonoBehaviour
             // Finished displaying dialogue
             _elementPos = 0;
             _dialoguePos = -1;
+            _currentDisplayedCharacterCount = 0;
             EnablePanel(false);
+            SoundManager.instance.GetEffectSource().Stop();
             _callback?.Invoke();
-            
+
             return;
         }
 
@@ -65,7 +71,14 @@ public class DialogueManager : MonoBehaviour
                 _characterImage.sprite = _currentElements[_elementPos].characterSprite;
             }
         }
-        _textComponent.text = _currentElements[_elementPos].dialogue[_dialoguePos];
+
+        _currentDisplayedCharacterCount = 0;
+        _currentDisplayedText = _currentElements[_elementPos].dialogue[_dialoguePos];
+        if (textScrollClip != null)
+        {
+            SoundManager.instance.GetEffectSource().Stop();
+            SoundManager.instance.GetEffectSource().PlayOneShot(textScrollClip);
+        }
     }
 
     private void Awake()
@@ -76,7 +89,7 @@ public class DialogueManager : MonoBehaviour
         }
 
         instance = this;
-        
+
         _textComponent = GameObject.Find("DialogueText").GetComponent<Text>();
         _characterImage = GameObject.Find("CharacterImage").GetComponent<Image>();
 
@@ -85,16 +98,28 @@ public class DialogueManager : MonoBehaviour
 
     private void Update()
     {
-        if (IngameMenuBehaviour.instance.IsMenuActive())
+        if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive())
         {
             return;
         }
-        
+
         var confirmed = Input.GetButtonDown("Fire1");
         if (confirmed)
         {
             NextDialogue();
         }
+    }
+
+    private void FixedUpdate()
+    {
+        if (_currentDisplayedCharacterCount >= _currentDisplayedText.Length)
+        {
+            SoundManager.instance.GetEffectSource().Stop();
+            return;
+        }
+
+        _currentDisplayedCharacterCount++;
+        _textComponent.text = _currentDisplayedText.Substring(0, _currentDisplayedCharacterCount);
     }
 
     private void EnablePanel(bool enable)
