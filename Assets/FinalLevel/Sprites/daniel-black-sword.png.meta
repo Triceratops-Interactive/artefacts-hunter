@@ -1,7 +1,622 @@
 fileFormatVersion: 2
 guid: db03a290e2616dc4b969d03bd7f12a38
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2692210217365886236
+    second: daniel-black-sword_0
+  - first:
+      213: -3692641860148933794
+    second: daniel-black-sword_1
+  - first:
+      213: -8988443593930891330
+    second: daniel-black-sword_2
+  - first:
+      213: -1497416990926471779
+    second: daniel-black-sword_3
+  - first:
+      213: -8088363858105026159
+    second: daniel-black-sword_4
+  - first:
+      213: -5800838024245659137
+    second: daniel-black-sword_5
+  - first:
+      213: 7273714014504371761
+    second: daniel-black-sword_6
+  - first:
+      213: 3795248627214633011
+    second: daniel-black-sword_7
+  - first:
+      213: 7024030849840694905
+    second: daniel-black-sword_8
+  - first:
+      213: 6869966004651319765
+    second: daniel-black-sword_9
+  - first:
+      213: 1027413619954548239
+    second: daniel-black-sword_10
+  - first:
+      213: -7308178144203743113
+    second: daniel-black-sword_11
+  - first:
+      213: -340020498702698453
+    second: daniel-black-sword_12
+  - first:
+      213: -2798588846324544489
+    second: daniel-black-sword_13
+  - first:
+      213: 5758705759322411371
+    second: daniel-black-sword_14
+  - first:
+      213: -7282194057999260658
+    second: daniel-black-sword_15
+  - first:
+      213: -4583494572949481193
+    second: daniel-black-sword_16
+  - first:
+      213: 180579423721189703
+    second: daniel-black-sword_17
+  - first:
+      213: 8408954638442925306
+    second: daniel-black-sword_18
+  - first:
+      213: -5883766705429960415
+    second: daniel-black-sword_19
+  - first:
+      213: -4633819914944532601
+    second: daniel-black-sword_20
+  - first:
+      213: -1207315623106906284
+    second: daniel-black-sword_21
+  - first:
+      213: -5745920520512399827
+    second: daniel-black-sword_22
+  - first:
+      213: 1066657082687370308
+    second: daniel-black-sword_23
+  - first:
+      213: 143463328225884107
+    second: daniel-black-sword_24
+  - first:
+      213: 23881435247410331
+    second: daniel-black-sword_25
+  - first:
+      213: -7134138668381225415
+    second: daniel-black-sword_26
+  - first:
+      213: -387966549554906174
+    second: daniel-black-sword_27
+  - first:
+      213: -965859487807209897
+    second: daniel-black-sword_28
+  - first:
+      213: -2242760961429395405
+    second: daniel-black-sword_29
+  - first:
+      213: 192398749462410852
+    second: daniel-black-sword_30
+  - first:
+      213: -9181475889076198474
+    second: daniel-black-sword_31
+  - first:
+      213: -3853726067899226686
+    second: daniel-black-sword_32
+  - first:
+      213: 4043200446022945524
+    second: daniel-black-sword_33
+  - first:
+      213: 2797160531338313163
+    second: daniel-black-sword_34
+  - first:
+      213: -4360561896458489298
+    second: daniel-black-sword_35
+  - first:
+      213: -5412423899229398235
+    second: daniel-black-sword_36
+  - first:
+      213: 671242585803069551
+    second: daniel-black-sword_37
+  - first:
+      213: -5350822215696309387
+    second: daniel-black-sword_38
+  - first:
+      213: 1982689085953043204
+    second: daniel-black-sword_39
+  - first:
+      213: 28859111304251817
+    second: daniel-black-sword_40
+  - first:
+      213: -4824982777702314854
+    second: daniel-black-sword_41
+  - first:
+      213: -7793678410354938210
+    second: daniel-black-sword_42
+  - first:
+      213: -4329147220914418067
+    second: daniel-black-sword_43
+  - first:
+      213: -8243145791616628614
+    second: daniel-black-sword_44
+  - first:
+      213: 2705428523762342131
+    second: daniel-black-sword_45
+  - first:
+      213: -5698012732203870305
+    second: daniel-black-sword_46
+  - first:
+      213: 3172335741556014617
+    second: daniel-black-sword_47
+  - first:
+      213: 3424056221645561448
+    second: daniel-black-sword_48
+  - first:
+      213: -5116683534483901421
+    second: daniel-black-sword_49
+  - first:
+      213: -7330554630412380999
+    second: daniel-black-sword_50
+  - first:
+      213: -6080228493913327796
+    second: daniel-black-sword_51
+  - first:
+      213: -7080659673858880146
+    second: daniel-black-sword_52
+  - first:
+      213: 4633980904039185720
+    second: daniel-black-sword_53
+  - first:
+      213: 1256502523464102125
+    second: daniel-black-sword_54
+  - first:
+      213: -7716917724242563286
+    second: daniel-black-sword_55
+  - first:
+      213: -1200192894403083741
+    second: daniel-black-sword_56
+  - first:
+      213: -1315618693344168525
+    second: daniel-black-sword_57
+  - first:
+      213: 7660635023187809760
+    second: daniel-black-sword_58
+  - first:
+      213: -6495736464864839365
+    second: daniel-black-sword_59
+  - first:
+      213: -6664175891533775605
+    second: daniel-black-sword_60
+  - first:
+      213: -8595806228458120555
+    second: daniel-black-sword_61
+  - first:
+      213: -995125290112771625
+    second: daniel-black-sword_62
+  - first:
+      213: -462970898221424317
+    second: daniel-black-sword_63
+  - first:
+      213: -4896049691270812104
+    second: daniel-black-sword_64
+  - first:
+      213: -3770860865760155535
+    second: daniel-black-sword_65
+  - first:
+      213: 2849826288709638026
+    second: daniel-black-sword_66
+  - first:
+      213: 8428166549155800801
+    second: daniel-black-sword_67
+  - first:
+      213: 2112033427642180022
+    second: daniel-black-sword_68
+  - first:
+      213: -3130854703099798942
+    second: daniel-black-sword_69
+  - first:
+      213: 8087566855833644113
+    second: daniel-black-sword_70
+  - first:
+      213: -4364191852066827206
+    second: daniel-black-sword_71
+  - first:
+      213: 490676914571715018
+    second: daniel-black-sword_72
+  - first:
+      213: 3308874448353456242
+    second: daniel-black-sword_73
+  - first:
+      213: 2240962330111534321
+    second: daniel-black-sword_74
+  - first:
+      213: -9069443204167954687
+    second: daniel-black-sword_75
+  - first:
+      213: 1457814127746610414
+    second: daniel-black-sword_76
+  - first:
+      213: 3648911747297303793
+    second: daniel-black-sword_77
+  - first:
+      213: -703017302184749315
+    second: daniel-black-sword_78
+  - first:
+      213: 3422000820730883029
+    second: daniel-black-sword_79
+  - first:
+      213: -7168116478347166873
+    second: daniel-black-sword_80
+  - first:
+      213: -3154006848640534189
+    second: daniel-black-sword_81
+  - first:
+      213: -7670629915992339126
+    second: daniel-black-sword_82
+  - first:
+      213: 7955413368346905202
+    second: daniel-black-sword_83
+  - first:
+      213: 4955246191027869070
+    second: daniel-black-sword_84
+  - first:
+      213: 4906537022531889753
+    second: daniel-black-sword_85
+  - first:
+      213: 6901059461170667039
+    second: daniel-black-sword_86
+  - first:
+      213: -7120584668882731285
+    second: daniel-black-sword_87
+  - first:
+      213: 4728431152913313183
+    second: daniel-black-sword_88
+  - first:
+      213: -2048303512701061808
+    second: daniel-black-sword_89
+  - first:
+      213: 4173688360887776219
+    second: daniel-black-sword_90
+  - first:
+      213: 7014360732534080702
+    second: daniel-black-sword_91
+  - first:
+      213: 2490483524839228803
+    second: daniel-black-sword_92
+  - first:
+      213: -5002462192745237729
+    second: daniel-black-sword_93
+  - first:
+      213: -5673295212668879542
+    second: daniel-black-sword_94
+  - first:
+      213: -5677221916364571934
+    second: daniel-black-sword_95
+  - first:
+      213: -3142077941935401469
+    second: daniel-black-sword_96
+  - first:
+      213: -5390706930249323461
+    second: daniel-black-sword_97
+  - first:
+      213: 4810659366289581798
+    second: daniel-black-sword_98
+  - first:
+      213: 1478779864599176138
+    second: daniel-black-sword_99
+  - first:
+      213: 4764567638691760121
+    second: daniel-black-sword_100
+  - first:
+      213: 5369272901088612473
+    second: daniel-black-sword_101
+  - first:
+      213: -1553058917037948293
+    second: daniel-black-sword_102
+  - first:
+      213: -7130244119267735531
+    second: daniel-black-sword_103
+  - first:
+      213: 2946651121503261004
+    second: daniel-black-sword_104
+  - first:
+      213: -8150714824371678180
+    second: daniel-black-sword_105
+  - first:
+      213: 1445568456745263032
+    second: daniel-black-sword_106
+  - first:
+      213: 5547162069363825725
+    second: daniel-black-sword_107
+  - first:
+      213: 1582415777358926236
+    second: daniel-black-sword_108
+  - first:
+      213: -98204439755584035
+    second: daniel-black-sword_109
+  - first:
+      213: -1277806635947688734
+    second: daniel-black-sword_110
+  - first:
+      213: -4057258984237011592
+    second: daniel-black-sword_111
+  - first:
+      213: -503531293738957004
+    second: daniel-black-sword_112
+  - first:
+      213: 5344972947468639403
+    second: daniel-black-sword_113
+  - first:
+      213: 6234974157852154990
+    second: daniel-black-sword_114
+  - first:
+      213: 464019553844118530
+    second: daniel-black-sword_115
+  - first:
+      213: 7194005658866459934
+    second: daniel-black-sword_116
+  - first:
+      213: -6766900180553684903
+    second: daniel-black-sword_117
+  - first:
+      213: 359755792701329942
+    second: daniel-black-sword_118
+  - first:
+      213: -6713723208799077626
+    second: daniel-black-sword_119
+  - first:
+      213: -4064084239565625760
+    second: daniel-black-sword_120
+  - first:
+      213: 2870609854472072058
+    second: daniel-black-sword_121
+  - first:
+      213: -3953042400065116547
+    second: daniel-black-sword_122
+  - first:
+      213: -2532069087263403816
+    second: daniel-black-sword_123
+  - first:
+      213: 4277100419019054874
+    second: daniel-black-sword_124
+  - first:
+      213: -2145431284325918352
+    second: daniel-black-sword_125
+  - first:
+      213: 7282508068245872881
+    second: daniel-black-sword_126
+  - first:
+      213: 6542397427640862718
+    second: daniel-black-sword_127
+  - first:
+      213: -6167048239618151684
+    second: daniel-black-sword_128
+  - first:
+      213: 7268141432359072050
+    second: daniel-black-sword_129
+  - first:
+      213: -6156431198038308221
+    second: daniel-black-sword_130
+  - first:
+      213: 8129444558588893400
+    second: daniel-black-sword_131
+  - first:
+      213: 8493615547944267189
+    second: daniel-black-sword_132
+  - first:
+      213: -5199446333906528277
+    second: daniel-black-sword_133
+  - first:
+      213: 5285474692638408393
+    second: daniel-black-sword_134
+  - first:
+      213: 5845558818176363597
+    second: daniel-black-sword_135
+  - first:
+      213: 7354992141006521099
+    second: daniel-black-sword_136
+  - first:
+      213: 4436520436892155919
+    second: daniel-black-sword_137
+  - first:
+      213: -2745082660346541626
+    second: daniel-black-sword_138
+  - first:
+      213: 5590596206827643371
+    second: daniel-black-sword_139
+  - first:
+      213: 2789015483246356264
+    second: daniel-black-sword_140
+  - first:
+      213: 1183220886156336208
+    second: daniel-black-sword_141
+  - first:
+      213: -2440271931268883107
+    second: daniel-black-sword_142
+  - first:
+      213: -6395849838961740511
+    second: daniel-black-sword_143
+  - first:
+      213: 1545487695545371471
+    second: daniel-black-sword_144
+  - first:
+      213: 1591912613571774543
+    second: daniel-black-sword_145
+  - first:
+      213: -2739839578071624974
+    second: daniel-black-sword_146
+  - first:
+      213: 1411811710745512494
+    second: daniel-black-sword_147
+  - first:
+      213: -7955257680041508103
+    second: daniel-black-sword_148
+  - first:
+      213: -8727537669642918908
+    second: daniel-black-sword_149
+  - first:
+      213: 6059592275072504216
+    second: daniel-black-sword_150
+  - first:
+      213: 741584464757677485
+    second: daniel-black-sword_151
+  - first:
+      213: 1541066853352907845
+    second: daniel-black-sword_152
+  - first:
+      213: -4140188357238667235
+    second: daniel-black-sword_153
+  - first:
+      213: -413640660917119920
+    second: daniel-black-sword_154
+  - first:
+      213: 7089323562627180728
+    second: daniel-black-sword_155
+  - first:
+      213: 2683901715364867289
+    second: daniel-black-sword_156
+  - first:
+      213: -5779823717458326111
+    second: daniel-black-sword_157
+  - first:
+      213: 4123793914027376384
+    second: daniel-black-sword_158
+  - first:
+      213: 3129175238500003864
+    second: daniel-black-sword_159
+  - first:
+      213: -5246789496783891879
+    second: daniel-black-sword_160
+  - first:
+      213: 1306073711903193128
+    second: daniel-black-sword_161
+  - first:
+      213: 1222669043285052340
+    second: daniel-black-sword_162
+  - first:
+      213: 2192666249418720290
+    second: daniel-black-sword_163
+  - first:
+      213: -3114404675472360979
+    second: daniel-black-sword_164
+  - first:
+      213: 3815134744647411887
+    second: daniel-black-sword_165
+  - first:
+      213: -7765777363206129006
+    second: daniel-black-sword_166
+  - first:
+      213: -1209936750292855573
+    second: daniel-black-sword_167
+  - first:
+      213: 3248509217186186931
+    second: daniel-black-sword_168
+  - first:
+      213: -1732211679377760351
+    second: daniel-black-sword_169
+  - first:
+      213: 4361227621582525819
+    second: daniel-black-sword_170
+  - first:
+      213: 547434077949372546
+    second: daniel-black-sword_171
+  - first:
+      213: 4378835752008976897
+    second: daniel-black-sword_172
+  - first:
+      213: 271434280705960643
+    second: daniel-black-sword_173
+  - first:
+      213: 2390398338833692119
+    second: daniel-black-sword_174
+  - first:
+      213: -5196349268998189217
+    second: daniel-black-sword_175
+  - first:
+      213: -7233068286550619481
+    second: daniel-black-sword_176
+  - first:
+      213: 7047945865548193871
+    second: daniel-black-sword_177
+  - first:
+      213: -5523491741321903376
+    second: daniel-black-sword_178
+  - first:
+      213: -4654083953029876879
+    second: daniel-black-sword_179
+  - first:
+      213: 4927197530117145246
+    second: daniel-black-sword_180
+  - first:
+      213: 8052542357733600053
+    second: daniel-black-sword_181
+  - first:
+      213: -6647666344969469457
+    second: daniel-black-sword_182
+  - first:
+      213: -2243426996312067603
+    second: daniel-black-sword_183
+  - first:
+      213: 5826622809294665717
+    second: daniel-black-sword_184
+  - first:
+      213: -708769271971195381
+    second: daniel-black-sword_185
+  - first:
+      213: -6320280704296148454
+    second: daniel-black-sword_186
+  - first:
+      213: -7145031472996589514
+    second: daniel-black-sword_187
+  - first:
+      213: -323120736914245439
+    second: daniel-black-sword_188
+  - first:
+      213: 187832486957503315
+    second: daniel-black-sword_189
+  - first:
+      213: -1533880295391246363
+    second: daniel-black-sword_190
+  - first:
+      213: -8166497287422879375
+    second: daniel-black-sword_191
+  - first:
+      213: 8253859854652341853
+    second: daniel-black-sword_192
+  - first:
+      213: 7603641814923207973
+    second: daniel-black-sword_193
+  - first:
+      213: 4790431393138601638
+    second: daniel-black-sword_194
+  - first:
+      213: 100019422350733806
+    second: daniel-black-sword_195
+  - first:
+      213: 2346739793358815148
+    second: daniel-black-sword_196
+  - first:
+      213: -1835752220122774065
+    second: daniel-black-sword_197
+  - first:
+      213: -1318423125243170471
+    second: daniel-black-sword_198
+  - first:
+      213: 989932927882424173
+    second: daniel-black-sword_199
+  - first:
+      213: 8960316382570232401
+    second: daniel-black-sword_200
+  - first:
+      213: 8240048707650648971
+    second: daniel-black-sword_201
+  - first:
+      213: -4131522678295091797
+    second: daniel-black-sword_202
+  - first:
+      213: -5402835773783201363
+    second: daniel-black-sword_203
+  - first:
+      213: -4614312591899798095
+    second: daniel-black-sword_204
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +647,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +656,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +690,4326 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: daniel-black-sword_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2049
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaaa3d321953aad0800000000000000
+      internalID: -2692210217365886236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc51beac911ccc0800000000000000
+      internalID: -3692641860148933794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf1d149c22a24380800000000000000
+      internalID: -8988443593930891330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d713f2e2b183be0800000000000000
+      internalID: -1497416990926471779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ba8fcceb50cf80800000000000000
+      internalID: -8088363858105026159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff932451d884f7fa0800000000000000
+      internalID: -5800838024245659137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364050cb5c61f460800000000000000
+      internalID: 7273714014504371761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1985
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ca63b48e6ba430800000000000000
+      internalID: 3795248627214633011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c320d7de5a7160800000000000000
+      internalID: 7024030849840694905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1985
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1604ebea5075f50800000000000000
+      internalID: 6869966004651319765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef9ce6e3b124e00800000000000000
+      internalID: 1027413619954548239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770667fb2b2249a90800000000000000
+      internalID: -7308178144203743113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28797e6821084bf0800000000000000
+      internalID: -340020498702698453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c8476954a6929d0800000000000000
+      internalID: -2798588846324544489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61986e80680bef40800000000000000
+      internalID: 5758705759322411371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046e73461370fa90800000000000000
+      internalID: -7282194057999260658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195a6568f72460c0800000000000000
+      internalID: -4583494572949481193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74175a4770c818200800000000000000
+      internalID: 180579423721189703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc83cce0bb92b470800000000000000
+      internalID: 8408954638442925306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a39dda59a85ea0800000000000000
+      internalID: -5883766705429960415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fa990a65d51bfb0800000000000000
+      internalID: -4633819914944532601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1931
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fee066d0ce3fe0800000000000000
+      internalID: -1207315623106906284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1931
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d261b33dab36240b0800000000000000
+      internalID: -5745920520512399827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_23
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1931
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443cbe17f68dce00800000000000000
+      internalID: 1066657082687370308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7f23d032fadf100800000000000000
+      internalID: 143463328225884107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf5a0f908d45000800000000000000
+      internalID: 23881435247410331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e32cceda27efc90800000000000000
+      internalID: -7134138668381225415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1857
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbb0d8a7aad9af0800000000000000
+      internalID: -387966549554906174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7f46c9e39892f0800000000000000
+      internalID: -965859487807209897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33823e9c9cc10e0e0800000000000000
+      internalID: -2242760961429395405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466bfeca4a98ba200800000000000000
+      internalID: 192398749462410852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1793
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3accd0358d49080800000000000000
+      internalID: -9181475889076198474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c524352f80d48ac0800000000000000
+      internalID: -3853726067899226686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa06e442655c1830800000000000000
+      internalID: 4043200446022945524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb92aeea281d620800000000000000
+      internalID: 2797160531338313163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22fc74fe0c2c73c0800000000000000
+      internalID: -4360561896458489298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd890d32533e4b0800000000000000
+      internalID: -5412423899229398235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6818ec439bb05900800000000000000
+      internalID: 671242585803069551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1791
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57327217b8f0eb5b0800000000000000
+      internalID: -5350822215696309387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1729
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b664c083de38b10800000000000000
+      internalID: 1982689085953043204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1729
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c2d57537866000800000000000000
+      internalID: 28859111304251817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c0daf3ab73a0db0800000000000000
+      internalID: -4824982777702314854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1729
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea92947ca47d390800000000000000
+      internalID: -7793678410354938210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec6051a87cbe3c0800000000000000
+      internalID: -4329147220914418067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a784fea93967a9d80800000000000000
+      internalID: -8243145791616628614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8501c88ec9b8520800000000000000
+      internalID: 2705428523762342131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_46
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d5530c979ce0b0800000000000000
+      internalID: -5698012732203870305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb8b79c86660c20800000000000000
+      internalID: 3172335741556014617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1667
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e562efdf0b48f20800000000000000
+      internalID: 3424056221645561448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1667
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143ffa4f63edf8b0800000000000000
+      internalID: -5116683534483901421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1667
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4dcaf0763a44a90800000000000000
+      internalID: -7330554630412380999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1667
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4776133660be9ba0800000000000000
+      internalID: -6080228493913327796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_52
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1667
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4534aa817cbd90800000000000000
+      internalID: -7080659673858880146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_53
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1667
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83df23194153f4040800000000000000
+      internalID: 4633980904039185720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1667
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b57a436eff6110800000000000000
+      internalID: 1256502523464102125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1602
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2b9d373008e490800000000000000
+      internalID: -7716917724242563286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1602
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220823ebee085fe0800000000000000
+      internalID: -1200192894403083741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1602
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b57b53d4cbfdbde0800000000000000
+      internalID: -1315618693344168525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1602
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5960f37fa005a60800000000000000
+      internalID: 7660635023187809760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_59
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1602
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fd21e9128ad5a0800000000000000
+      internalID: -6495736464864839365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_60
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1602
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3860c5571483a0800000000000000
+      internalID: -6664175891533775605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1602
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ad9aa17cf85b880800000000000000
+      internalID: -8595806228458120555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_62
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1602
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d912df22da9032f0800000000000000
+      internalID: -995125290112771625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1539
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412b26cb623399f0800000000000000
+      internalID: -462970898221424317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1539
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e64250fbcbd0cb0800000000000000
+      internalID: -4896049691270812104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a1fe75063babc0800000000000000
+      internalID: -3770860865760155535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a879b1a19ed9c8720800000000000000
+      internalID: 2849826288709638026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e24672dcd6f470800000000000000
+      internalID: 8428166549155800801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1539
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ec5066337f4d10800000000000000
+      internalID: 2112033427642180022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a106a4c38fc84d0800000000000000
+      internalID: -3130854703099798942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_70
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1537
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cef23a43fcc3070800000000000000
+      internalID: 8087566855833644113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1538
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3417ed02a64f63c0800000000000000
+      internalID: -4364191852066827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1474
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac12888dd0c3fc600800000000000000
+      internalID: 490676914571715018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1474
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270797497cb7bed20800000000000000
+      internalID: 3308874448353456242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1475
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f46459bd5f791f10800000000000000
+      internalID: 2240962330111534321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1475
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f0df0357dd22280800000000000000
+      internalID: -9069443204167954687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_76
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4f1e0b9323b3410800000000000000
+      internalID: 1457814127746610414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1474
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd762c6e983a230800000000000000
+      internalID: 3648911747297303793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df613580d716e36f0800000000000000
+      internalID: -703017302184749315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_79
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1474
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db62ccad936d7f20800000000000000
+      internalID: 3422000820730883029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_80
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1474
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b3e7f8a0cb58c90800000000000000
+      internalID: -7168116478347166873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1410
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b1a75b77ba34d0800000000000000
+      internalID: -3154006848640534189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1410
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dcacd6bb27c8590800000000000000
+      internalID: -7670629915992339126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1409
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a06b51f4e476e60800000000000000
+      internalID: 7955413368346905202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1408
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d2de182294c440800000000000000
+      internalID: 4955246191027869070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1409
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae0511d65871440800000000000000
+      internalID: 4906537022531889753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1410
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1dec340d75cf50800000000000000
+      internalID: 6901059461170667039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1409
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef62a58f99e2d90800000000000000
+      internalID: -7120584668882731285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_88
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1409
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de94ec413ce9140800000000000000
+      internalID: 4728431152913313183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_89
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1409
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b44dbec6f293e0800000000000000
+      internalID: -2048303512701061808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1346
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f5e9737bebe930800000000000000
+      internalID: 4173688360887776219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1346
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4842d2ce3085160800000000000000
+      internalID: 7014360732534080702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1347
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38541091299ff8220800000000000000
+      internalID: 2490483524839228803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1347
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13391fc32fa39ab0800000000000000
+      internalID: -5002462192745237729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_94
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1346
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d72feff086441b0800000000000000
+      internalID: -5673295212668879542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_95
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1346
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf60c0fb47631b0800000000000000
+      internalID: -5677221916364571934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_96
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1346
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306995e52c81564d0800000000000000
+      internalID: -3142077941935401469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1346
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca04eab9c5035b0800000000000000
+      internalID: -5390706930249323461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_98
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1346
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6a817a435e2c240800000000000000
+      internalID: 4810659366289581798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32f62b37ea58410800000000000000
+      internalID: 1478779864599176138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74b8c06052f1240800000000000000
+      internalID: 4764567638691760121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9709483814d738a40800000000000000
+      internalID: 5369272901088612473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7243b6b42d627ae0800000000000000
+      internalID: -1553058917037948293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_103
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1281
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188a3d40c84c0d90800000000000000
+      internalID: -7130244119267735531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_104
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1281
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41553e359b94e820800000000000000
+      internalID: 2946651121503261004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1217
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14d0d33d08d2ee80800000000000000
+      internalID: -8150714824371678180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1217
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf9fca3ad0bf0410800000000000000
+      internalID: 1445568456745263032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_107
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c93ff038a7bfc40800000000000000
+      internalID: 5547162069363825725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1217
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d378f3ced5f510800000000000000
+      internalID: 1582415777358926236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1217
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8005159b13aef0800000000000000
+      internalID: -98204439755584035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec73bc72a1544ee0800000000000000
+      internalID: -1277806635947688734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d6aca3378b1b7c0800000000000000
+      internalID: -4057258984237011592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4378567c4f81309f0800000000000000
+      internalID: -503531293738957004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacd0fba3982d2a40800000000000000
+      internalID: 5344972947468639403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1153
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c948656f3178650800000000000000
+      internalID: 6234974157852154990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_115
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1153
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c6b36357807600800000000000000
+      internalID: 464019553844118530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1153
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a2e0080e36d360800000000000000
+      internalID: 7194005658866459934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958229b63242712a0800000000000000
+      internalID: -6766900180553684903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121ad5ccfb1ef400800000000000000
+      internalID: 359755792701329942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3c3bff4014d2a0800000000000000
+      internalID: -6713723208799077626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_120
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0666d63aae87997c0800000000000000
+      internalID: -4064084239565625760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_121
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2b88147476d720800000000000000
+      internalID: 2870609854472072058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_122
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76af0a91e8f329c0800000000000000
+      internalID: -3953042400065116547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_123
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0dae2a4984cdcd0800000000000000
+      internalID: -2532069087263403816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_124
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1e488b205b5b30800000000000000
+      internalID: 4277100419019054874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_125
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795eb72d95e932e0800000000000000
+      internalID: -2145431284325918352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_126
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f026b1f08aa01560800000000000000
+      internalID: 7282508068245872881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef786fd1cc34bca50800000000000000
+      internalID: 6542397427640862718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_128
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaacdcec4e3a6aa0800000000000000
+      internalID: -6167048239618151684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_129
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bf0ddf10add460800000000000000
+      internalID: 7268141432359072050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_130
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4bcc8176ff8aa0800000000000000
+      internalID: -6156431198038308221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_131
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85cef11c691d070800000000000000
+      internalID: 8129444558588893400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_132
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde3f9f6526fd570800000000000000
+      internalID: 8493615547944267189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_133
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be75bce6b1bd7d7b0800000000000000
+      internalID: -5199446333906528277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_134
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7704ba37c95940800000000000000
+      internalID: 5285474692638408393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_135
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ced0726c89f1150800000000000000
+      internalID: 5845558818176363597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_136
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03cb72426e221660800000000000000
+      internalID: 7354992141006521099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 961
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c7b7e4dfa19d30800000000000000
+      internalID: 4436520436892155919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_138
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c5fe4dd187e9d0800000000000000
+      internalID: -2745082660346541626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_139
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ab9e31a9c59d40800000000000000
+      internalID: 5590596206827643371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a6ff1ec294b620800000000000000
+      internalID: 2789015483246356264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_141
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cdb228025ab6010800000000000000
+      internalID: 1183220886156336208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_142
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d9c5d8b99622ed0800000000000000
+      internalID: -2440271931268883107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12532f745706d37a0800000000000000
+      internalID: -6395849838961740511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_144
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b08b9eedca27510800000000000000
+      internalID: 1545487695545371471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_145
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c865761c971610800000000000000
+      internalID: 1591912613571774543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_146
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21c778b622af9d0800000000000000
+      internalID: -2739839578071624974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_147
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 961
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a09b45543c79310800000000000000
+      internalID: 1411811710745512494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_148
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28d6ce94f399190800000000000000
+      internalID: -7955257680041508103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404e71ddabe81e680800000000000000
+      internalID: -8727537669642918908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_150
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d56fa11ff71450800000000000000
+      internalID: 6059592275072504216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad54d04423aa4a00800000000000000
+      internalID: 741584464757677485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_152
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544aa316328f26510800000000000000
+      internalID: 1541066853352907845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 897
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c49fef981b86c0800000000000000
+      internalID: -4140188357238667235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_154
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054906da204724af0800000000000000
+      internalID: -413640660917119920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_155
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b823382836526260800000000000000
+      internalID: 7089323562627180728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_156
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc6264e3622f3520800000000000000
+      internalID: 2683901715364867289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_157
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 897
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc488a3f0f9cfa0800000000000000
+      internalID: -5779823717458326111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_158
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff48c47b8aa3930800000000000000
+      internalID: 4123793914027376384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_159
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810bdb2ec401d6b20800000000000000
+      internalID: 3129175238500003864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_160
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95212f850c8af27b0800000000000000
+      internalID: -5246789496783891879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_161
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82837700f1b102210800000000000000
+      internalID: 1306073711903193128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_162
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4fd2540bc7f010800000000000000
+      internalID: 1222669043285052340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_163
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224479b265aed6e10800000000000000
+      internalID: 2192666249418720290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_164
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de977afc27967c4d0800000000000000
+      internalID: -3114404675472360979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_165
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a5f836d412f430800000000000000
+      internalID: 3815134744647411887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_166
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a345d02aa6a3490800000000000000
+      internalID: -7765777363206129006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_167
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 833
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be49a16afe0753fe0800000000000000
+      internalID: -1209936750292855573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b607f3fbe5051d20800000000000000
+      internalID: 3248509217186186931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_169
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afd7eeb7a2f5f7e0800000000000000
+      internalID: -1732211679377760351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_170
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b755c014a61368c30800000000000000
+      internalID: 4361227621582525819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_171
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ad1ab460e89700800000000000000
+      internalID: 547434077949372546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_172
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 833
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a86489aefb4cc30800000000000000
+      internalID: 4378835752008976897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_173
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 833
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa7594a0454c300800000000000000
+      internalID: 271434280705960643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_174
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 833
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5bdd1df966c2120800000000000000
+      internalID: 2390398338833692119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_175
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f808c0fdbd2e7b0800000000000000
+      internalID: -5196349268998189217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_176
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac10047bafe9b90800000000000000
+      internalID: -7233068286550619481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_177
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 769
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40ee205c655fc160800000000000000
+      internalID: 7047945865548193871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f244b6a68d9853b0800000000000000
+      internalID: -5523491741321903376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173fec89d4f596fb0800000000000000
+      internalID: -4654083953029876879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_180
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9280d85c0ce06440800000000000000
+      internalID: 4927197530117145246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6f733c9060cf60800000000000000
+      internalID: 8052542357733600053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_182
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe186ca1eaebeb3a0800000000000000
+      internalID: -6647666344969469457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_183
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 640
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13c45780fbdd0e0800000000000000
+      internalID: -2243426996312067603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_184
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7723403925cd050800000000000000
+      internalID: 5826622809294665717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_185
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 640
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d1743a12f926f0800000000000000
+      internalID: -708769271971195381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_186
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122cab8f2ad948a0800000000000000
+      internalID: -6320280704296148454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6306d073bbfb7dc90800000000000000
+      internalID: -7145031472996589514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_188
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f9a8d66b048bf0800000000000000
+      internalID: -323120736914245439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_189
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 450
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535166d6a05b9200800000000000000
+      internalID: 187832486957503315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_190
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cb398fff86bae0800000000000000
+      internalID: -1533880295391246363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_191
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 450
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d7fb2cf5caae80800000000000000
+      internalID: -8166497287422879375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_192
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 450
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef8669ec99b8270800000000000000
+      internalID: 8253859854652341853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_193
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525edc1e1ff858960800000000000000
+      internalID: 7603641814923207973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_194
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 258
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee7e4a8f70b7240800000000000000
+      internalID: 4790431393138601638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_195
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1fadb7227536100800000000000000
+      internalID: 100019422350733806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_196
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 258
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caffc63986b419020800000000000000
+      internalID: 2346739793358815148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_197
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 250
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc582fff4191686e0800000000000000
+      internalID: -1835752220122774065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_198
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 258
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517834272504bde0800000000000000
+      internalID: -1318423125243170471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_199
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe4e5c0c2fcbd00800000000000000
+      internalID: 989932927882424173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_200
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a3632b640795c70800000000000000
+      internalID: 8960316382570232401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_201
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bfe6754a88a5270800000000000000
+      internalID: 8240048707650648971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_202
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 65
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba520ca8302e9a6c0800000000000000
+      internalID: -4131522678295091797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_203
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da921eb3d754505b0800000000000000
+      internalID: -5402835773783201363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-black-sword_204
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55335352ba6ffb0800000000000000
+      internalID: -4614312591899798095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

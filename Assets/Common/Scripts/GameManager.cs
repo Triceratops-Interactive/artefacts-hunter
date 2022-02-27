@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     [FormerlySerializedAs("_dialogueElements")] [SerializeField]
     private DialogueElement[] introDialogue;
 
+    [SerializeField] private DialogueElement[] beforeFinalLevelDialogue;
     [SerializeField] private DialogueElement[] beforeFirstArtefactDescription;
     [SerializeField] private DialogueElement[] afterFirstArtefactDescription;
     [SerializeField] private DialogueElement[] firstFragmentMonologue;
@@ -54,12 +55,13 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         _playerAnimator.runtimeAnimatorController =
-            GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx];
-        if (GameState.instance.NumPlayedGames() == 0)
-        {
-            DialogueManager.instance.DisplayDialogue(introDialogue);
-        }
+            GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
+        SetArtefactVisibility();
+        DisplayDialogue();
+    }
 
+    private void SetArtefactVisibility()
+    {
         if (GameState.instance.playedGames[GameState.SphinxNoseIdx])
         {
             GameObject.Find("SphinxNoseFragment").SetActive(false);
@@ -79,14 +81,36 @@ public class GameManager : MonoBehaviour
         {
             GameObject.Find("DinoBone").SetActive(false);
         }
-        
-        if (GameState.instance.playedGames[GameState.LaurelIdx])
+
+        if (GameState.NumGames - GameState.instance.NumPlayedGames() > 1)
         {
+            GameObject.Find("Laurel").SetActive(false);
             GameObject.Find("LaurelFragment").SetActive(false);
+            GameObject.Find("LaurelShowcase").SetActive(false);
+            GameObject.Find("LaurelSign").SetActive(false);
         }
         else
         {
-            GameObject.Find("Laurel").SetActive(false);
+            // Played all other games -> Last game should be shown in general
+            if (GameState.instance.playedGames[GameState.LaurelIdx])
+            {
+                GameObject.Find("LaurelFragment").SetActive(false);
+            }
+            else
+            {
+                GameObject.Find("Laurel").SetActive(false);
+            }   
+        }
+    }
+
+    private void DisplayDialogue()
+    {
+        if (GameState.instance.NumPlayedGames() == 0)
+        {
+            DialogueManager.instance.DisplayDialogue(introDialogue);
+        } else if (GameState.NumGames - GameState.instance.NumPlayedGames() == 1)
+        {
+            DialogueManager.instance.DisplayDialogue(beforeFinalLevelDialogue);
         }
     }
 }

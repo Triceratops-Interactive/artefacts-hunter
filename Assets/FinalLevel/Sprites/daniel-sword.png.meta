@@ -1,7 +1,622 @@
 fileFormatVersion: 2
 guid: 9518b348f6bddfa4b993cca3c9a3ac1f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8540519369681932370
+    second: daniel-sword_0
+  - first:
+      213: -6966051740530846473
+    second: daniel-sword_1
+  - first:
+      213: 1287593501813045042
+    second: daniel-sword_2
+  - first:
+      213: -6794227227935054313
+    second: daniel-sword_3
+  - first:
+      213: 2455033901469586283
+    second: daniel-sword_4
+  - first:
+      213: 4513061591547663826
+    second: daniel-sword_5
+  - first:
+      213: -4890534991086194578
+    second: daniel-sword_6
+  - first:
+      213: 1430364511595491489
+    second: daniel-sword_7
+  - first:
+      213: -527413552316237683
+    second: daniel-sword_8
+  - first:
+      213: -1117664677817873997
+    second: daniel-sword_9
+  - first:
+      213: 7991417198844047256
+    second: daniel-sword_10
+  - first:
+      213: -2512728097966918871
+    second: daniel-sword_11
+  - first:
+      213: -133126037078389290
+    second: daniel-sword_12
+  - first:
+      213: -892917067587037652
+    second: daniel-sword_13
+  - first:
+      213: -3345450774908136052
+    second: daniel-sword_14
+  - first:
+      213: -955384577165312168
+    second: daniel-sword_15
+  - first:
+      213: -7362899004668529813
+    second: daniel-sword_16
+  - first:
+      213: -7738931252868287186
+    second: daniel-sword_17
+  - first:
+      213: -6066111952938147063
+    second: daniel-sword_18
+  - first:
+      213: -2324671545249780636
+    second: daniel-sword_19
+  - first:
+      213: -1417434522375902396
+    second: daniel-sword_20
+  - first:
+      213: 2018985942564649130
+    second: daniel-sword_21
+  - first:
+      213: 3422867195705903870
+    second: daniel-sword_22
+  - first:
+      213: 4185127606286779796
+    second: daniel-sword_23
+  - first:
+      213: -768193641491931435
+    second: daniel-sword_24
+  - first:
+      213: -7184876960231495104
+    second: daniel-sword_25
+  - first:
+      213: -6165813287710672024
+    second: daniel-sword_26
+  - first:
+      213: -2495212760403120711
+    second: daniel-sword_27
+  - first:
+      213: -1895264288635954443
+    second: daniel-sword_28
+  - first:
+      213: 2842775958440914920
+    second: daniel-sword_29
+  - first:
+      213: -2818241979268644707
+    second: daniel-sword_30
+  - first:
+      213: 9113965224130317367
+    second: daniel-sword_31
+  - first:
+      213: 4285072078125961867
+    second: daniel-sword_32
+  - first:
+      213: -623600149729416575
+    second: daniel-sword_33
+  - first:
+      213: -8623599239678180554
+    second: daniel-sword_34
+  - first:
+      213: 8164843430853755133
+    second: daniel-sword_35
+  - first:
+      213: -1217899250537793112
+    second: daniel-sword_36
+  - first:
+      213: -2438090950655874989
+    second: daniel-sword_37
+  - first:
+      213: -908639490128617525
+    second: daniel-sword_38
+  - first:
+      213: 988245962979826446
+    second: daniel-sword_39
+  - first:
+      213: 5893662833373390463
+    second: daniel-sword_40
+  - first:
+      213: 8526428727880904861
+    second: daniel-sword_41
+  - first:
+      213: -2788874471348203432
+    second: daniel-sword_42
+  - first:
+      213: -1030479412720128402
+    second: daniel-sword_43
+  - first:
+      213: -4054545929417748525
+    second: daniel-sword_44
+  - first:
+      213: 2855209591759358011
+    second: daniel-sword_45
+  - first:
+      213: -718286970141330807
+    second: daniel-sword_46
+  - first:
+      213: 6533987096452068220
+    second: daniel-sword_47
+  - first:
+      213: 5985369200699599447
+    second: daniel-sword_48
+  - first:
+      213: -8645195030577310852
+    second: daniel-sword_49
+  - first:
+      213: 2401524458370448416
+    second: daniel-sword_50
+  - first:
+      213: 6705037053634528088
+    second: daniel-sword_51
+  - first:
+      213: 6204583786940231940
+    second: daniel-sword_52
+  - first:
+      213: 7691791105694289804
+    second: daniel-sword_53
+  - first:
+      213: -7560564688080664717
+    second: daniel-sword_54
+  - first:
+      213: -5071979494030522733
+    second: daniel-sword_55
+  - first:
+      213: 2576556725047948228
+    second: daniel-sword_56
+  - first:
+      213: 6023029323576209283
+    second: daniel-sword_57
+  - first:
+      213: 8506764813074557205
+    second: daniel-sword_58
+  - first:
+      213: 6302164976316966389
+    second: daniel-sword_59
+  - first:
+      213: -668403167365351129
+    second: daniel-sword_60
+  - first:
+      213: -7413533973255062094
+    second: daniel-sword_61
+  - first:
+      213: -4849884890103925457
+    second: daniel-sword_62
+  - first:
+      213: -678342596693889408
+    second: daniel-sword_63
+  - first:
+      213: -8496095722949633917
+    second: daniel-sword_64
+  - first:
+      213: 4546839111053434087
+    second: daniel-sword_65
+  - first:
+      213: 4125447910329198647
+    second: daniel-sword_66
+  - first:
+      213: 636198235631087030
+    second: daniel-sword_67
+  - first:
+      213: -7974633933747312392
+    second: daniel-sword_68
+  - first:
+      213: 4146885694348139714
+    second: daniel-sword_69
+  - first:
+      213: -2983016770967450445
+    second: daniel-sword_70
+  - first:
+      213: 6308902752634732888
+    second: daniel-sword_71
+  - first:
+      213: 5632698722916498484
+    second: daniel-sword_72
+  - first:
+      213: -3370101900372653300
+    second: daniel-sword_73
+  - first:
+      213: 3507201054007324697
+    second: daniel-sword_74
+  - first:
+      213: -1413674985238722065
+    second: daniel-sword_75
+  - first:
+      213: 8914951364896074447
+    second: daniel-sword_76
+  - first:
+      213: -6807580894362824510
+    second: daniel-sword_77
+  - first:
+      213: -4945272951914451609
+    second: daniel-sword_78
+  - first:
+      213: 4769403099005341916
+    second: daniel-sword_79
+  - first:
+      213: -1598053458043527891
+    second: daniel-sword_80
+  - first:
+      213: 6804218934203718879
+    second: daniel-sword_81
+  - first:
+      213: 4842911946917212459
+    second: daniel-sword_82
+  - first:
+      213: -7561698443777884982
+    second: daniel-sword_83
+  - first:
+      213: -7217018960880701346
+    second: daniel-sword_84
+  - first:
+      213: 7699314045959811837
+    second: daniel-sword_85
+  - first:
+      213: -8972164434298582630
+    second: daniel-sword_86
+  - first:
+      213: -1959984794505729278
+    second: daniel-sword_87
+  - first:
+      213: -6425088800850483974
+    second: daniel-sword_88
+  - first:
+      213: -4794429095180408908
+    second: daniel-sword_89
+  - first:
+      213: 6456277814938073765
+    second: daniel-sword_90
+  - first:
+      213: -2481560180941266647
+    second: daniel-sword_91
+  - first:
+      213: -8152960795658838187
+    second: daniel-sword_92
+  - first:
+      213: -4916783683625256281
+    second: daniel-sword_93
+  - first:
+      213: 7814058917874618284
+    second: daniel-sword_94
+  - first:
+      213: -8604246340593032920
+    second: daniel-sword_95
+  - first:
+      213: -6450827909952056222
+    second: daniel-sword_96
+  - first:
+      213: 3312831201323922947
+    second: daniel-sword_97
+  - first:
+      213: -6455733699976806601
+    second: daniel-sword_98
+  - first:
+      213: -8740713288528437349
+    second: daniel-sword_99
+  - first:
+      213: 8445956057976435639
+    second: daniel-sword_100
+  - first:
+      213: 737573675119635567
+    second: daniel-sword_101
+  - first:
+      213: -6039240758576029265
+    second: daniel-sword_102
+  - first:
+      213: -2714908788170828073
+    second: daniel-sword_103
+  - first:
+      213: 515970655931847589
+    second: daniel-sword_104
+  - first:
+      213: 106412184183112978
+    second: daniel-sword_105
+  - first:
+      213: 1925152547101170534
+    second: daniel-sword_106
+  - first:
+      213: 555311672544783476
+    second: daniel-sword_107
+  - first:
+      213: -7219393200886300508
+    second: daniel-sword_108
+  - first:
+      213: -8349480011759969354
+    second: daniel-sword_109
+  - first:
+      213: -9023332318713684009
+    second: daniel-sword_110
+  - first:
+      213: -1161573161714768086
+    second: daniel-sword_111
+  - first:
+      213: 5582837521715737525
+    second: daniel-sword_112
+  - first:
+      213: -5845219494513981611
+    second: daniel-sword_113
+  - first:
+      213: -2556165692165256654
+    second: daniel-sword_114
+  - first:
+      213: -256345849079856934
+    second: daniel-sword_115
+  - first:
+      213: 7183926800808129883
+    second: daniel-sword_116
+  - first:
+      213: -3063559934586318938
+    second: daniel-sword_117
+  - first:
+      213: -899267089108815915
+    second: daniel-sword_118
+  - first:
+      213: 1549656291582844660
+    second: daniel-sword_119
+  - first:
+      213: 1701153351792072204
+    second: daniel-sword_120
+  - first:
+      213: -7254241620223070460
+    second: daniel-sword_121
+  - first:
+      213: -295765811034005628
+    second: daniel-sword_122
+  - first:
+      213: 4542500884624797722
+    second: daniel-sword_123
+  - first:
+      213: -3940943353770619272
+    second: daniel-sword_124
+  - first:
+      213: 3816296727390410841
+    second: daniel-sword_125
+  - first:
+      213: -9168316129988951699
+    second: daniel-sword_126
+  - first:
+      213: -2333639695660051001
+    second: daniel-sword_127
+  - first:
+      213: -3022336631986091084
+    second: daniel-sword_128
+  - first:
+      213: -1011208052843668726
+    second: daniel-sword_129
+  - first:
+      213: -6488226804023209343
+    second: daniel-sword_130
+  - first:
+      213: -2160818032788132549
+    second: daniel-sword_131
+  - first:
+      213: 6512314894357591511
+    second: daniel-sword_132
+  - first:
+      213: -2533895800166150040
+    second: daniel-sword_133
+  - first:
+      213: -2298782571744428660
+    second: daniel-sword_134
+  - first:
+      213: -1964581626360784032
+    second: daniel-sword_135
+  - first:
+      213: 3791759561159592016
+    second: daniel-sword_136
+  - first:
+      213: 5856179941584485704
+    second: daniel-sword_137
+  - first:
+      213: 1411311658166664973
+    second: daniel-sword_138
+  - first:
+      213: -2262665329579981061
+    second: daniel-sword_139
+  - first:
+      213: -5633223723190237520
+    second: daniel-sword_140
+  - first:
+      213: 6134464059306599817
+    second: daniel-sword_141
+  - first:
+      213: 8653376762084065479
+    second: daniel-sword_142
+  - first:
+      213: -8765816987399185756
+    second: daniel-sword_143
+  - first:
+      213: 113702513064375896
+    second: daniel-sword_144
+  - first:
+      213: -2843713687802863812
+    second: daniel-sword_145
+  - first:
+      213: 3209027283407295278
+    second: daniel-sword_146
+  - first:
+      213: 1580503151896575289
+    second: daniel-sword_147
+  - first:
+      213: -5916429776191824220
+    second: daniel-sword_148
+  - first:
+      213: -6082464922762501316
+    second: daniel-sword_149
+  - first:
+      213: -8296135429457168026
+    second: daniel-sword_150
+  - first:
+      213: 5308148740437540730
+    second: daniel-sword_151
+  - first:
+      213: 854230361966887340
+    second: daniel-sword_152
+  - first:
+      213: 7054791835774317791
+    second: daniel-sword_153
+  - first:
+      213: 2447948441087386433
+    second: daniel-sword_154
+  - first:
+      213: -5236844432774754553
+    second: daniel-sword_155
+  - first:
+      213: -5431953874492726334
+    second: daniel-sword_156
+  - first:
+      213: 8309514162541328985
+    second: daniel-sword_157
+  - first:
+      213: -7830869338993581122
+    second: daniel-sword_158
+  - first:
+      213: 5688835236404631157
+    second: daniel-sword_159
+  - first:
+      213: -7693713348657260530
+    second: daniel-sword_160
+  - first:
+      213: -7246139163619368317
+    second: daniel-sword_161
+  - first:
+      213: 2936248474835326428
+    second: daniel-sword_162
+  - first:
+      213: -3434352175079560912
+    second: daniel-sword_163
+  - first:
+      213: 4054205006682113746
+    second: daniel-sword_164
+  - first:
+      213: -4648725948903678425
+    second: daniel-sword_165
+  - first:
+      213: -5311672105146034487
+    second: daniel-sword_166
+  - first:
+      213: 2296384059012806838
+    second: daniel-sword_167
+  - first:
+      213: 4866657647148231633
+    second: daniel-sword_168
+  - first:
+      213: -2218228002360568294
+    second: daniel-sword_169
+  - first:
+      213: 8033935684085910179
+    second: daniel-sword_170
+  - first:
+      213: -2970446508186603231
+    second: daniel-sword_171
+  - first:
+      213: 7146920816832801919
+    second: daniel-sword_172
+  - first:
+      213: -2362900204666384823
+    second: daniel-sword_173
+  - first:
+      213: 7395407814000355398
+    second: daniel-sword_174
+  - first:
+      213: -8420607462925862245
+    second: daniel-sword_175
+  - first:
+      213: -3647870492898127248
+    second: daniel-sword_176
+  - first:
+      213: 1126302306045816464
+    second: daniel-sword_177
+  - first:
+      213: 7759412298386242317
+    second: daniel-sword_178
+  - first:
+      213: 5708491233259036103
+    second: daniel-sword_179
+  - first:
+      213: 3927307135118669370
+    second: daniel-sword_180
+  - first:
+      213: -1946972963904484718
+    second: daniel-sword_181
+  - first:
+      213: 4081837924998414343
+    second: daniel-sword_182
+  - first:
+      213: 7402408045115400089
+    second: daniel-sword_183
+  - first:
+      213: -5267505367859739604
+    second: daniel-sword_184
+  - first:
+      213: -626107414943665577
+    second: daniel-sword_185
+  - first:
+      213: -2631175353653400738
+    second: daniel-sword_186
+  - first:
+      213: 7999866802533435429
+    second: daniel-sword_187
+  - first:
+      213: 7134253690334248952
+    second: daniel-sword_188
+  - first:
+      213: -1950710321110885382
+    second: daniel-sword_189
+  - first:
+      213: 4117643496167573603
+    second: daniel-sword_190
+  - first:
+      213: -8313784951295829734
+    second: daniel-sword_191
+  - first:
+      213: 2702348755571261116
+    second: daniel-sword_192
+  - first:
+      213: -5767012955683536273
+    second: daniel-sword_193
+  - first:
+      213: -9135036919516149394
+    second: daniel-sword_194
+  - first:
+      213: 7893153367881967201
+    second: daniel-sword_195
+  - first:
+      213: -6091143241498230424
+    second: daniel-sword_196
+  - first:
+      213: 8233323245152142215
+    second: daniel-sword_197
+  - first:
+      213: 1895252583020029467
+    second: daniel-sword_198
+  - first:
+      213: -8934243366108684146
+    second: daniel-sword_199
+  - first:
+      213: 4566036172621072047
+    second: daniel-sword_200
+  - first:
+      213: -3223801614626937672
+    second: daniel-sword_201
+  - first:
+      213: -9083261095453037744
+    second: daniel-sword_202
+  - first:
+      213: -3629426026775308398
+    second: daniel-sword_203
+  - first:
+      213: -160514384778867465
+    second: daniel-sword_204
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +647,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +656,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +690,4326 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: daniel-sword_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2049
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501c3bfd15068670800000000000000
+      internalID: 8540519369681932370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4daa689dc935f90800000000000000
+      internalID: -6966051740530846473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237faaac7737ed110800000000000000
+      internalID: 1287593501813045042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716e4a3655e06b1a0800000000000000
+      internalID: -6794227227935054313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63d2a87358021220800000000000000
+      internalID: 2455033901469586283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d558a53b9d91ae30800000000000000
+      internalID: 4513061591547663826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6070b63654512cb0800000000000000
+      internalID: -4890534991086194578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1985
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a079f4e1fca9d310800000000000000
+      internalID: 1430364511595491489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b6742b204ea8f0800000000000000
+      internalID: -527413552316237683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1985
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90aaca5e14d70f0800000000000000
+      internalID: -1117664677817873997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89feb0d1a9737ee60800000000000000
+      internalID: 7991417198844047256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f98f9b1ff02dd0800000000000000
+      internalID: -2512728097966918871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd4699139a072ef0800000000000000
+      internalID: -133126037078389290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26579c68a8bb93f0800000000000000
+      internalID: -892917067587037652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859b04ce329291d0800000000000000
+      internalID: -3345450774908136052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbc26f9cacdb2f0800000000000000
+      internalID: -955384577165312168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b7a59d5ab1d990800000000000000
+      internalID: -7362899004668529813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25fd93370bc99490800000000000000
+      internalID: -7738931252868287186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ee558157d0dba0800000000000000
+      internalID: -6066111952938147063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cade5db8b1dbfd0800000000000000
+      internalID: -2324671545249780636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba861dfc2445ce0800000000000000
+      internalID: -1417434522375902396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1931
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b2198401e40c10800000000000000
+      internalID: 2018985942564649130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1931
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa43615497708f20800000000000000
+      internalID: 3422867195705903870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_23
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1931
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958768526f841a30800000000000000
+      internalID: 4185127606286779796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded82004f3d655f0800000000000000
+      internalID: -768193641491931435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6386c8703a4c90800000000000000
+      internalID: -7184876960231495104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b3f929b71ae6aa0800000000000000
+      internalID: -6165813287710672024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1857
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6621f6393f5dd0800000000000000
+      internalID: -2495212760403120711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fade58cb2ba2b5e0800000000000000
+      internalID: -1895264288635954443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef24ea2ca1937720800000000000000
+      internalID: 2842775958440914920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90499ef9d793e8d0800000000000000
+      internalID: -2818241979268644707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1793
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0d8f551f4b7e70800000000000000
+      internalID: 9113965224130317367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8294ad0a52a77b30800000000000000
+      internalID: 4285072078125961867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6f71c7f68857f0800000000000000
+      internalID: -623600149729416575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63347a96e22d25880800000000000000
+      internalID: -8623599239678180554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df048b657d95f4170800000000000000
+      internalID: 8164843430853755133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fa779517291fe0800000000000000
+      internalID: -1217899250537793112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ef0ca2392a2ed0800000000000000
+      internalID: -2438090950655874989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1791
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfddf9a23dd363f0800000000000000
+      internalID: -908639490128617525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1729
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5026a774f6bd00800000000000000
+      internalID: 988245962979826446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1729
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a429fe1f7ac150800000000000000
+      internalID: 5893662833373390463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f608c0c5f35670800000000000000
+      internalID: 8526428727880904861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1729
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509224c17deb49d0800000000000000
+      internalID: -2788874471348203432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea6701f6003b1f0800000000000000
+      internalID: -1030479412720128402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8c8785fb5bb7c0800000000000000
+      internalID: -4054545929417748525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ca140ffdbf9720800000000000000
+      internalID: 2855209591759358011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_46
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1729
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823fe96ec12806f0800000000000000
+      internalID: -718286970141330807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73f20b45a26daa50800000000000000
+      internalID: 6533987096452068220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1667
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a6341839d401350800000000000000
+      internalID: 5985369200699599447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1667
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7397748ce8160880800000000000000
+      internalID: -8645195030577310852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1667
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c359465cde35120800000000000000
+      internalID: 2401524458370448416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1667
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c7bbeca31d0d50800000000000000
+      internalID: 6705037053634528088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_52
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1667
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40178b7b41c1b1650800000000000000
+      internalID: 6204583786940231940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_53
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1667
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fca6df14bbeba60800000000000000
+      internalID: 7691791105694289804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1667
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3770799497a731790800000000000000
+      internalID: -7560564688080664717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1602
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ce3ec585bc99b0800000000000000
+      internalID: -5071979494030522733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1602
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37024b0b4c1c320800000000000000
+      internalID: 2576556725047948228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1602
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f65872249169350800000000000000
+      internalID: 6023029323576209283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1602
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e917d6891e0670800000000000000
+      internalID: 8506764813074557205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_59
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1602
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5e749d7a9c57750800000000000000
+      internalID: 6302164976316966389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_60
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1602
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72931725cda59b6f0800000000000000
+      internalID: -668403167365351129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1602
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd77d14126dd1990800000000000000
+      internalID: -7413533973255062094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_62
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1602
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2532d3636fb1bcb0800000000000000
+      internalID: -4849884890103925457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1539
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6b08900b0696f0800000000000000
+      internalID: -678342596693889408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1539
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881fd744fdc71a80800000000000000
+      internalID: -8496095722949633917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec5131d41e991f30800000000000000
+      internalID: 4546839111053434087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ac825409804930800000000000000
+      internalID: 4125447910329198647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd6581bcea34d800800000000000000
+      internalID: 636198235631087030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1539
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8273d40b8645190800000000000000
+      internalID: -7974633933747312392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc15cf5192bc8930800000000000000
+      internalID: 4146885694348139714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_70
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1537
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc37f2d023a96d0800000000000000
+      internalID: -2983016770967450445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1538
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8510745a0a9bd8750800000000000000
+      internalID: 6308902752634732888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1474
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cfb3a25ad5b2e40800000000000000
+      internalID: 5632698722916498484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1474
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4b6b5d2efa31d0800000000000000
+      internalID: -3370101900372653300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1475
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107bf3d6c41ca030800000000000000
+      internalID: 3507201054007324697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1475
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98df4471e916ce0800000000000000
+      internalID: -1413674985238722065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_76
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa38e680548bb70800000000000000
+      internalID: 8914951364896074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1474
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c094c3ae3d9681a0800000000000000
+      internalID: -6807580894362824510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daacf837cde5bb0800000000000000
+      internalID: -4945272951914451609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_79
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1474
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd05cd269d2503240800000000000000
+      internalID: 4769403099005341916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_80
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1474
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1b35c8d292d9e0800000000000000
+      internalID: -1598053458043527891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1410
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc133302117d6e50800000000000000
+      internalID: 6804218934203718879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1410
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21fe72c1ca753340800000000000000
+      internalID: 4842911946917212459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1409
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbef734537f0790800000000000000
+      internalID: -7561698443777884982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1408
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5072731e7ff7db90800000000000000
+      internalID: -7217018960880701346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1409
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23c93055579da60800000000000000
+      internalID: 7699314045959811837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1410
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a994d3bcbf77c7380800000000000000
+      internalID: -8972164434298582630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1409
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba15eb63cbcc4e0800000000000000
+      internalID: -1959984794505729278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_88
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1409
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af467f6f6cf75d6a0800000000000000
+      internalID: -6425088800850483974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_89
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1409
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b769f0d324c67db0800000000000000
+      internalID: -4794429095180408908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1346
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7e92477e499950800000000000000
+      internalID: 6456277814938073765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1346
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ed3ec92abf8dd0800000000000000
+      internalID: -2481560180941266647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1347
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f91134a5ddade80800000000000000
+      internalID: -8152960795658838187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1347
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa741c3a4314cbb0800000000000000
+      internalID: -4916783683625256281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_94
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1346
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc3e56f2d117c60800000000000000
+      internalID: 7814058917874618284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_95
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1346
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8216ffc5a83979880800000000000000
+      internalID: -8604246340593032920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_96
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1346
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d120a13e0a76a0800000000000000
+      internalID: -6450827909952056222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1346
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063ebbec6a89fd20800000000000000
+      internalID: 3312831201323922947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_98
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1346
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f3d506760a866a0800000000000000
+      internalID: -6455733699976806601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd9b9039fb2b680800000000000000
+      internalID: -8740713288528437349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37e304940163570800000000000000
+      internalID: 8445956057976435639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6f2589536c3a00800000000000000
+      internalID: 737573675119635567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1e300078e403ca0800000000000000
+      internalID: -6039240758576029265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_103
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1281
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6dd7367d4b25ad0800000000000000
+      internalID: -2714908788170828073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_104
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1281
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d75de398192700800000000000000
+      internalID: 515970655931847589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1217
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2150206515d0a7100800000000000000
+      internalID: 106412184183112978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1217
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b576caa0487ba10800000000000000
+      internalID: 1925152547101170534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_107
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ce8a5260dd4b700800000000000000
+      internalID: 555311672544783476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1217
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04d4f32209fcb90800000000000000
+      internalID: -7219393200886300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1217
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb92dfaa20b02c80800000000000000
+      internalID: -8349480011759969354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd4c4501fa6c280800000000000000
+      internalID: -9023332318713684009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272d5b1d5341efe0800000000000000
+      internalID: -1161573161714768086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b69895293a7d40800000000000000
+      internalID: 5582837521715737525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5574e4bc6db91eea0800000000000000
+      internalID: -5845219494513981611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_114
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1153
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a037b98dca68cd0800000000000000
+      internalID: -2556165692165256654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_115
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1153
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad003f5fec6417cf0800000000000000
+      internalID: -256345849079856934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1153
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b39efc5f62b360800000000000000
+      internalID: 7183926800808129883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0dde887c0c75d0800000000000000
+      internalID: -3063559934586318938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2873d8592583f0800000000000000
+      internalID: -899267089108815915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe9ebfcf2c718510800000000000000
+      internalID: 1549656291582844660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_120
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06180ad5f5bb9710800000000000000
+      internalID: 1701153351792072204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_121
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fefb75ea1c35b90800000000000000
+      internalID: -7254241620223070460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_122
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdc98df8a35ebf0800000000000000
+      internalID: -295765811034005628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_123
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1075f3cc743a0f30800000000000000
+      internalID: 4542500884624797722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_124
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec09656e4fe49c0800000000000000
+      internalID: -3940943353770619272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_125
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958579967a536f430800000000000000
+      internalID: 3816296727390410841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_126
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61468b3e0993c080800000000000000
+      internalID: -9168316129988951699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59e6a9f0f3d9fd0800000000000000
+      internalID: -2333639695660051001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_128
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb81d2a8d08e06d0800000000000000
+      internalID: -3022336631986091084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_129
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1d3032a777f1f0800000000000000
+      internalID: -1011208052843668726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_130
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182570c091035f5a0800000000000000
+      internalID: -6488226804023209343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_131
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da76b927b3302e0800000000000000
+      internalID: -2160818032788132549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_132
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d57ba784e3606a50800000000000000
+      internalID: 6512314894357591511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_133
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601e35e13bc5dcd0800000000000000
+      internalID: -2533895800166150040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_134
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d70533e651910e0800000000000000
+      internalID: -2298782571744428660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_135
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b918c6b676cb4e0800000000000000
+      internalID: -1964581626360784032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_136
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058cb943b390f9430800000000000000
+      internalID: 3791759561159592016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 961
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d39e621a4554150800000000000000
+      internalID: 5856179941584485704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_138
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f3464c97cf59310800000000000000
+      internalID: 1411311658166664973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_139
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60bc0fed56990e0800000000000000
+      internalID: -2262665329579981061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b641feaed4c2d1b0800000000000000
+      internalID: -5633223723190237520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_141
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ee566f8ef12550800000000000000
+      internalID: 6134464059306599817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_142
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c004ab4158f61870800000000000000
+      internalID: 8653376762084065479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa9cfba4ef895680800000000000000
+      internalID: -8765816987399185756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_144
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856754d45d3f39100800000000000000
+      internalID: 113702513064375896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_145
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1893b7791988d0800000000000000
+      internalID: -2843713687802863812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_146
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e235706ef41c88c20800000000000000
+      internalID: 3209027283407295278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_147
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 961
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3e272e331fe510800000000000000
+      internalID: 1580503151896575289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_148
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 961
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeda83177e94eda0800000000000000
+      internalID: -5916429776191824220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a7f7016eb69ba0800000000000000
+      internalID: -6082464922762501316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_150
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6693cae18c43edc80800000000000000
+      internalID: -8296135429457168026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f77b8d7255aa940800000000000000
+      internalID: 5308148740437540730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_152
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c3610df5dadb00800000000000000
+      internalID: 854230361966887340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 897
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd477a7fbc7a7e160800000000000000
+      internalID: 7054791835774317791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_154
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1432c7b232cd8f120800000000000000
+      internalID: 2447948441087386433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_155
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8a700cbdf257b0800000000000000
+      internalID: -5236844432774754553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_156
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ed8a1bb2dd94b0800000000000000
+      internalID: -5431953874492726334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_157
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 897
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a7a5aea13515370800000000000000
+      internalID: 8309514162541328985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_158
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32ace63d9235390800000000000000
+      internalID: -7830869338993581122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_159
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769f9bb18dc2fe40800000000000000
+      internalID: 5688835236404631157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_160
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085a91f8707a3590800000000000000
+      internalID: -7693713348657260530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_161
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382eb6782da807b90800000000000000
+      internalID: -7246139163619368317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_162
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd597d25e66afb820800000000000000
+      internalID: 2936248474835326428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_163
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039eaca84eab650d0800000000000000
+      internalID: -3434352175079560912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_164
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6c5e539fd634830800000000000000
+      internalID: 4054205006682113746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_165
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e947521686c7fb0800000000000000
+      internalID: -4648725948903678425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_166
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c65b61ec562946b0800000000000000
+      internalID: -5311672105146034487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_167
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 833
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f35982256edf10800000000000000
+      internalID: 2296384059012806838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db65bd6857d98340800000000000000
+      internalID: 4866657647148231633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_169
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16597072654731e0800000000000000
+      internalID: -2218228002360568294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_170
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa864660f54e7f60800000000000000
+      internalID: 8033935684085910179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_171
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121fc3f83aad6c6d0800000000000000
+      internalID: -2970446508186603231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_172
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 833
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce92ded96fe2360800000000000000
+      internalID: 7146920816832801919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_173
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 833
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e892578ca453fd0800000000000000
+      internalID: -2362900204666384823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_174
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 833
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648a3aa6934c1a660800000000000000
+      internalID: 7395407814000355398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_175
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9afc43702ef32b80800000000000000
+      internalID: -8420607462925862245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_176
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729d2c2d19206dc0800000000000000
+      internalID: -3647870492898127248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_177
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 769
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e609ddafd61af00800000000000000
+      internalID: 1126302306045816464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bfb1fcf58feab60800000000000000
+      internalID: 7759412298386242317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd16d12882a83f40800000000000000
+      internalID: 5708491233259036103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_180
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36fa981809908630800000000000000
+      internalID: 3927307135118669370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0f23a766faf4e0800000000000000
+      internalID: -1946972963904484718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_182
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7008f3e57f995a830800000000000000
+      internalID: 4081837924998414343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_183
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 640
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd89bb5e2aab660800000000000000
+      internalID: 7402408045115400089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_184
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c140c6cf06e6b0800000000000000
+      internalID: -5267505367859739604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_185
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 640
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7527b059f9e9f47f0800000000000000
+      internalID: -626107414943665577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_186
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be9b7d4ff2c7bd0800000000000000
+      internalID: -2631175353653400738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5280277c87c350f60800000000000000
+      internalID: 7999866802533435429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_188
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff74e5bee5f10360800000000000000
+      internalID: 7134253690334248952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_189
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 450
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5f7a5c4fade4e0800000000000000
+      internalID: -1950710321110885382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_190
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36804cc81fec42930800000000000000
+      internalID: 4117643496167573603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_191
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 450
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19160792a08f9c80800000000000000
+      internalID: -8313784951295829734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_192
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 450
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3b0320eba08520800000000000000
+      internalID: 2702348755571261116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_193
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f624861954477ffa0800000000000000
+      internalID: -5767012955683536273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_194
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 258
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69492a3254d93180800000000000000
+      internalID: -9135036919516149394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_195
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166684a1b2d1a8d60800000000000000
+      internalID: 7893153367881967201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_196
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 258
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8610a7e7e79e77ba0800000000000000
+      internalID: -6091143241498230424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_197
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 250
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78382449ed3a24270800000000000000
+      internalID: 8233323245152142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_198
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 258
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ec8ace2a4d4a10800000000000000
+      internalID: 1895252583020029467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_199
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a3328ef0330480800000000000000
+      internalID: -8934243366108684146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_200
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6c9a405b1dd5f30800000000000000
+      internalID: 4566036172621072047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_201
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a4dd0381c243d0800000000000000
+      internalID: -3223801614626937672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_202
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 65
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b656ba826c1f180800000000000000
+      internalID: -9083261095453037744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_203
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29710871240b1adc0800000000000000
+      internalID: -3629426026775308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daniel-sword_204
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4ae9740db5cdf0800000000000000
+      internalID: -160514384778867465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

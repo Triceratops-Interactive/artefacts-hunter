@@ -1,7 +1,628 @@
 fileFormatVersion: 2
 guid: 8277d36064cde7943a4afd917295b05d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1494166073975393843
+    second: caesar_0
+  - first:
+      213: -3220503853119048962
+    second: caesar_1
+  - first:
+      213: 3352814117364440051
+    second: caesar_2
+  - first:
+      213: 8052560325595181312
+    second: caesar_3
+  - first:
+      213: 7488132257396353778
+    second: caesar_4
+  - first:
+      213: 1028673258110238982
+    second: caesar_5
+  - first:
+      213: 5512199482750898525
+    second: caesar_6
+  - first:
+      213: 654980678044470462
+    second: caesar_7
+  - first:
+      213: 6712872199344445449
+    second: caesar_8
+  - first:
+      213: -4819550993454048030
+    second: caesar_9
+  - first:
+      213: 1822271597539276744
+    second: caesar_10
+  - first:
+      213: 8924417051367501927
+    second: caesar_11
+  - first:
+      213: -2258254524768135276
+    second: caesar_12
+  - first:
+      213: 7190761497824043360
+    second: caesar_13
+  - first:
+      213: -4005013207927788188
+    second: caesar_14
+  - first:
+      213: -6606488905973197231
+    second: caesar_15
+  - first:
+      213: -7321521301547474095
+    second: caesar_16
+  - first:
+      213: 2551610315446180874
+    second: caesar_17
+  - first:
+      213: 3777072482929175501
+    second: caesar_18
+  - first:
+      213: 9205423936053684724
+    second: caesar_19
+  - first:
+      213: 1384869553669214436
+    second: caesar_20
+  - first:
+      213: -8378101690659451712
+    second: caesar_21
+  - first:
+      213: 5879102986593765197
+    second: caesar_22
+  - first:
+      213: -8440956136642374068
+    second: caesar_23
+  - first:
+      213: 4013708101049541010
+    second: caesar_24
+  - first:
+      213: -4910928583615557656
+    second: caesar_25
+  - first:
+      213: 4980820099310111596
+    second: caesar_26
+  - first:
+      213: 6023619253085102986
+    second: caesar_27
+  - first:
+      213: -414456279836735817
+    second: caesar_28
+  - first:
+      213: 2739432998328040483
+    second: caesar_29
+  - first:
+      213: -850087081814509998
+    second: caesar_30
+  - first:
+      213: -3949081549273445873
+    second: caesar_31
+  - first:
+      213: 4012090079961725243
+    second: caesar_32
+  - first:
+      213: -7054646810055531376
+    second: caesar_33
+  - first:
+      213: 5293023500247322213
+    second: caesar_34
+  - first:
+      213: -4757211675106678969
+    second: caesar_35
+  - first:
+      213: -4344441346090153200
+    second: caesar_36
+  - first:
+      213: 3673129355271136091
+    second: caesar_37
+  - first:
+      213: -8514480862145828223
+    second: caesar_38
+  - first:
+      213: -6017858765348461677
+    second: caesar_39
+  - first:
+      213: 44032268482364968
+    second: caesar_40
+  - first:
+      213: 2826481365342230868
+    second: caesar_41
+  - first:
+      213: 8857795772546576272
+    second: caesar_42
+  - first:
+      213: -5284867616803664301
+    second: caesar_43
+  - first:
+      213: 4520651023174049916
+    second: caesar_44
+  - first:
+      213: 3171481707749488029
+    second: caesar_45
+  - first:
+      213: 3267887159131933231
+    second: caesar_46
+  - first:
+      213: -6342506695061788813
+    second: caesar_47
+  - first:
+      213: -1424396156108579847
+    second: caesar_48
+  - first:
+      213: 8132199071577531773
+    second: caesar_49
+  - first:
+      213: 1368429413653686626
+    second: caesar_50
+  - first:
+      213: -5543347971809099257
+    second: caesar_51
+  - first:
+      213: 5081350988359736520
+    second: caesar_52
+  - first:
+      213: 1264447365138757392
+    second: caesar_53
+  - first:
+      213: -3489275917911470754
+    second: caesar_54
+  - first:
+      213: -4804752612136189591
+    second: caesar_55
+  - first:
+      213: -2725755937379397443
+    second: caesar_56
+  - first:
+      213: -448410105239731116
+    second: caesar_57
+  - first:
+      213: 2144900577635708830
+    second: caesar_58
+  - first:
+      213: 4653340093871978388
+    second: caesar_59
+  - first:
+      213: -4578713942576025773
+    second: caesar_60
+  - first:
+      213: 8078734019438383947
+    second: caesar_61
+  - first:
+      213: 6738270417734228982
+    second: caesar_62
+  - first:
+      213: 5670616776239351396
+    second: caesar_63
+  - first:
+      213: 7411041574814788043
+    second: caesar_64
+  - first:
+      213: 6898526797181862127
+    second: caesar_65
+  - first:
+      213: 1169372031728345797
+    second: caesar_66
+  - first:
+      213: 6318437749701826007
+    second: caesar_67
+  - first:
+      213: 1410559396486880255
+    second: caesar_68
+  - first:
+      213: 750507150430036735
+    second: caesar_69
+  - first:
+      213: -6183712315585575323
+    second: caesar_70
+  - first:
+      213: -2147107515797838195
+    second: caesar_71
+  - first:
+      213: -5643821999456939951
+    second: caesar_72
+  - first:
+      213: -1777690391864435517
+    second: caesar_73
+  - first:
+      213: -5855590273550791532
+    second: caesar_74
+  - first:
+      213: 4378382220937402905
+    second: caesar_75
+  - first:
+      213: -1532296531718012875
+    second: caesar_76
+  - first:
+      213: -38291971709359026
+    second: caesar_77
+  - first:
+      213: 8310584800753979203
+    second: caesar_78
+  - first:
+      213: -3470168374927773047
+    second: caesar_79
+  - first:
+      213: -3564541626957620954
+    second: caesar_80
+  - first:
+      213: -4795763270283077770
+    second: caesar_81
+  - first:
+      213: 2660689625169950559
+    second: caesar_82
+  - first:
+      213: -6884304734553508541
+    second: caesar_83
+  - first:
+      213: 6993439313537796545
+    second: caesar_84
+  - first:
+      213: 6441638200456715960
+    second: caesar_85
+  - first:
+      213: -8169573384093794854
+    second: caesar_86
+  - first:
+      213: 7268366613223401843
+    second: caesar_87
+  - first:
+      213: -7221748775363253601
+    second: caesar_88
+  - first:
+      213: 9192431087295145167
+    second: caesar_89
+  - first:
+      213: 8233399408277488480
+    second: caesar_90
+  - first:
+      213: -2536474495706276755
+    second: caesar_91
+  - first:
+      213: -4585013203936905479
+    second: caesar_92
+  - first:
+      213: -2597120397682594449
+    second: caesar_93
+  - first:
+      213: 5053986315890230159
+    second: caesar_94
+  - first:
+      213: 6188359851784838384
+    second: caesar_95
+  - first:
+      213: 8456961462821525121
+    second: caesar_96
+  - first:
+      213: -7752353759766567978
+    second: caesar_97
+  - first:
+      213: -3518486549283715249
+    second: caesar_98
+  - first:
+      213: -2795196106459343511
+    second: caesar_99
+  - first:
+      213: 4054108115281965260
+    second: caesar_100
+  - first:
+      213: -1611611900849491935
+    second: caesar_101
+  - first:
+      213: -59600478526447647
+    second: caesar_102
+  - first:
+      213: 8305972362432766903
+    second: caesar_103
+  - first:
+      213: -6466522855538711899
+    second: caesar_104
+  - first:
+      213: -3380400383508933598
+    second: caesar_105
+  - first:
+      213: -5778555869470839166
+    second: caesar_106
+  - first:
+      213: -4260429150685491045
+    second: caesar_107
+  - first:
+      213: -7992069211524493134
+    second: caesar_108
+  - first:
+      213: 105796531827478148
+    second: caesar_109
+  - first:
+      213: -2671117751542625589
+    second: caesar_110
+  - first:
+      213: 5584535639737587485
+    second: caesar_111
+  - first:
+      213: 6195606375809848187
+    second: caesar_112
+  - first:
+      213: -1206131106936185259
+    second: caesar_113
+  - first:
+      213: 3360559721857892146
+    second: caesar_114
+  - first:
+      213: -3725673791806041405
+    second: caesar_115
+  - first:
+      213: -3923983387922956952
+    second: caesar_116
+  - first:
+      213: -2638479827187543571
+    second: caesar_117
+  - first:
+      213: -1765784956532005972
+    second: caesar_118
+  - first:
+      213: -3110684247203772905
+    second: caesar_119
+  - first:
+      213: -4321025897651790145
+    second: caesar_120
+  - first:
+      213: -1505230362780122879
+    second: caesar_121
+  - first:
+      213: 7826010936901166854
+    second: caesar_122
+  - first:
+      213: -2928563636802755718
+    second: caesar_123
+  - first:
+      213: 2120751924097311894
+    second: caesar_124
+  - first:
+      213: 6146713132418323938
+    second: caesar_125
+  - first:
+      213: 6547476852941646682
+    second: caesar_126
+  - first:
+      213: -8519900153980152236
+    second: caesar_127
+  - first:
+      213: 6026173570274481524
+    second: caesar_128
+  - first:
+      213: -5633654249166627382
+    second: caesar_129
+  - first:
+      213: -5004475403474561172
+    second: caesar_130
+  - first:
+      213: 4912023174129194000
+    second: caesar_131
+  - first:
+      213: -2689827150641906718
+    second: caesar_132
+  - first:
+      213: -8765336971900215280
+    second: caesar_133
+  - first:
+      213: 5728710799252091250
+    second: caesar_134
+  - first:
+      213: -8548021795949223701
+    second: caesar_135
+  - first:
+      213: 838144427896103385
+    second: caesar_136
+  - first:
+      213: 259461140090992957
+    second: caesar_137
+  - first:
+      213: 6426842217781232371
+    second: caesar_138
+  - first:
+      213: 424875869698490509
+    second: caesar_139
+  - first:
+      213: 5759232472869036268
+    second: caesar_140
+  - first:
+      213: 906355866442069124
+    second: caesar_141
+  - first:
+      213: -343721876959538038
+    second: caesar_142
+  - first:
+      213: -6980920303619028350
+    second: caesar_143
+  - first:
+      213: 2715358303963487315
+    second: caesar_144
+  - first:
+      213: -5569079380678868718
+    second: caesar_145
+  - first:
+      213: 4819418685815852378
+    second: caesar_146
+  - first:
+      213: -1936067709608556129
+    second: caesar_147
+  - first:
+      213: -332711161756047208
+    second: caesar_148
+  - first:
+      213: -3966614518221098537
+    second: caesar_149
+  - first:
+      213: -3213746080590272542
+    second: caesar_150
+  - first:
+      213: 7589200015531718747
+    second: caesar_151
+  - first:
+      213: 9067123760584961951
+    second: caesar_152
+  - first:
+      213: 9164515531645546933
+    second: caesar_153
+  - first:
+      213: 1795342040183295343
+    second: caesar_154
+  - first:
+      213: 6234861710360776927
+    second: caesar_155
+  - first:
+      213: -3319502486634194231
+    second: caesar_156
+  - first:
+      213: 6247922397044847571
+    second: caesar_157
+  - first:
+      213: -5478204786539009167
+    second: caesar_158
+  - first:
+      213: 3201924250670956890
+    second: caesar_159
+  - first:
+      213: -4306507214393242830
+    second: caesar_160
+  - first:
+      213: -3404945524234616915
+    second: caesar_161
+  - first:
+      213: -2166865086172495303
+    second: caesar_162
+  - first:
+      213: 7641539974037310708
+    second: caesar_163
+  - first:
+      213: 135483018575939871
+    second: caesar_164
+  - first:
+      213: 406436339374324086
+    second: caesar_165
+  - first:
+      213: -7499584419272431305
+    second: caesar_166
+  - first:
+      213: 5025907358460109774
+    second: caesar_167
+  - first:
+      213: -3387051885922425207
+    second: caesar_168
+  - first:
+      213: 2921667092873474183
+    second: caesar_169
+  - first:
+      213: -5373614944626820245
+    second: caesar_170
+  - first:
+      213: 5989195626116957024
+    second: caesar_171
+  - first:
+      213: 8441159687818970638
+    second: caesar_172
+  - first:
+      213: -5765967058846199621
+    second: caesar_173
+  - first:
+      213: 5370754073694624942
+    second: caesar_174
+  - first:
+      213: 678118890450951925
+    second: caesar_175
+  - first:
+      213: -4796543828674936764
+    second: caesar_176
+  - first:
+      213: -611103241486284370
+    second: caesar_177
+  - first:
+      213: -813895687308989895
+    second: caesar_178
+  - first:
+      213: -2834154321093406405
+    second: caesar_179
+  - first:
+      213: -2533050372346583996
+    second: caesar_180
+  - first:
+      213: 2396352537458630521
+    second: caesar_181
+  - first:
+      213: -5766763692688288370
+    second: caesar_182
+  - first:
+      213: 94233693542560812
+    second: caesar_183
+  - first:
+      213: 5593905835136560417
+    second: caesar_184
+  - first:
+      213: -3133402975015944172
+    second: caesar_185
+  - first:
+      213: 4146996627099292664
+    second: caesar_186
+  - first:
+      213: -8684601490284013001
+    second: caesar_187
+  - first:
+      213: -8389226056192945146
+    second: caesar_188
+  - first:
+      213: 4885842476142207462
+    second: caesar_189
+  - first:
+      213: -7856535488846652320
+    second: caesar_190
+  - first:
+      213: -8603387740035353531
+    second: caesar_191
+  - first:
+      213: 5756749697807771764
+    second: caesar_192
+  - first:
+      213: 6353682222452310400
+    second: caesar_193
+  - first:
+      213: 2482636444500974721
+    second: caesar_194
+  - first:
+      213: -2466053406153204684
+    second: caesar_195
+  - first:
+      213: -1698295937926339955
+    second: caesar_196
+  - first:
+      213: 6215481698771819822
+    second: caesar_197
+  - first:
+      213: -8358525697340964700
+    second: caesar_198
+  - first:
+      213: -9183060203678529150
+    second: caesar_199
+  - first:
+      213: -923268448840413437
+    second: caesar_200
+  - first:
+      213: -5430210815533670082
+    second: caesar_201
+  - first:
+      213: -4347003972810084127
+    second: caesar_202
+  - first:
+      213: 4416619722057129662
+    second: caesar_203
+  - first:
+      213: 3395058670224887801
+    second: caesar_204
+  - first:
+      213: -7962207197101084110
+    second: caesar_205
+  - first:
+      213: 8151016597232980573
+    second: caesar_206
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +653,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +662,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +696,4368 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caesar_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2049
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4ebab0285cb410800000000000000
+      internalID: 1494166073975393843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2049
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ff0dfec87e43d0800000000000000
+      internalID: -3220503853119048962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2049
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1c6ffca6978e20800000000000000
+      internalID: 3352814117364440051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001318ba3f070cf60800000000000000
+      internalID: 8052560325595181312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae0414d903be760800000000000000
+      internalID: 7488132257396353778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ca9bc0e4964e00800000000000000
+      internalID: 1028673258110238982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51957489344f7c40800000000000000
+      internalID: 5512199482750898525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1985
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc599d475f61900800000000000000
+      internalID: 654980678044470462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085580f2b9e82d50800000000000000
+      internalID: 6712872199344445449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1985
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec5a4218e38d1db0800000000000000
+      internalID: -4819550993454048030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7bc97fc520a4910800000000000000
+      internalID: 1822271597539276744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f23e4606e9db70800000000000000
+      internalID: 8924417051367501927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d6c6797119a0e0800000000000000
+      internalID: -2258254524768135276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ab56eb77bac360800000000000000
+      internalID: 7190761497824043360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1921
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d67b4f4b55b68c0800000000000000
+      internalID: -4005013207927788188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15698eab7590154a0800000000000000
+      internalID: -6606488905973197231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1921
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153aec5da2bb46a90800000000000000
+      internalID: -7321521301547474095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c54691014296320800000000000000
+      internalID: 2551610315446180874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb65e3596bda6430800000000000000
+      internalID: 3777072482929175501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ab532c4c30cf70800000000000000
+      internalID: 9205423936053684724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e015be858b083310800000000000000
+      internalID: 1384869553669214436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1948
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc424c6e00bbb80800000000000000
+      internalID: -8378101690659451712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1857
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470cd97405c69150800000000000000
+      internalID: 5879102986593765197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1857
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4617c6ad13bbda80800000000000000
+      internalID: -8440956136642374068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1857
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916a2b904e83b730800000000000000
+      internalID: 4013708101049541010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1857
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4840f870e8dbb0800000000000000
+      internalID: -4910928583615557656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b4185ad7d6f1540800000000000000
+      internalID: 4980820099310111596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a836752dbc1389350800000000000000
+      internalID: 6023619253085102986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c669953e8f3af0800000000000000
+      internalID: -414456279836735817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1793
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c735f3ccb640620800000000000000
+      internalID: 2739432998328040483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1791
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563c449d42e334f0800000000000000
+      internalID: -850087081814509998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1791
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ac18a014b0239c0800000000000000
+      internalID: -3949081549273445873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39bcf6bbaecda730800000000000000
+      internalID: 4012090079961725243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1791
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0942cc67a1cd81e90800000000000000
+      internalID: -7054646810055531376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1791
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e490074d8947940800000000000000
+      internalID: 5293023500247322213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1791
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747ecefaf2dfafdb0800000000000000
+      internalID: -4757211675106678969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1791
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc6c21d9175b3c0800000000000000
+      internalID: -4344441346090153200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1729
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53eef200b399f230800000000000000
+      internalID: 3673129355271136091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aafec74cc76d980800000000000000
+      internalID: -8514480862145828223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932fee36554c7ca0800000000000000
+      internalID: -6017858765348461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1729
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826cb896d1f6c9000800000000000000
+      internalID: 44032268482364968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591c7193dda93720800000000000000
+      internalID: 2826481365342230868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f689313563dea70800000000000000
+      internalID: 8857795772546576272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec37727e068a6b0800000000000000
+      internalID: -5284867616803664301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1729
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70abc577249cbe30800000000000000
+      internalID: 4520651023174049916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1665
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95be0a5fcd530c20800000000000000
+      internalID: 3171481707749488029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1666
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a8e16ae0ed95d20800000000000000
+      internalID: 3267887159131933231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1666
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772e4fc3c3eaf7a0800000000000000
+      internalID: -6342506695061788813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1666
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb57b72e378b3ce0800000000000000
+      internalID: -1424396156108579847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1666
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e32828ff5bd070800000000000000
+      internalID: 8132199071577531773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1666
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269260d2d43adf210800000000000000
+      internalID: 1368429413653686626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1666
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702cfe9b3621213b0800000000000000
+      internalID: -5543347971809099257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1666
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc13404dc5948640800000000000000
+      internalID: 5081350988359736520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1601
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173644ed283c8110800000000000000
+      internalID: 1264447365138757392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1601
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dcf852a0a939fc0800000000000000
+      internalID: -3489275917911470754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1601
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610ef7b4f6125db0800000000000000
+      internalID: -4804752612136189591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1601
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0d618aa6b2c2ad0800000000000000
+      internalID: -2725755937379397443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1601
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548d73926de6c9f0800000000000000
+      internalID: -448410105239731116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1601
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa18016b734cd10800000000000000
+      internalID: 2144900577635708830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1601
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4977252392cf39040800000000000000
+      internalID: 4653340093871978388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1601
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fa0a4ade32570c0800000000000000
+      internalID: -4578713942576025773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1538
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431d77a9cd6d1070800000000000000
+      internalID: 8078734019438383947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1538
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb52997e35238d50800000000000000
+      internalID: 6738270417734228982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1537
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660e1de9e312be40800000000000000
+      internalID: 5670616776239351396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1536
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9ac720c0f49d660800000000000000
+      internalID: 7411041574814788043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c983729d7cbf50800000000000000
+      internalID: 6898526797181862127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e171daa17a3010800000000000000
+      internalID: 1169372031728345797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1537
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5556628a99fa750800000000000000
+      internalID: 6318437749701826007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1536
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb90323c40539310800000000000000
+      internalID: 1410559396486880255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1537
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e5c6e6465a6a00800000000000000
+      internalID: 750507150430036735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1473
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664054696a0f2aa0800000000000000
+      internalID: -6183712315585575323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1473
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866c4a1711f332e0800000000000000
+      internalID: -2147107515797838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1474
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15095d23bcd1da1b0800000000000000
+      internalID: -5643821999456939951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_73
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1474
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc9b48d1006457e0800000000000000
+      internalID: -1777690391864435517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1473
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc5c2aba3ccbea0800000000000000
+      internalID: -5855590273550791532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_75
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1473
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1cd9ae6323cc30800000000000000
+      internalID: 4378382220937402905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1473
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53082604c603cbae0800000000000000
+      internalID: -1532296531718012875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1473
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca38497a5f77ff0800000000000000
+      internalID: -38291971709359026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_78
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1473
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f83bc48d0255370800000000000000
+      internalID: 8310584800753979203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_79
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1409
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b2adaf3c77dfc0800000000000000
+      internalID: -3470168374927773047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1409
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629191aa644388ec0800000000000000
+      internalID: -3564541626957620954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67759e7f6b6027db0800000000000000
+      internalID: -4795763270283077770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1407
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5772ddfd1bace420800000000000000
+      internalID: 2660689625169950559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f56b81590670a0800000000000000
+      internalID: -6884304734553508541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1409
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90ca9b000bd0160800000000000000
+      internalID: 6993439313537796545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1408
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1fc560db456950800000000000000
+      internalID: 6441638200456715960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1408
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7a9a9a48df9e80800000000000000
+      internalID: -8169573384093794854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1408
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3796d7edcec6ed460800000000000000
+      internalID: 7268366613223401843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1345
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6c5350c137cb90800000000000000
+      internalID: -7221748775363253601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1345
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42c7cce53129f70800000000000000
+      internalID: 9192431087295145167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1346
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638a40b329e24270800000000000000
+      internalID: 8233399408277488480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1346
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cd69d82e1acccd0800000000000000
+      internalID: -2536474495706276755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1345
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f67dd098c2ce50c0800000000000000
+      internalID: -4585013203936905479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1345
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d253922cc25fbd0800000000000000
+      internalID: -2597120397682594449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1345
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f838252f6cd532640800000000000000
+      internalID: 5053986315890230159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_95
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1345
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc9ce37f7871e550800000000000000
+      internalID: 6188359851784838384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_96
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1345
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18615aeb4a92d5570800000000000000
+      internalID: 8456961462821525121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1281
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d323f7445b1a6490800000000000000
+      internalID: -7752353759766567978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4744fa0023db2fc0800000000000000
+      internalID: -3518486549283715249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659fe463f77539d0800000000000000
+      internalID: -2795196106459343511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1280
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f86ce9d5134830800000000000000
+      internalID: 4054108115281965260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120f21ec38762a9e0800000000000000
+      internalID: -1611611900849491935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_102
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdcf83ea14c2ff0800000000000000
+      internalID: -59600478526447647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1216
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b364015bddb44370800000000000000
+      internalID: 8305972362432766903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2aba759bb4246a0800000000000000
+      internalID: -6466522855538711899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241b56e2c76611d0800000000000000
+      internalID: -3380400383508933598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1216
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e21758d027ecfa0800000000000000
+      internalID: -5778555869470839166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901caa924aefd4c0800000000000000
+      internalID: -4260429150685491045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1216
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b01fba5567761190800000000000000
+      internalID: -7992069211524493134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1152
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e8b0a926dd77100800000000000000
+      internalID: 105796531827478148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1152
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcacf02ae884eead0800000000000000
+      internalID: -2671117751542625589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_111
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1751128391408d40800000000000000
+      internalID: 5584535639737587485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1152
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739a4e4c273bf550800000000000000
+      internalID: 6195606375809848187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1152
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e158a0626f24fe0800000000000000
+      internalID: -1206131106936185259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1152
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f33d3134b13ae20800000000000000
+      internalID: 3360559721857892146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1089
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c21b620d6fbb4cc0800000000000000
+      internalID: -3725673791806041405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_116
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1089
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d715a16e53b89c0800000000000000
+      internalID: -3923983387922956952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1089
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d371939c326bd0800000000000000
+      internalID: -2638479827187543571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36e2400fbae77e0800000000000000
+      internalID: -1765784956532005972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_119
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71604058821a4d4d0800000000000000
+      internalID: -3110684247203772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe933107d1a804c0800000000000000
+      internalID: -4321025897651790145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1025
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101cb59c5f85c1be0800000000000000
+      internalID: -1505230362780122879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e05eab739b9c60800000000000000
+      internalID: 7826010936901166854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_123
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ee3673e6ab57d0800000000000000
+      internalID: -2928563636802755718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1023
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694eb8483ac6e6d10800000000000000
+      internalID: 2120751924097311894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d50af6038d4550800000000000000
+      internalID: 6146713132418323938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bedaaf18f4dda50800000000000000
+      internalID: 6547476852941646682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456973843fb33c980800000000000000
+      internalID: -8519900153980152236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_128
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475de032fe441a350800000000000000
+      internalID: 6026173570274481524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_129
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1023
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9d0b0f4d31d1b0800000000000000
+      internalID: -5633654249166627382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_130
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6718b8a2288c8ab0800000000000000
+      internalID: -5004475403474561172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_131
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1023
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01415764d030b2440800000000000000
+      internalID: 4912023174129194000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_132
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1023
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb9c23570dbaad0800000000000000
+      internalID: -2689827150641906718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_133
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1023
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102a4df6744b5680800000000000000
+      internalID: -8765336971900215280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 961
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717d52be18708f40800000000000000
+      internalID: 5728710799252091250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0662847735f5980800000000000000
+      internalID: -8548021795949223701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1683f9aefa1ab00800000000000000
+      internalID: 838144427896103385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393420488ac99300800000000000000
+      internalID: 259461140090992957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2855a32fab03950800000000000000
+      internalID: 6426842217781232371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8083073a5675e500800000000000000
+      internalID: 424875869698490509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0e04c9b67ecef40800000000000000
+      internalID: 5759232472869036268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484fe53cbd5049c00800000000000000
+      internalID: 906355866442069124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84db4626cada3bf0800000000000000
+      internalID: -343721876959538038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ac97968f9ce1f90800000000000000
+      internalID: -6980920303619028350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_144
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c96a9adf3eea520800000000000000
+      internalID: 2715358303963487315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_145
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110fac3fc7a6b2b0800000000000000
+      internalID: -5569079380678868718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_146
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d0fe7a2c302e240800000000000000
+      internalID: 4819418685815852378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 897
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998da30da4b125e0800000000000000
+      internalID: -1936067709608556129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 898
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89829be06f8f16bf0800000000000000
+      internalID: -332711161756047208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d136889c11c3f8c0800000000000000
+      internalID: -3966614518221098537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ec1487fa7663d0800000000000000
+      internalID: -3213746080590272542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58382f6431425960800000000000000
+      internalID: 7589200015531718747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_152
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fab244505e4dd70800000000000000
+      internalID: 9067123760584961951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_153
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b178420256ee2f70800000000000000
+      internalID: 9164515531645546933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d437bc2165ae810800000000000000
+      internalID: 1795342040183295343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01dbd11bda68650800000000000000
+      internalID: 6234861710360776927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_156
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 897
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca942d6312cee1d0800000000000000
+      internalID: -3319502486634194231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b014315415b650800000000000000
+      internalID: 6247922397044847571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_158
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 897
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b6f7b75c189f3b0800000000000000
+      internalID: -5478204786539009167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5183f634258f6c20800000000000000
+      internalID: 3201924250670956890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 833
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0f6f51863c34c0800000000000000
+      internalID: -4306507214393242830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_161
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 833
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf707cf5143fb0d0800000000000000
+      internalID: -3404945524234616915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_162
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 833
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320e764fafbde1e0800000000000000
+      internalID: -2166865086172495303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0179ae143c0a60800000000000000
+      internalID: 7641539974037310708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19015b661551e100800000000000000
+      internalID: 135483018575939871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_165
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 833
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679773082b3f3a500800000000000000
+      internalID: 406436339374324086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_166
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 833
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739663684bf1ce790800000000000000
+      internalID: -7499584419272431305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec369073d1c9fb540800000000000000
+      internalID: 5025907358460109774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e6cf4146cef0d0800000000000000
+      internalID: -3387051885922425207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780fba6cdb8db8820800000000000000
+      internalID: 2921667092873474183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_170
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 833
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb9c1bda51d65b0800000000000000
+      internalID: -5373614944626820245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_171
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 833
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063460990b5ed1350800000000000000
+      internalID: 5989195626116957024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_172
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 833
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e060ccc4306052570800000000000000
+      internalID: 8441159687818970638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_173
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 769
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05ed6628b2bffa0800000000000000
+      internalID: -5765967058846199621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_174
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacdc82ef50c88a40800000000000000
+      internalID: 5370754073694624942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_175
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 769
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9fccb989296900800000000000000
+      internalID: 678118890450951925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_176
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 767
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400d3e0dc04f6db0800000000000000
+      internalID: -4796543828674936764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_177
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 767
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ce12f6dce487f0800000000000000
+      internalID: -611103241486284370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa9b14f2674b4f0800000000000000
+      internalID: -813895687308989895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_179
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 767
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31d69439af0ba8d0800000000000000
+      internalID: -2834154321093406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_180
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 768
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446c166b1cc8dcd0800000000000000
+      internalID: -2533050372346583996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_181
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 767
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd3d7bfed814120800000000000000
+      internalID: 2396352537458630521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_182
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 767
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d1b1a9f658ffa0800000000000000
+      internalID: -5766763692688288370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_183
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 641
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243a758b09ce4100800000000000000
+      internalID: 94233693542560812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_184
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 640
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dac4228bb81ad40800000000000000
+      internalID: 5593905835136560417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_185
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 640
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410c500889ae384d0800000000000000
+      internalID: -3133402975015944172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_186
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31ffae5771d8930800000000000000
+      internalID: 4146996627099292664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_187
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 640
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1bc325f81a7780800000000000000
+      internalID: -8684601490284013001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_188
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041b24995b739b80800000000000000
+      internalID: -8389226056192945146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_189
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 446
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a8f288dffdc340800000000000000
+      internalID: 4885842476142207462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_190
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 449
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9b0e399af7f290800000000000000
+      internalID: -7856535488846652320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_191
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 449
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544fd32ee60aa9880800000000000000
+      internalID: -8603387740035353531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_192
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 449
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4786bae795514ef40800000000000000
+      internalID: 5756749697807771764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_193
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 449
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810cfc6150dc2850800000000000000
+      internalID: 6353682222452310400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_194
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 449
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5be451b8147220800000000000000
+      internalID: 2482636444500974721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_195
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 254
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c98192e71d6cdd0800000000000000
+      internalID: -2466053406153204684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_196
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826968a7d07e68e0800000000000000
+      internalID: -1698295937926339955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_197
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 257
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5c3b8ca3d14650800000000000000
+      internalID: 6215481698771819822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_198
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 257
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08404e92d800c80800000000000000
+      internalID: -8358525697340964700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_199
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 236
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28907b016673f8080800000000000000
+      internalID: -9183060203678529150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_200
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 239
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8a8acc34ef23f0800000000000000
+      internalID: -923268448840413437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 61
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a1a4a80404a4b0800000000000000
+      internalID: -5430210815533670082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_202
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 64
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0717b0be65ca3c0800000000000000
+      internalID: -4347003972810084127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_203
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1339ac3cfa4d30800000000000000
+      internalID: 4416619722057129662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_204
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4d5e6fdbad1f20800000000000000
+      internalID: 3395058670224887801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_205
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 64
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323bb46dbe808190800000000000000
+      internalID: -7962207197101084110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caesar_206
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 64
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d529264c86a3e1170800000000000000
+      internalID: 8151016597232980573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

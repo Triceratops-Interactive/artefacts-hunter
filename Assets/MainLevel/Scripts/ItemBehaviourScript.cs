@@ -4,14 +4,14 @@ using UnityEngine.Experimental.Rendering.Universal;
 
 public class ItemBehaviourScript : DialogueBehaviour
 {
-    [SerializeField] private DialogueElement[] beforeFirstMinigameTalk;
+    [SerializeField] private DialogueElement[] itemFoundDialogue;
     [SerializeField] private String itemToActivate = "";
 
     private bool boost_enabled = false;
 
     public override (DialogueElement[] dialogue, Action callback) GiveDialogue()
     {
-        return (beforeFirstMinigameTalk, activateItem);
+        return (itemFoundDialogue, activateItem);
     }
 
     private void activateItem()

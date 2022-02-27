@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3631830063129451626}
   - component: {fileID: 3631830063129451627}
   - component: {fileID: 3631830063129451628}
-  - component: {fileID: 3631830063129451629}
+  - component: {fileID: 2782563915282735772}
   m_Layer: 0
   m_Name: mummy
   m_TagString: Untagged
@@ -126,7 +126,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.6}
   m_EdgeRadius: 0
---- !u!114 &3631830063129451629
+--- !u!114 &2782563915282735772
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,12 +135,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 3631830063129451624}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24d1d52b8cd1d424db31b79f15bd9b2b, type: 3}
+  m_Script: {fileID: 11500000, guid: d2058870df77a4740824184d069f64d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   left: {fileID: 21300000, guid: ecfbe4fb1bd1c2f4eb79f7382bc5ab48, type: 3}
   right: {fileID: 21300000, guid: 9325ee25801b01b43a3ae63ab23c6361, type: 3}
   up: {fileID: 21300000, guid: aa603879d1d14344b94feb2a1cfab661, type: 3}
   down: {fileID: 21300000, guid: 1ff2a7ec479c6064698a02920bc0128d, type: 3}
-  SpriteChangeX_threshold: 0.3
-  SpriteChangeY_threshold: 0.3
+  SpriteChangeX_threshold: 2.5
+  SpriteChangeY_threshold: 2.5

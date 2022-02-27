@@ -1,7 +1,613 @@
 fileFormatVersion: 2
 guid: 7dd9f8a67925d5443ae5794ef1490327
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8892332137794634016
+    second: jill-sword_0
+  - first:
+      213: -3574009550413702014
+    second: jill-sword_1
+  - first:
+      213: 8868613595393999886
+    second: jill-sword_2
+  - first:
+      213: -3548142869808918986
+    second: jill-sword_3
+  - first:
+      213: -8964399193840473504
+    second: jill-sword_4
+  - first:
+      213: -673307024057217469
+    second: jill-sword_5
+  - first:
+      213: -1627260239912768241
+    second: jill-sword_6
+  - first:
+      213: 4096813002333779158
+    second: jill-sword_7
+  - first:
+      213: -1520900826407817967
+    second: jill-sword_8
+  - first:
+      213: 9207540471490230351
+    second: jill-sword_9
+  - first:
+      213: 3272613535862609468
+    second: jill-sword_10
+  - first:
+      213: -4118153805094790194
+    second: jill-sword_11
+  - first:
+      213: 222771002895514382
+    second: jill-sword_12
+  - first:
+      213: -2125365846260730649
+    second: jill-sword_13
+  - first:
+      213: -4089508333341662943
+    second: jill-sword_14
+  - first:
+      213: -5330079186224562271
+    second: jill-sword_15
+  - first:
+      213: 811026493168845452
+    second: jill-sword_16
+  - first:
+      213: -280938826493790083
+    second: jill-sword_17
+  - first:
+      213: 921646774319489597
+    second: jill-sword_18
+  - first:
+      213: 4955073671260788761
+    second: jill-sword_19
+  - first:
+      213: -2222875040931771973
+    second: jill-sword_20
+  - first:
+      213: 6358867146172778479
+    second: jill-sword_21
+  - first:
+      213: -1091773713116890119
+    second: jill-sword_22
+  - first:
+      213: 5221641384304092198
+    second: jill-sword_23
+  - first:
+      213: 8206024460784811586
+    second: jill-sword_24
+  - first:
+      213: -4854690608356124776
+    second: jill-sword_25
+  - first:
+      213: 8284430315178944330
+    second: jill-sword_26
+  - first:
+      213: 8890845568896551419
+    second: jill-sword_27
+  - first:
+      213: -4358447431238737450
+    second: jill-sword_28
+  - first:
+      213: 4648741320729051376
+    second: jill-sword_29
+  - first:
+      213: -4750448527129000210
+    second: jill-sword_30
+  - first:
+      213: -4077967265727107071
+    second: jill-sword_31
+  - first:
+      213: 3089931589285826491
+    second: jill-sword_32
+  - first:
+      213: -63644384681614953
+    second: jill-sword_33
+  - first:
+      213: -1263677103567184198
+    second: jill-sword_34
+  - first:
+      213: 6920795073830404375
+    second: jill-sword_35
+  - first:
+      213: -2647051173803237270
+    second: jill-sword_36
+  - first:
+      213: -3133052196414461049
+    second: jill-sword_37
+  - first:
+      213: -4709057222627510985
+    second: jill-sword_38
+  - first:
+      213: -8848101378894351538
+    second: jill-sword_39
+  - first:
+      213: -3943813179682117061
+    second: jill-sword_40
+  - first:
+      213: 8607917496653595036
+    second: jill-sword_41
+  - first:
+      213: 1400136535916494949
+    second: jill-sword_42
+  - first:
+      213: -3104313898455869960
+    second: jill-sword_43
+  - first:
+      213: -4695685192520182697
+    second: jill-sword_44
+  - first:
+      213: 6510326401785211369
+    second: jill-sword_45
+  - first:
+      213: 29994121553828401
+    second: jill-sword_46
+  - first:
+      213: -1560252018029944794
+    second: jill-sword_47
+  - first:
+      213: 3104876839463917176
+    second: jill-sword_48
+  - first:
+      213: 899829950017748674
+    second: jill-sword_49
+  - first:
+      213: -2575403785134218376
+    second: jill-sword_50
+  - first:
+      213: 5681656628667545070
+    second: jill-sword_51
+  - first:
+      213: -3980770588100169165
+    second: jill-sword_52
+  - first:
+      213: -6629125442979734880
+    second: jill-sword_53
+  - first:
+      213: 8458899912513886209
+    second: jill-sword_54
+  - first:
+      213: -6893771569041258714
+    second: jill-sword_55
+  - first:
+      213: -8720233332198272102
+    second: jill-sword_56
+  - first:
+      213: -1521989198580713314
+    second: jill-sword_57
+  - first:
+      213: -4239348691494247282
+    second: jill-sword_58
+  - first:
+      213: 768667551447873519
+    second: jill-sword_59
+  - first:
+      213: -6911037978391539024
+    second: jill-sword_60
+  - first:
+      213: -3244604342201666635
+    second: jill-sword_61
+  - first:
+      213: -6457307891730763119
+    second: jill-sword_62
+  - first:
+      213: -2402796773655193070
+    second: jill-sword_63
+  - first:
+      213: 4031236246687780663
+    second: jill-sword_64
+  - first:
+      213: -8078971489590378457
+    second: jill-sword_65
+  - first:
+      213: 5573164802743753602
+    second: jill-sword_66
+  - first:
+      213: 3109790882790320239
+    second: jill-sword_67
+  - first:
+      213: 4119277933885944952
+    second: jill-sword_68
+  - first:
+      213: -3904893129588458309
+    second: jill-sword_69
+  - first:
+      213: 5026000889013634369
+    second: jill-sword_70
+  - first:
+      213: -4873434081799533043
+    second: jill-sword_71
+  - first:
+      213: -7266367137685731545
+    second: jill-sword_72
+  - first:
+      213: 4545562225540096487
+    second: jill-sword_73
+  - first:
+      213: 8020618761472645735
+    second: jill-sword_74
+  - first:
+      213: 4516956140411464775
+    second: jill-sword_75
+  - first:
+      213: 437522813502415252
+    second: jill-sword_76
+  - first:
+      213: -7248810330511459191
+    second: jill-sword_77
+  - first:
+      213: 5603426464554872402
+    second: jill-sword_78
+  - first:
+      213: -4334107779949823911
+    second: jill-sword_79
+  - first:
+      213: -6468576502139764508
+    second: jill-sword_80
+  - first:
+      213: -4397643827266688334
+    second: jill-sword_81
+  - first:
+      213: 4707441363929236825
+    second: jill-sword_82
+  - first:
+      213: 7926977439193152169
+    second: jill-sword_83
+  - first:
+      213: -6054581293963509427
+    second: jill-sword_84
+  - first:
+      213: -4855914732305055635
+    second: jill-sword_85
+  - first:
+      213: -3565832038970159714
+    second: jill-sword_86
+  - first:
+      213: -7779768793666670359
+    second: jill-sword_87
+  - first:
+      213: 9159626673328703610
+    second: jill-sword_88
+  - first:
+      213: 3880806147654492421
+    second: jill-sword_89
+  - first:
+      213: 4133091845107661897
+    second: jill-sword_90
+  - first:
+      213: 4996314893491213862
+    second: jill-sword_91
+  - first:
+      213: 1088319207311024334
+    second: jill-sword_92
+  - first:
+      213: 5038529569596958721
+    second: jill-sword_93
+  - first:
+      213: -1497038422550695983
+    second: jill-sword_94
+  - first:
+      213: -3063192871539641440
+    second: jill-sword_95
+  - first:
+      213: 288946407610199702
+    second: jill-sword_96
+  - first:
+      213: -8891453275248910224
+    second: jill-sword_97
+  - first:
+      213: 8357730444237710498
+    second: jill-sword_98
+  - first:
+      213: 5651007694782902750
+    second: jill-sword_99
+  - first:
+      213: -5052706026700867567
+    second: jill-sword_100
+  - first:
+      213: -7967932864161123708
+    second: jill-sword_101
+  - first:
+      213: 5631496963042154671
+    second: jill-sword_102
+  - first:
+      213: 1990650387882557805
+    second: jill-sword_103
+  - first:
+      213: 9174927265080523066
+    second: jill-sword_104
+  - first:
+      213: 3993130343039724093
+    second: jill-sword_105
+  - first:
+      213: 6280793686322572423
+    second: jill-sword_106
+  - first:
+      213: 2530114929047443500
+    second: jill-sword_107
+  - first:
+      213: 2877890210682159136
+    second: jill-sword_108
+  - first:
+      213: 2524220146049856374
+    second: jill-sword_109
+  - first:
+      213: -1887952542607434125
+    second: jill-sword_110
+  - first:
+      213: -4128410541080256246
+    second: jill-sword_111
+  - first:
+      213: -8016682896032042121
+    second: jill-sword_112
+  - first:
+      213: 3405974178818372227
+    second: jill-sword_113
+  - first:
+      213: 6133830559741942464
+    second: jill-sword_114
+  - first:
+      213: 8603161551186029032
+    second: jill-sword_115
+  - first:
+      213: -1463326933391592650
+    second: jill-sword_116
+  - first:
+      213: -1814136722582895122
+    second: jill-sword_117
+  - first:
+      213: -7907916450069914441
+    second: jill-sword_118
+  - first:
+      213: 4495984683532368871
+    second: jill-sword_119
+  - first:
+      213: 6416931810605563564
+    second: jill-sword_120
+  - first:
+      213: -4421610144234615524
+    second: jill-sword_121
+  - first:
+      213: 1568268767519728535
+    second: jill-sword_122
+  - first:
+      213: 8747805572412726392
+    second: jill-sword_123
+  - first:
+      213: -4073266690229252222
+    second: jill-sword_124
+  - first:
+      213: -856054216019167632
+    second: jill-sword_125
+  - first:
+      213: 4856590283227617124
+    second: jill-sword_126
+  - first:
+      213: -7409534497011349022
+    second: jill-sword_127
+  - first:
+      213: -1920736652765041478
+    second: jill-sword_128
+  - first:
+      213: -2151075675603838173
+    second: jill-sword_129
+  - first:
+      213: -5311670296486443641
+    second: jill-sword_130
+  - first:
+      213: 6493170511516422046
+    second: jill-sword_131
+  - first:
+      213: 3322834539155211285
+    second: jill-sword_132
+  - first:
+      213: -8049369120783044244
+    second: jill-sword_133
+  - first:
+      213: 7050389566806669732
+    second: jill-sword_134
+  - first:
+      213: -6191384773373167445
+    second: jill-sword_135
+  - first:
+      213: 90057761679664482
+    second: jill-sword_136
+  - first:
+      213: -3551807051771770812
+    second: jill-sword_137
+  - first:
+      213: 1625225597013438913
+    second: jill-sword_138
+  - first:
+      213: -5964495940296038215
+    second: jill-sword_139
+  - first:
+      213: -6728179883982030954
+    second: jill-sword_140
+  - first:
+      213: -5372569066865439193
+    second: jill-sword_141
+  - first:
+      213: -5109956380104721941
+    second: jill-sword_142
+  - first:
+      213: -6597993774593355396
+    second: jill-sword_143
+  - first:
+      213: -1253460513369578112
+    second: jill-sword_144
+  - first:
+      213: 1931579362882916300
+    second: jill-sword_145
+  - first:
+      213: -6917720476929278639
+    second: jill-sword_146
+  - first:
+      213: 2527293362496279822
+    second: jill-sword_147
+  - first:
+      213: 900822460391950802
+    second: jill-sword_148
+  - first:
+      213: -8674921930169269277
+    second: jill-sword_149
+  - first:
+      213: -4928338290233000423
+    second: jill-sword_150
+  - first:
+      213: -7075786929349352145
+    second: jill-sword_151
+  - first:
+      213: 1971029245133713749
+    second: jill-sword_152
+  - first:
+      213: -7380797917022382941
+    second: jill-sword_153
+  - first:
+      213: -2684192361212063126
+    second: jill-sword_154
+  - first:
+      213: 1289570854676292980
+    second: jill-sword_155
+  - first:
+      213: -5844553343004627849
+    second: jill-sword_156
+  - first:
+      213: -1434632008034696509
+    second: jill-sword_157
+  - first:
+      213: -93024226564916056
+    second: jill-sword_158
+  - first:
+      213: 7654119067485618995
+    second: jill-sword_159
+  - first:
+      213: -6473781901595611762
+    second: jill-sword_160
+  - first:
+      213: 5304467312932325813
+    second: jill-sword_161
+  - first:
+      213: -4280570494186692039
+    second: jill-sword_162
+  - first:
+      213: -5406407152126061067
+    second: jill-sword_163
+  - first:
+      213: -7494379196888420632
+    second: jill-sword_164
+  - first:
+      213: 215491708427352418
+    second: jill-sword_165
+  - first:
+      213: 3258377593811767457
+    second: jill-sword_166
+  - first:
+      213: 5916392331506924153
+    second: jill-sword_167
+  - first:
+      213: 7178012752007136508
+    second: jill-sword_168
+  - first:
+      213: -1965505465266225828
+    second: jill-sword_169
+  - first:
+      213: -2431633621817339908
+    second: jill-sword_170
+  - first:
+      213: -4665474122464041069
+    second: jill-sword_171
+  - first:
+      213: 736409439218997143
+    second: jill-sword_172
+  - first:
+      213: -7929053299374122863
+    second: jill-sword_173
+  - first:
+      213: -1760689766370336169
+    second: jill-sword_174
+  - first:
+      213: -3942653616801300856
+    second: jill-sword_175
+  - first:
+      213: 6004046066679338322
+    second: jill-sword_176
+  - first:
+      213: -5786807603785913492
+    second: jill-sword_177
+  - first:
+      213: -5339586008043242579
+    second: jill-sword_178
+  - first:
+      213: -834111019915287406
+    second: jill-sword_179
+  - first:
+      213: 3120912165012455559
+    second: jill-sword_180
+  - first:
+      213: 5227494728878009163
+    second: jill-sword_181
+  - first:
+      213: -3083669146182798716
+    second: jill-sword_182
+  - first:
+      213: -6555054692318854719
+    second: jill-sword_183
+  - first:
+      213: 5030333453335535713
+    second: jill-sword_184
+  - first:
+      213: 8587040045838941120
+    second: jill-sword_185
+  - first:
+      213: 7992611858518313993
+    second: jill-sword_186
+  - first:
+      213: 8674252906996349818
+    second: jill-sword_187
+  - first:
+      213: 6732185106429645547
+    second: jill-sword_188
+  - first:
+      213: -8176162123205886187
+    second: jill-sword_189
+  - first:
+      213: -5801519937246145257
+    second: jill-sword_190
+  - first:
+      213: -890969219354261756
+    second: jill-sword_191
+  - first:
+      213: -4694606087248758789
+    second: jill-sword_192
+  - first:
+      213: -5369848635221192068
+    second: jill-sword_193
+  - first:
+      213: 5595461896060950587
+    second: jill-sword_194
+  - first:
+      213: 824965779304588017
+    second: jill-sword_195
+  - first:
+      213: -8077083859538568889
+    second: jill-sword_196
+  - first:
+      213: 192689087201247424
+    second: jill-sword_197
+  - first:
+      213: 6032224368758500512
+    second: jill-sword_198
+  - first:
+      213: 8963339125590644203
+    second: jill-sword_199
+  - first:
+      213: 7047701838023987595
+    second: jill-sword_200
+  - first:
+      213: -27089963136290228
+    second: jill-sword_201
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +638,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +647,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +681,4263 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: jill-sword_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2049
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210a0a37f8e76b70800000000000000
+      internalID: 8892332137794634016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2049
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cdcb3ff31966ec0800000000000000
+      internalID: -3574009550413702014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2049
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c8abb315a31b70800000000000000
+      internalID: 8868613595393999886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2049
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e44b8dbd672cec0800000000000000
+      internalID: -3548142869808918986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2049
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a275abd6e089380800000000000000
+      internalID: -8964399193840473504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2049
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e4b4634dee7a6f0800000000000000
+      internalID: -673307024057217469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2049
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de1e2fe6fca69e0800000000000000
+      internalID: -1627260239912768241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1985
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47e4348bdcad830800000000000000
+      internalID: 4096813002333779158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1985
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2d57a1cca4eae0800000000000000
+      internalID: -1520900826407817967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1985
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4835327641c7cf70800000000000000
+      internalID: 9207540471490230351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1985
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d93cfba8aa6d20800000000000000
+      internalID: 3272613535862609468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd6e4eee069d6c0800000000000000
+      internalID: -4118153805094790194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b38ddfb01771300800000000000000
+      internalID: 222771002895514382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1985
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b1e3060f2182e0800000000000000
+      internalID: -2125365846260730649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1921
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ab2586d52f37c0800000000000000
+      internalID: -4089508333341662943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1921
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb1685831c706b0800000000000000
+      internalID: -5330079186224562271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1921
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8282cc6c48514b00800000000000000
+      internalID: 811026493168845452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1921
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f83330a7e91cf0800000000000000
+      internalID: -280938826493790083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1921
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a2bfabd85acc00800000000000000
+      internalID: 921646774319489597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1921
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d36b3045f3c440800000000000000
+      internalID: 4955073671260788761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1921
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90e257de2c621e0800000000000000
+      internalID: -2222875040931771973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1857
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c78d8afb3f3850800000000000000
+      internalID: 6358867146172778479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1857
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfe86a79d39d0f0800000000000000
+      internalID: -1091773713116890119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1857
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624acef6c2ff67840800000000000000
+      internalID: 5221641384304092198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1857
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ebe3b05c7a1e170800000000000000
+      internalID: 8206024460784811586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1857
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897128aec9ca0acb0800000000000000
+      internalID: -4854690608356124776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1857
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e7b69a7538f270800000000000000
+      internalID: 8284430315178944330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1857
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94fee60f0a26b70800000000000000
+      internalID: 8890845568896551419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1792
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12dc0472fa383c0800000000000000
+      internalID: -4358447431238737450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1791
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04cb2e995a38040800000000000000
+      internalID: 4648741320729051376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c2b8cb34031eb0800000000000000
+      internalID: -4750448527129000210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1003aa8b0662867c0800000000000000
+      internalID: -4077967265727107071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc3a7c864a1ea20800000000000000
+      internalID: 3089931589285826491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791aa13f4c3ed1ff0800000000000000
+      internalID: -63644384681614953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe551b9e54867ee0800000000000000
+      internalID: -1263677103567184198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1791
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114fe2a37a9b0060800000000000000
+      internalID: 6920795073830404375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1729
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606d2b6bf8c34bd0800000000000000
+      internalID: -2647051173803237270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1729
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b65f180a92584d0800000000000000
+      internalID: -3133052196414461049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735bc4ad76116aeb0800000000000000
+      internalID: -4709057222627510985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1729
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43bb56dcaa353580800000000000000
+      internalID: -8848101378894351538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a2b8ceec2c449c0800000000000000
+      internalID: -3943813179682117061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9148e34b57757770800000000000000
+      internalID: 8607917496653595036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560495cd2c84e6310800000000000000
+      internalID: 1400136535916494949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1729
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5da3be4f24be4d0800000000000000
+      internalID: -3104313898455869960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1665
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d5ca323395deb0800000000000000
+      internalID: -4695685192520182697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1665
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e921468e53595a50800000000000000
+      internalID: 6510326401785211369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1667
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad090ae7f8a6000800000000000000
+      internalID: 29994121553828401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1667
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202d316e0fd85ae0800000000000000
+      internalID: -1560252018029944794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1667
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876959ff80db61b20800000000000000
+      internalID: 3104876839463917176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1667
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb0117296dc7c00800000000000000
+      internalID: 899829950017748674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1667
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e0e907e3524cd0800000000000000
+      internalID: -2575403785134218376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1667
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f87fd99c49de40800000000000000
+      internalID: 5681656628667545070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1602
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33277fbbd3671c8c0800000000000000
+      internalID: -3980770588100169165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1602
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa50bf388d9004a0800000000000000
+      internalID: -6629125442979734880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1602
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10819fb37ac046570800000000000000
+      internalID: 8458899912513886209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1602
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627cb9068476450a0800000000000000
+      internalID: -6893771569041258714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1602
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931dc37cf18bf680800000000000000
+      internalID: -8720233332198272102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1602
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987d9243eec0eae0800000000000000
+      internalID: -1521989198580713314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1602
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e77c73deca25c0800000000000000
+      internalID: -4239348691494247282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1602
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77b62c01bdaaa00800000000000000
+      internalID: 768667551447873519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1538
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b21dbc239f0710a0800000000000000
+      internalID: -6911037978391539024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1538
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3316a9a89d8f2d0800000000000000
+      internalID: -3244604342201666635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1537
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192bf0c4fa80366a0800000000000000
+      internalID: -6457307891730763119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1536
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ad3de901d87aed0800000000000000
+      internalID: -2402796773655193070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1537
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f01890204d1f730800000000000000
+      internalID: 4031236246687780663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1538
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72005740c3ab1ef80800000000000000
+      internalID: -8078971489590378457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1537
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b50463cdbd75d40800000000000000
+      internalID: 5573164802743753602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1536
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68277ed452382b20800000000000000
+      internalID: 3109790882790320239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1537
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874706cb47d9a2930800000000000000
+      internalID: 4119277933885944952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1474
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc340d33680fc9c0800000000000000
+      internalID: -3904893129588458309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1474
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145847efd21ffb540800000000000000
+      internalID: 5026000889013634369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1475
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8e0ee5851e5cb0800000000000000
+      internalID: -4873434081799533043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1475
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7278bae469da82b90800000000000000
+      internalID: -7266367137685731545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1474
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e160cdb2c4151f30800000000000000
+      internalID: 4545562225540096487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1474
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a196cb446fe4f60800000000000000
+      internalID: 8020618761472645735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1474
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cae378da37fae30800000000000000
+      internalID: 4516956140411464775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_76
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1474
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e0f74ea4621600800000000000000
+      internalID: 437522813502415252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1474
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cbea5096d076b90800000000000000
+      internalID: -7248810330511459191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1410
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee0d86eae53cd40800000000000000
+      internalID: 5603426464554872402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1410
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95875ddefe72ad3c0800000000000000
+      internalID: -4334107779949823911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1409
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0458b71fffa36a0800000000000000
+      internalID: -6468576502139764508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1408
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba64132d3e68f2c0800000000000000
+      internalID: -4397643827266688334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1409
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9558bf9baf0345140800000000000000
+      internalID: 4707441363929236825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1410
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab4a56bf7420e60800000000000000
+      internalID: 7926977439193152169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1409
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d418495446ec9fba0800000000000000
+      internalID: -6054581293963509427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1409
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d600f5957435c9cb0800000000000000
+      internalID: -4855914732305055635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1409
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0a7437ae938ec0800000000000000
+      internalID: -3565832038970159714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1346
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e034da4085b80490800000000000000
+      internalID: -7779768793666670359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1346
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7843fafde78d1f70800000000000000
+      internalID: 9159626673328703610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1347
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501291141a46bd530800000000000000
+      internalID: 3880806147654492421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1347
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cb4b39221bb5930800000000000000
+      internalID: 4133091845107661897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1346
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626998c8ce9765540800000000000000
+      internalID: 4996314893491213862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1346
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0220a8d8c7a1f00800000000000000
+      internalID: 1088319207311024334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1343
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e022c2f37ce540800000000000000
+      internalID: 5038529569596958721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1346
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df21c08c73793be0800000000000000
+      internalID: -1497038422550695983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1346
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3fe55105a5d75d0800000000000000
+      internalID: -3063192871539641440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2bb01a3b820400800000000000000
+      internalID: 288946407610199702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702ec7ea563b9480800000000000000
+      internalID: -8891453275248910224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1282
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a141de8f9cf370800000000000000
+      internalID: 8357730444237710498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1282
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b88ede896c6e40800000000000000
+      internalID: 5651007694782902750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1282
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118f40c93ae21e9b0800000000000000
+      internalID: -5052706026700867567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1276
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f385a6473c6190800000000000000
+      internalID: -7967932864161123708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1217
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa891d3a6a8172e40800000000000000
+      internalID: 5631496963042154671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1217
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61cbb91bf530ab10800000000000000
+      internalID: 1990650387882557805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1217
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39bb2b9cb3e35f70800000000000000
+      internalID: 9174927265080523066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1217
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a67b6f3e27a6730800000000000000
+      internalID: 3993130343039724093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1217
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ce5c4a49cd92750800000000000000
+      internalID: 6280793686322572423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1217
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2819c27f16cc1320800000000000000
+      internalID: 2530114929047443500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1153
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c84e16e150f720800000000000000
+      internalID: 2877890210682159136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1153
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673bf2459d4d70320800000000000000
+      internalID: 2524220146049856374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1153
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e96115a25acc5e0800000000000000
+      internalID: -1887952542607434125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1153
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01eee37c70f4b6c0800000000000000
+      internalID: -4128410541080256246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1153
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737f0951650fb090800000000000000
+      internalID: -8016682896032042121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1153
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3823f925873744f20800000000000000
+      internalID: 3405974178818372227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9ad9456ebf1550800000000000000
+      internalID: 6133830559741942464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9edbb69d1946770800000000000000
+      internalID: 8603161551186029032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1089
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633bee838e731bbe0800000000000000
+      internalID: -1463326933391592650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1089
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee584743344e2d6e0800000000000000
+      internalID: -1814136722582895122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5d18f2ef614290800000000000000
+      internalID: -7907916450069914441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3b89bf32f46e30800000000000000
+      internalID: 4495984683532368871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1025
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7c0fbb758d0950800000000000000
+      internalID: 6416931810605563564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc1a1200943a2c0800000000000000
+      internalID: -4421610144234615524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936a50922c93c510800000000000000
+      internalID: 1568268767519728535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1023
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd7dbf1d2766970800000000000000
+      internalID: 8747805572412726392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f447db689d877c0800000000000000
+      internalID: -4073266690229252222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b3b1e93fae14f0800000000000000
+      internalID: -856054216019167632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467556b9123166340800000000000000
+      internalID: 4856590283227617124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9c2a2e1ab0c2990800000000000000
+      internalID: -7409534497011349022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcedd8d03c2855e0800000000000000
+      internalID: -1920736652765041478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b56a6e118d522e0800000000000000
+      internalID: -2151075675603838173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7858eedf1082946b0800000000000000
+      internalID: -5311670296486443641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4afc8d206c1a50800000000000000
+      internalID: 6493170511516422046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ceb188641d1e20800000000000000
+      internalID: 3322834539155211285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 961
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617ab99e65ea4090800000000000000
+      internalID: -8049369120783044244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b1a9d4f308d160800000000000000
+      internalID: 7050389566806669732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 961
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8745b1a58c31aa0800000000000000
+      internalID: -6191384773373167445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 961
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ee2e9e03ff3100800000000000000
+      internalID: 90057761679664482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 961
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488a600e4275bec0800000000000000
+      internalID: -3551807051771770812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1bbd5d116fd8610800000000000000
+      internalID: 1625225597013438913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_139
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 961
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b825662b8ad93da0800000000000000
+      internalID: -5964495940296038215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_140
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 961
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697725efa04b0a2a0800000000000000
+      internalID: -6728179883982030954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 961
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ecb3616ecc075b0800000000000000
+      internalID: -5372569066865439193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 961
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fd1afeb9c519b0800000000000000
+      internalID: -5109956380104721941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71df13ae973f64a0800000000000000
+      internalID: -6597993774593355396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a0a0ed40da9ee0800000000000000
+      internalID: -1253460513369578112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8c1452395eca10800000000000000
+      internalID: 1931579362882916300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 897
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d3f2db0e15fff90800000000000000
+      internalID: -6917720476929278639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051bca4cefb21320800000000000000
+      internalID: 2527293362496279822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d90b55414d508c00800000000000000
+      internalID: 900822460391950802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c30a577c7c9780800000000000000
+      internalID: -8674921930169269277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb4bdbf660b9bb0800000000000000
+      internalID: -4928338290233000423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a7c1e641cdcd90800000000000000
+      internalID: -7075786929349352145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551f91ec7a08a5b10800000000000000
+      internalID: 1971029245133713749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a410fc4663229990800000000000000
+      internalID: -7380797917022382941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625329d445dfbad0800000000000000
+      internalID: -2684192361212063126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4756da12cd975e110800000000000000
+      internalID: 1289570854676292980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c236743b9f3eea0800000000000000
+      internalID: -5844553343004627849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2cfa92ac9271ce0800000000000000
+      internalID: -1434632008034696509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acb71475f285bef0800000000000000
+      internalID: -93024226564916056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 833
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33346061db4e83a60800000000000000
+      internalID: 7654119067485618995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 833
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6a0af8a18826a0800000000000000
+      internalID: -6473781901595611762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b98006bae04d9940800000000000000
+      internalID: 5304467312932325813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932ebf1a0db5894c0800000000000000
+      internalID: -4280570494186692039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5156ae65598f4b0800000000000000
+      internalID: -5406407152126061067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 833
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee636dc3dd9ef790800000000000000
+      internalID: -7494379196888420632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 833
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269badc21949df200800000000000000
+      internalID: 215491708427352418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a01e3f6825183d20800000000000000
+      internalID: 3258377593811767457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ab057aa7f3b1250800000000000000
+      internalID: 5916392331506924153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40c94319c6d9360800000000000000
+      internalID: 7178012752007136508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 833
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5db7ba613f19b4e0800000000000000
+      internalID: -1965505465266225828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_170
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 833
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff4ea3ba1a114ed0800000000000000
+      internalID: -2431633621817339908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e0cd1108e04fb0800000000000000
+      internalID: -4665474122464041069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_172
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 768
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79794e9bb70483a00800000000000000
+      internalID: 736409439218997143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_173
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 769
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1989aadb80856f190800000000000000
+      internalID: -7929053299374122863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_174
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 769
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a4db6cf5c097e0800000000000000
+      internalID: -1760689766370336169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e3622bc61e849c0800000000000000
+      internalID: -3942653616801300856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 768
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255d08b3618a25350800000000000000
+      internalID: 6004046066679338322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 767
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bafc8e42121bfa0800000000000000
+      internalID: -5786807603785913492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabbfe6e0daf5e5b0800000000000000
+      internalID: -5339586008043242579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_179
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e5ba5274ac64f0800000000000000
+      internalID: -834111019915287406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_180
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 641
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78043ca2415bf4b20800000000000000
+      internalID: 3120912165012455559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_181
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 641
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b200c62cacb8840800000000000000
+      internalID: 5227494728878009163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_182
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 641
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48231f0ef3b9435d0800000000000000
+      internalID: -3083669146182798716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_183
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 641
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c31dcc74c705a0800000000000000
+      internalID: -6555054692318854719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16024dbbf955fc540800000000000000
+      internalID: 5030333453335535713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_185
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 450
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb844fc6b4b2770800000000000000
+      internalID: 8587040045838941120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_186
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 450
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0f8e73267bee60800000000000000
+      internalID: 7992611858518313993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_187
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 450
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bba6d8f03216870800000000000000
+      internalID: 8674252906996349818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_188
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 450
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21ae68fa68d6d50800000000000000
+      internalID: 6732185106429645547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_189
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 450
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3f4c3edf688e80800000000000000
+      internalID: -8176162123205886187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_190
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d817da5cdc7fa0800000000000000
+      internalID: -5801519937246145257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_191
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 258
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407059e2734a2a3f0800000000000000
+      internalID: -890969219354261756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_192
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b62103a869deb0800000000000000
+      internalID: -4694606087248758789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_193
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 258
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c725600fd177a75b0800000000000000
+      internalID: -5369848635221192068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_194
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 250
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3852fcc2f217ad40800000000000000
+      internalID: 5595461896060950587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_195
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 258
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ad43610ed27b00800000000000000
+      internalID: 824965779304588017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_196
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7499923260f68ef80800000000000000
+      internalID: -8077083859538568889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_197
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 65
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c089b234b19ca200800000000000000
+      internalID: 192689087201247424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_198
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 65
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2e417a14c6b350800000000000000
+      internalID: 6032224368758500512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_199
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 65
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d036e17d246c70800000000000000
+      internalID: 8963339125590644203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_200
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81994a3b777ec160800000000000000
+      internalID: 7047701838023987595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jill-sword_201
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42784272d1cf9ff0800000000000000
+      internalID: -27089963136290228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
