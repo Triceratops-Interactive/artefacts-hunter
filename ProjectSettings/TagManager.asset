@@ -58,3 +58,12 @@ TagManager:
   - name: TopItems
     uniqueID: 2823791109
     locked: 0
+  - name: BackGround
+    uniqueID: 1472806849
+    locked: 0
+  - name: MidGround
+    uniqueID: 3677592297
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1518668577
+    locked: 0
