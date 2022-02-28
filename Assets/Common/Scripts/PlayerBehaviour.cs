@@ -1,16 +1,13 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Numerics;
 using UnityEngine;
-using Vector2 = UnityEngine.Vector2;
-using Vector3 = UnityEngine.Vector3;
 
 public class PlayerBehaviour : MonoBehaviour
 {
     [SerializeField] private float DialogueDistance = 0.5f;
 
     [SerializeField] public Vector2 speed = new Vector2(2.0f, 2.0f);
+
+    [SerializeField] private bool fightMode = false;
 
 
     private Animator _animator;
@@ -24,6 +21,12 @@ public class PlayerBehaviour : MonoBehaviour
         _animator = GetComponent<Animator>();
         _rigidbody = GetComponent<Rigidbody2D>();
         _boxCollider = GetComponent<BoxCollider2D>();
+
+        if (!fightMode)
+        {
+            _animator.runtimeAnimatorController =
+                GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
+        }
     }
 
     private void Update()
@@ -35,10 +38,22 @@ public class PlayerBehaviour : MonoBehaviour
             return;
         }
 
-        if (!DialogueManager.instance.IsDisplayingDialogue() && TryDialogue())
+        if (fightMode)
         {
-            return;
+            var slashPressed = Input.GetButtonDown("Fire1");
+            if (slashPressed && !DialogueManager.instance.IsDisplayingDialogue())
+            {
+                _animator.SetTrigger("slash");
+            }
         }
+        else
+        {
+            if (!DialogueManager.instance.IsDisplayingDialogue() && TryDialogue())
+            {
+                return;
+            }
+        }
+
 
         Move();
     }
@@ -87,7 +102,7 @@ public class PlayerBehaviour : MonoBehaviour
                 return true;
             }
         }
-        
+
         return false;
     }
 
@@ -98,8 +113,8 @@ public class PlayerBehaviour : MonoBehaviour
 
         if (!DialogueManager.instance.IsDisplayingDialogue())
         {
-            horizontal = (int)(Input.GetAxisRaw("Horizontal"));
-            vertical = (int)(Input.GetAxisRaw("Vertical"));
+            horizontal = (int) (Input.GetAxisRaw("Horizontal"));
+            vertical = (int) (Input.GetAxisRaw("Vertical"));
             if (horizontal != 0)
             {
                 vertical = 0;

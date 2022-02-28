@@ -19,8 +19,6 @@ public class GameManager : MonoBehaviour
 
     public String[] minigameScenes;
 
-    private Animator _playerAnimator;
-    
     private void Awake()
     {
         if (instance != null)
@@ -29,7 +27,6 @@ public class GameManager : MonoBehaviour
         }
 
         instance = this;
-        _playerAnimator = GameObject.Find("Player").GetComponent<Animator>();
     }
     
     public DialogueElement[] GetDialogueBeforeDescription()
@@ -54,8 +51,6 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        _playerAnimator.runtimeAnimatorController =
-            GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
         SetArtefactVisibility();
         DisplayDialogue();
     }
