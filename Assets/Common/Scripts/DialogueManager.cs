@@ -18,6 +18,7 @@ public class DialogueManager : MonoBehaviour
     private Action _callback;
     private string _currentDisplayedText;
     private int _currentDisplayedCharacterCount;
+    private bool _soundInterrupted = false;
 
     public void DisplayDialogue(DialogueElement[] dialogueElements, Action callback = null)
     {
@@ -118,7 +119,20 @@ public class DialogueManager : MonoBehaviour
             return;
         }
 
-        _currentDisplayedCharacterCount++;
+        if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive())
+        {
+            SoundManager.instance.GetEffectSource().Stop();
+            _soundInterrupted = true;
+            return;
+        }
+
+        if (_soundInterrupted)
+        {
+            SoundManager.instance.GetEffectSource().PlayOneShot(textScrollClip);
+            _soundInterrupted = false;
+        }
+
+            _currentDisplayedCharacterCount++;
         _textComponent.text = _currentDisplayedText.Substring(0, _currentDisplayedCharacterCount);
     }
 

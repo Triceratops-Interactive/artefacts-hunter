@@ -10,21 +10,29 @@ class EnemyBehaviour : MonoBehaviour
     [SerializeField] private float attackHitDelay = 1;
     [SerializeField] private Vector2 initialDirection = Vector2.down;
 
+    [SerializeField] private float disableDelay = 0.6f;
+
     private Animator _animator;
     private Rigidbody2D _rigidbody;
     private Transform _player;
+    private FightBehaviour _fightBehaviour;
     private Vector2 _movement = Vector2.zero;
+
+    private bool defeated;
+    private float disableTime;
 
     private void Awake()
     {
         _animator = GetComponent<Animator>();
         _rigidbody = GetComponent<Rigidbody2D>();
         _player = GameObject.Find("Player").GetComponent<Transform>();
+        _fightBehaviour = GetComponent<FightBehaviour>();
     }
 
     private void Start()
     {
         SetInitialPosition();
+        _fightBehaviour.InitializeState(() => _animator.SetTrigger("slash"), Attacked);
     }
 
     private void SetInitialPosition()
@@ -39,10 +47,37 @@ class EnemyBehaviour : MonoBehaviour
         }
     }
 
+    private void Attacked(int newHp)
+    {
+        if (defeated)
+        {
+            return;
+        }
+        
+        if (newHp <= 0)
+        {
+            _animator.SetTrigger("breakdown");
+            disableTime = disableDelay;
+            _movement = Vector2.zero;
+            defeated = true;
+        }
+    }
+
     private void Update()
     {
+        if (defeated)
+        {
+            disableTime -= Time.deltaTime;
+            if (disableTime <= 0)
+            {
+                gameObject.SetActive(false);
+            }
+            return;
+        }
+        
         if (DialogueManager.instance.IsDisplayingDialogue() || IngameMenuBehaviour.instance.IsMenuActive())
         {
+            _movement = Vector2.zero;
             return;
         }
 
@@ -79,7 +114,14 @@ class EnemyBehaviour : MonoBehaviour
 
     private void FixedUpdate()
     {
-        _rigidbody.velocity = _movement;
+        if (Math.Abs(_movement.x) <= float.Epsilon && Math.Abs(_movement.y) <= float.Epsilon)
+        {
+            _rigidbody.velocity = Vector2.zero;
+        }
+        else
+        {
+            _rigidbody.velocity = _movement;   
+        }
         _animator.SetInteger("horizontal", Math.Sign(_movement.x));
         _animator.SetInteger("vertical", Math.Sign(_movement.y));
     }

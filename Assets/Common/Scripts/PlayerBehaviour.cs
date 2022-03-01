@@ -13,6 +13,7 @@ public class PlayerBehaviour : MonoBehaviour
     private Animator _animator;
     private Rigidbody2D _rigidbody;
     private BoxCollider2D _boxCollider;
+    private FightBehaviour _fightBehaviour;
     private Vector2 _movement = Vector2.zero;
     private Vector2 _facingDirection = new Vector2(0, 1); // facing up by default
 
@@ -26,6 +27,11 @@ public class PlayerBehaviour : MonoBehaviour
         {
             _animator.runtimeAnimatorController =
                 GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
+        }
+        else
+        {
+            _fightBehaviour = GetComponent<FightBehaviour>();
+            _fightBehaviour.InitializeState(() => _animator.SetTrigger("slash"), Attacked);
         }
     }
 
@@ -41,9 +47,9 @@ public class PlayerBehaviour : MonoBehaviour
         if (fightMode)
         {
             var slashPressed = Input.GetButtonDown("Fire1");
-            if (slashPressed && !DialogueManager.instance.IsDisplayingDialogue())
+            if (slashPressed && !DialogueManager.instance.IsDisplayingDialogue() && !_fightBehaviour.IsAttacking())
             {
-                _animator.SetTrigger("slash");
+                _fightBehaviour.StartAttack(_facingDirection);
             }
         }
         else
@@ -123,5 +129,14 @@ public class PlayerBehaviour : MonoBehaviour
 
         _movement = new Vector2(speed.x * horizontal, speed.y * vertical);
         SetAnimationAxes(horizontal, vertical);
+    }
+
+    // Fight related
+    private void Attacked(int hp)
+    {
+        if (hp <= 0)
+        {
+            _animator.SetTrigger("breakdown");
+        }
     }
 }

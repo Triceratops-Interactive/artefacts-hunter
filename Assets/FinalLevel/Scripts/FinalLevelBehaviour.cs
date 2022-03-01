@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FinalLevelBehaviour : MonoBehaviour
 {
@@ -28,23 +29,34 @@ public class FinalLevelBehaviour : MonoBehaviour
     [SerializeField] private Transform downRight;
 
     [Header("Dialogues")] [SerializeField] private DialogueElement[] introDialogue;
+    [SerializeField] private AudioClip fightMusic;
+    [SerializeField] private DialogueElement[] caesarFightDialogue;
 
 
     private Transform _floor;
     private Transform _walls;
+    private GameObject _caesar;
+    private bool _caesarFightStarted;
 
     private void Awake()
     {
         _floor = GameObject.Find("Floor").GetComponent<Transform>();
         _walls = GameObject.Find("Walls").GetComponent<Transform>();
+        _caesar = GameObject.Find("Caesar");
     }
 
     private void Start()
     {
         GenerateFloor();
         GenerateWalls();
-        PositionCharacters();
-        DialogueManager.instance.DisplayDialogue(introDialogue);
+        _caesar.GetComponent<EnemyBehaviour>().enabled = false;
+        _caesar.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
+        DialogueManager.instance.DisplayDialogue(introDialogue, PlayFightMusic);
+    }
+
+    private void PlayFightMusic()
+    {
+        SoundManager.instance.GetMusicSource().PlayOneShot(fightMusic);
     }
 
     private void GenerateFloor()
@@ -108,8 +120,19 @@ public class FinalLevelBehaviour : MonoBehaviour
         Instantiate(downRight, _walls).position = new Vector3(maxX, minY);
     }
 
-    private void PositionCharacters()
+    private void Update()
     {
-        GameObject.Find("Caesar").GetComponent<Animator>().Play("PlayerMoveDown");
+        if (!_caesarFightStarted && GameObject.FindGameObjectsWithTag("Legionary").Length == 0)
+        {
+            _caesarFightStarted = true;
+            DialogueManager.instance.DisplayDialogue(caesarFightDialogue);
+            _caesar.GetComponent<EnemyBehaviour>().enabled = true;
+            _caesar.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
+        }
+
+        if (_caesarFightStarted && GameObject.Find("Caesar") == null)
+        {
+            SceneManager.LoadScene("MainScene");
+        }
     }
 }
