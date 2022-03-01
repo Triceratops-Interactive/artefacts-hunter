@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour
     private Animator _animator;
 
     [Header("Player Movement")]
-    [SerializeField] private float speed = 9;
-    [SerializeField] private float jumpForce = 6;
+    [SerializeField] private float speed = 8;
+    [SerializeField] private float jumpForce = (float)6.7;
     [SerializeField] private int extraJumps = 1;
 
     [Header("Ground Check")]
@@ -18,8 +18,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float checkRadius = (float)0.02;
     [SerializeField] private LayerMask whatIsGround; //mask to detect if in radius of groundCheck 
 
-    [Header("Count")]
-    [SerializeField] private UnityEngine.UI.Text countText;
+    // [Header("Count")]
+    // [SerializeField] private UnityEngine.UI.Text countText;
 
     private float _movement = 0;
     private bool _facingRight = true;

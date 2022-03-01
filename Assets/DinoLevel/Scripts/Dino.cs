@@ -1,48 +1,70 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Dino : MonoBehaviour
 {
-    // 1 - Designer variables
+    private Rigidbody2D _rigidbody;
+    private Animator _animator;
 
-    /// <summary>
-    /// Object speed
-    /// </summary>
-    public Vector2 speed = new Vector2(2, 2);
+    [Header("Dino Movement")]
+    [SerializeField] private float speed = 7;
+    [SerializeField] private float jumpForce = 6;
 
-    /// <summary>
-    /// Moving direction
-    /// </summary>
-    public Vector2 direction = new Vector2(1, 0);
 
-    private Vector2 movement;
-    private Rigidbody2D rigidbodyComponent;
+    // Start is called before the first frame update
+    void Start()
+    {
+        _rigidbody = GetComponent<Rigidbody2D>();
+        _animator = GetComponent<Animator>();
+    }
 
+    // Update is called once per frame
     void Update()
     {
-        // 2 - Movement
-        movement = new Vector2(
-          speed.x * direction.x,
-          speed.y * direction.y);
+        
+
+        
+
+        //if (Input.GetButtonDown("Jump") && _jumpCount < extraJumps)
+        //{
+        //    _rigidbody.velocity = Vector2.up * jumpForce;
+        //    _jumpCount++;
+        //}
+            
     }
 
-    void FixedUpdate()
+    private void FixedUpdate()
     {
-        if (rigidbodyComponent == null) rigidbodyComponent = GetComponent<Rigidbody2D>();
-
-        // Apply movement to the rigidbody
-        rigidbodyComponent.velocity = movement;
+        //_movement = Input.GetAxis("Horizontal"); 
+        
+        _rigidbody.velocity = new Vector2(speed, _rigidbody.velocity.y);
+        
     }
+    
 
-
-    void OnCollisionEnter2D(Collision2D col)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (col.gameObject.CompareTag("Obstacle"))
+        if (collision.CompareTag("Dino_Killing"))
         {
-            col.gameObject.SetActive(false);
+            _animator.SetTrigger("dead");
+            speed = 0;
         }
+        else if (collision.CompareTag("Jump"))
+        {
+            _animator.SetTrigger("jump");
+            _rigidbody.velocity = Vector2.up * jumpForce;
+        }
+            
 
+        //collision.gameObject.SetActive(false); //just deactivate
+        //Destroy(collision.gameObject);
+    }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Obstacle"))
+            Destroy(collision.gameObject);
     }
 }
