@@ -31,6 +31,7 @@ public class FinalLevelBehaviour : MonoBehaviour
     [Header("Dialogues")] [SerializeField] private DialogueElement[] introDialogue;
     [SerializeField] private AudioClip fightMusic;
     [SerializeField] private DialogueElement[] caesarFightDialogue;
+    [SerializeField] private DialogueElement[] caesarDefeatedDialogue;
 
 
     private Transform _floor;
@@ -56,6 +57,7 @@ public class FinalLevelBehaviour : MonoBehaviour
 
     private void PlayFightMusic()
     {
+        SoundManager.instance.GetMusicSource().Stop();
         SoundManager.instance.GetMusicSource().PlayOneShot(fightMusic);
     }
 
@@ -129,10 +131,10 @@ public class FinalLevelBehaviour : MonoBehaviour
             _caesar.GetComponent<EnemyBehaviour>().enabled = true;
             _caesar.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
         }
+    }
 
-        if (_caesarFightStarted && GameObject.Find("Caesar") == null)
-        {
-            SceneManager.LoadScene("MainScene");
-        }
+    public void CaesarDefeated()
+    {
+        DialogueManager.instance.DisplayDialogue(caesarDefeatedDialogue, () => SceneManager.LoadScene("MainScene"));
     }
 }

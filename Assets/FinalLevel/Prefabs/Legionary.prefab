@@ -166,11 +166,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  attackStartDelay: 0.5
+  attackStartDelay: 0.2
+  attackStartDistance: 1
   equalizeYFirst: 1
   sameLineThreshold: 0.2
-  attackHitDelay: 1
   initialDirection: {x: 0, y: -1}
+  disableDelay: 0.6
+  defeatedCallback:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &3758411272611830048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -185,5 +189,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 1
   attackPower: 1
-  attackHitDelay: 0.583
-  attackDistance: 0.4
+  attackHitDelay: 0.5
+  attackDistance: 0.8

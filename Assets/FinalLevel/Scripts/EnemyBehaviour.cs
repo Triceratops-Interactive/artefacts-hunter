@@ -1,31 +1,40 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Events;
 
 class EnemyBehaviour : MonoBehaviour
 {
     [SerializeField] private float speed = 2;
     [SerializeField] private float attackStartDelay = 0.5f;
+    [SerializeField] private float attackStartDistance = 0.3f;
     [SerializeField] private bool equalizeYFirst = true;
     [SerializeField] private float sameLineThreshold = 0.2f;
-    [SerializeField] private float attackHitDelay = 1;
     [SerializeField] private Vector2 initialDirection = Vector2.down;
 
     [SerializeField] private float disableDelay = 0.6f;
+    [SerializeField] private UnityEvent defeatedCallback;
 
     private Animator _animator;
     private Rigidbody2D _rigidbody;
     private Transform _player;
+    private PlayerBehaviour _playerBehaviour;
     private FightBehaviour _fightBehaviour;
     private Vector2 _movement = Vector2.zero;
 
-    private bool defeated;
-    private float disableTime;
+    private bool _attackStarting;
+    private float _attackStartingTime;
+    private Vector2 _attackDirection;
+
+    private bool _defeated;
+    private float _disableTime;
+    private bool _callbackCalled;
 
     private void Awake()
     {
         _animator = GetComponent<Animator>();
         _rigidbody = GetComponent<Rigidbody2D>();
         _player = GameObject.Find("Player").GetComponent<Transform>();
+        _playerBehaviour = GameObject.Find("Player").GetComponent<PlayerBehaviour>();
         _fightBehaviour = GetComponent<FightBehaviour>();
     }
 
@@ -49,36 +58,62 @@ class EnemyBehaviour : MonoBehaviour
 
     private void Attacked(int newHp)
     {
-        if (defeated)
+        if (_defeated)
         {
             return;
         }
-        
+
         if (newHp <= 0)
         {
             _animator.SetTrigger("breakdown");
-            disableTime = disableDelay;
+            _disableTime = disableDelay;
             _movement = Vector2.zero;
-            defeated = true;
+            _defeated = true;
         }
     }
 
     private void Update()
     {
-        if (defeated)
-        {
-            disableTime -= Time.deltaTime;
-            if (disableTime <= 0)
-            {
-                gameObject.SetActive(false);
-            }
-            return;
-        }
-        
         if (DialogueManager.instance.IsDisplayingDialogue() || IngameMenuBehaviour.instance.IsMenuActive())
         {
             _movement = Vector2.zero;
             return;
+        }
+
+        if (_defeated)
+        {
+            _disableTime -= Time.deltaTime;
+            if (_disableTime > 0) return;
+
+            if (defeatedCallback.GetPersistentEventCount() > 0)
+            {
+                if (!_callbackCalled)
+                {
+                    _callbackCalled = true;
+                    defeatedCallback.Invoke();
+                }
+            }
+            else
+            {
+                gameObject.SetActive(false);
+            }
+
+            return;
+        }
+
+        if (_fightBehaviour.IsAttacking() || _playerBehaviour.IsDefeated())
+        {
+            _movement = Vector2.zero;
+            return;
+        }
+
+        if (_attackStarting)
+        {
+            _attackStartingTime -= Time.deltaTime;
+            if (_attackStartingTime > 0) return;
+
+            _fightBehaviour.StartAttack(_attackDirection);
+            _attackStarting = false;
         }
 
         float firstAxisOwn, firstAxisPlayer, secondAxisOwn, secondAxisPlayer;
@@ -101,27 +136,44 @@ class EnemyBehaviour : MonoBehaviour
             firstAxisMovement = new Vector2(speed, 0);
             secondAxisMovement = new Vector2(0, speed);
         }
-        
+
         if (Math.Abs(firstAxisOwn - firstAxisPlayer) <= sameLineThreshold)
         {
+            if (Math.Abs(secondAxisOwn - secondAxisPlayer) <= attackStartDistance)
+            {
+                StartAttack();
+                return;
+            }
+
             _movement = secondAxisOwn > secondAxisPlayer ? -secondAxisMovement : secondAxisMovement;
         }
         else
         {
+            if (Math.Abs(secondAxisOwn - secondAxisPlayer) <= sameLineThreshold &&
+                Math.Abs(firstAxisOwn - firstAxisPlayer) <= attackStartDistance)
+            {
+                StartAttack();
+                return;
+            }
+
             _movement = firstAxisOwn > firstAxisPlayer ? -firstAxisMovement : firstAxisMovement;
         }
     }
 
+    private void StartAttack()
+    {
+        if (Math.Abs(_rigidbody.velocity.x) > float.Epsilon || Math.Abs(_rigidbody.velocity.y) > float.Epsilon)
+        {
+            _attackDirection = _rigidbody.velocity;
+        }
+        _movement = Vector2.zero;
+        _attackStartingTime = attackStartDelay;
+        _attackStarting = true;
+    }
+
     private void FixedUpdate()
     {
-        if (Math.Abs(_movement.x) <= float.Epsilon && Math.Abs(_movement.y) <= float.Epsilon)
-        {
-            _rigidbody.velocity = Vector2.zero;
-        }
-        else
-        {
-            _rigidbody.velocity = _movement;   
-        }
+        _rigidbody.velocity = _movement;
         _animator.SetInteger("horizontal", Math.Sign(_movement.x));
         _animator.SetInteger("vertical", Math.Sign(_movement.y));
     }
