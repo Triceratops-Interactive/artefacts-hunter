@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1334503700032487784}
   - component: {fileID: 780604110}
   - component: {fileID: 5694377856455086334}
+  - component: {fileID: 3758411272611830048}
   m_Layer: 0
   m_Name: Legionary
   m_TagString: Legionary
@@ -165,7 +166,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  attackStartDelay: 0.5
+  attackStartDelay: 0.2
+  attackStartDistance: 1
   equalizeYFirst: 1
   sameLineThreshold: 0.2
-  attackHitDelay: 1
+  initialDirection: {x: 0, y: -1}
+  disableDelay: 0.6
+  defeatedCallback:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &3758411272611830048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3170874889110456958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d85a4cbf194e68adccd3c588de6f69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 1
+  attackPower: 1
+  attackHitDelay: 0.5
+  attackDistance: 0.8

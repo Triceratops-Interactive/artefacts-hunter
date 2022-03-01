@@ -77811,22 +77811,22 @@ MonoBehaviour:
   - dialogue:
     - Hello my name is chafre, how did you find me?
     - You must be an extraordinarily skilled adventurer to make it to my burial chamber.
-    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+    characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
   - dialogue:
     - "Yes and I\u2019m also a very skilled time traveler.  Do you heard what human
       beings did with the great sphinx of gizeh."
-    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
     - How horrible, so much of my slaves have died to build this great monument,
       but then someone destroys it wantonly. What are you doing here?
-    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+    characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
   - dialogue:
     - I'm here looking for lost artefacts
-    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
     - Then i have a present for you.
     - I use my holy power to provide a whole new Sphinx monument for your museuem.
-    characterSprite: {fileID: 21300000, guid: f6d5fe1dfa0df184684f5a3451954efd, type: 3}
+    characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
 --- !u!4 &1227996990 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6179018369984223140, guid: d31bd261d25fe4f4fbfc0edddc93972a, type: 3}

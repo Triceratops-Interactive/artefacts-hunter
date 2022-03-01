@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerBehaviour : MonoBehaviour
 {
@@ -9,12 +10,17 @@ public class PlayerBehaviour : MonoBehaviour
 
     [SerializeField] private bool fightMode = false;
 
+    [SerializeField] private float defeatedDelay = 2;
+
 
     private Animator _animator;
     private Rigidbody2D _rigidbody;
     private BoxCollider2D _boxCollider;
+    private FightBehaviour _fightBehaviour;
     private Vector2 _movement = Vector2.zero;
     private Vector2 _facingDirection = new Vector2(0, 1); // facing up by default
+    private bool defeated;
+    private float defeatedTime;
 
     private void Start()
     {
@@ -27,6 +33,11 @@ public class PlayerBehaviour : MonoBehaviour
             _animator.runtimeAnimatorController =
                 GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
         }
+        else
+        {
+            _fightBehaviour = GetComponent<FightBehaviour>();
+            _fightBehaviour.InitializeState(() => _animator.SetTrigger("slash"), Attacked);
+        }
     }
 
     private void Update()
@@ -38,12 +49,21 @@ public class PlayerBehaviour : MonoBehaviour
             return;
         }
 
+        if (defeated)
+        {
+            defeatedTime -= Time.deltaTime;
+            if (defeatedTime > 0) return;
+
+            SceneManager.LoadScene("FinalLevel");
+        }
+
         if (fightMode)
         {
             var slashPressed = Input.GetButtonDown("Fire1");
-            if (slashPressed && !DialogueManager.instance.IsDisplayingDialogue())
+            if (slashPressed && !DialogueManager.instance.IsDisplayingDialogue() && !_fightBehaviour.IsAttacking())
             {
-                _animator.SetTrigger("slash");
+                _fightBehaviour.StartAttack(_facingDirection);
+                return;
             }
         }
         else
@@ -123,5 +143,23 @@ public class PlayerBehaviour : MonoBehaviour
 
         _movement = new Vector2(speed.x * horizontal, speed.y * vertical);
         SetAnimationAxes(horizontal, vertical);
+    }
+
+    // Fight related
+    private void Attacked(int hp)
+    {
+        HealthPanelBehaviour.Instance.SetHealth(hp);
+        if (hp <= 0)
+        {
+            _movement = Vector2.zero;
+            defeatedTime = defeatedDelay;
+            defeated = true;
+            _animator.SetTrigger("breakdown");
+        }
+    }
+
+    public bool IsDefeated()
+    {
+        return defeated;
     }
 }
