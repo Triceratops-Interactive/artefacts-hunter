@@ -6,11 +6,12 @@ TagManager:
   tags:
   - Obstacle
   - Legionary
+  - Killing
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Plattform
   - Water
   - UI
   - BlockingLayer
