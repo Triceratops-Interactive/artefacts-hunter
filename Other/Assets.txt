@@ -44,6 +44,8 @@ Hurt (enemy?): https://freesound.org/people/LukeSharples/sounds/209166/
 - bassdrum2 (maybe wall hit): https://freesound.org/people/ProjectsU012/sounds/361010/
 - grab1 (sword slash): https://freesound.org/people/ProjectsU012/sounds/361007/
 - explosion1 (alternative time travel): https://freesound.org/people/ProjectsU012/sounds/360986/
+- boom5 (dino destroy): https://freesound.org/people/ProjectsU012/sounds/361016/
+- slash-rpg (caesar slash): https://freesound.org/people/colorsCrimsonTears/sounds/580307/
 
 Zapsplat:
 - T rex steps, 4 versions

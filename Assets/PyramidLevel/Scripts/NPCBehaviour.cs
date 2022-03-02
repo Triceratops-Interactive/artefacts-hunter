@@ -13,6 +13,7 @@ public class NPCBehaviour : DialogueBehaviour
 
     private void SwitchScene()
     {
+        GameState.instance.playedGames[GameState.SphinxNoseIdx] = true;
         SceneManager.LoadScene("MainScene");
     }
 }

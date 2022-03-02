@@ -21,6 +21,17 @@ public class SoundManager : MonoBehaviour
         _soundEffectSource = GameObject.Find("Sound Effect Player").GetComponent<AudioSource>();
     }
 
+    private void Start()
+    {
+        ToggleMute();
+    }
+
+    public void ToggleMute()
+    {
+        _soundEffectSource.mute = GameState.instance.mute;
+        _backgroundMusicSource.mute = GameState.instance.mute;
+    }
+
     public AudioSource GetMusicSource()
     {
         return _backgroundMusicSource;

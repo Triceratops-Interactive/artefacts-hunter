@@ -20,17 +20,22 @@ public class GameState : MonoBehaviour
     // Set by Unity editor
     [Header("Character properties")] public RuntimeAnimatorController[] menuAnimators;
     public RuntimeAnimatorController[] ingameAnimators;
+    public RuntimeAnimatorController[] fightAnimators;
     public Sprite[] characterImage;
+    public Sprite[] characterScarImage;
 
     // Changed during the game
     [Header("Ingame properties - DO NOT SET")]
+    public bool mute;
     public int selectedCharacterIdx;
 
     public bool[] readDescriptions;
     public bool[] playedGames;
+    public bool shownIntroDialogue;
     public bool shownFirstReturn;
     public bool shownLastFightTalk;
     public bool shownLastTalk;
+    public bool playerScarred;
 
     private void Awake()
     {

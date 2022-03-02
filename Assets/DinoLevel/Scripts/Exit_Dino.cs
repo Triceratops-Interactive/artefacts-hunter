@@ -22,6 +22,7 @@ public class Exit_Dino : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            GameState.instance.playedGames[GameState.DinoBoneIdx] = true;
             SceneManager.LoadScene("MainScene");
         }
     }

@@ -64,8 +64,9 @@ public class DialogueManager : MonoBehaviour
             _characterImage.enabled = true;
             if (_currentElements[_elementPos].characterSprite.Equals(GameState.instance.characterImage[0]))
             {
-                // Set image of chosen character
-                _characterImage.sprite = GameState.instance.characterImage[GameState.instance.selectedCharacterIdx];
+                _characterImage.sprite = GameState.instance.playerScarred
+                    ? GameState.instance.characterScarImage[GameState.instance.selectedCharacterIdx]
+                    : GameState.instance.characterImage[GameState.instance.selectedCharacterIdx];
             }
             else
             {
@@ -80,6 +81,7 @@ public class DialogueManager : MonoBehaviour
         {
             _currentDisplayedText = _currentDisplayedText.Replace("young man", "young lady");
         }
+
         if (textScrollClip != null)
         {
             PlaySound();

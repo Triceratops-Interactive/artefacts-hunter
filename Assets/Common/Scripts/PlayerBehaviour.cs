@@ -14,6 +14,8 @@ public class PlayerBehaviour : MonoBehaviour
 
     [SerializeField] private string defeatedLoadScene = "FinalLevel";
 
+    [SerializeField] private AudioClip slashClip;
+
 
     private Animator _animator;
     private Rigidbody2D _rigidbody;
@@ -32,15 +34,17 @@ public class PlayerBehaviour : MonoBehaviour
         _boxCollider = GetComponent<BoxCollider2D>();
         _janitor = GameObject.Find("Janitor")?.GetComponent<JanitorBehaviour>();
 
-        if (!fightMode)
+        if (fightMode)
         {
             _animator.runtimeAnimatorController =
-                GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
+                GameState.instance.fightAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
+            _fightBehaviour = GetComponent<FightBehaviour>();
+            _fightBehaviour.InitializeState(() => _animator.SetTrigger("slash"), Attacked);
         }
         else
         {
-            _fightBehaviour = GetComponent<FightBehaviour>();
-            _fightBehaviour.InitializeState(() => _animator.SetTrigger("slash"), Attacked);
+            _animator.runtimeAnimatorController =
+                GameState.instance.ingameAnimators[GameState.instance.selectedCharacterIdx]; // Set correct character
         }
     }
 
@@ -67,6 +71,7 @@ public class PlayerBehaviour : MonoBehaviour
             var slashPressed = Input.GetButtonDown("Fire1");
             if (slashPressed && !DialogueManager.instance.IsDisplayingDialogue() && !_fightBehaviour.IsAttacking())
             {
+                SoundManager.instance.GetEffectSource().PlayOneShot(slashClip);
                 _fightBehaviour.StartAttack(_facingDirection);
                 return;
             }

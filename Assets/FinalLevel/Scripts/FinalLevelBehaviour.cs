@@ -51,6 +51,7 @@ public class FinalLevelBehaviour : MonoBehaviour
         GenerateFloor();
         GenerateWalls();
         _caesar.GetComponent<EnemyBehaviour>().enabled = false;
+        _caesar.GetComponent<FightBehaviour>().enabled = false;
         _caesar.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
         DialogueManager.instance.DisplayDialogue(introDialogue, PlayFightMusic);
     }
@@ -129,12 +130,20 @@ public class FinalLevelBehaviour : MonoBehaviour
             _caesarFightStarted = true;
             DialogueManager.instance.DisplayDialogue(caesarFightDialogue);
             _caesar.GetComponent<EnemyBehaviour>().enabled = true;
+            _caesar.GetComponent<FightBehaviour>().enabled = true;
             _caesar.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
         }
     }
 
     public void CaesarDefeated()
     {
-        DialogueManager.instance.DisplayDialogue(caesarDefeatedDialogue, () => SceneManager.LoadScene("MainScene"));
+        GameState.instance.playerScarred = true;
+        DialogueManager.instance.DisplayDialogue(caesarDefeatedDialogue, BackToMuseum);
+    }
+
+    private void BackToMuseum()
+    {
+        GameState.instance.playedGames[GameState.LaurelIdx] = true;
+        SceneManager.LoadScene("MainScene");
     }
 }

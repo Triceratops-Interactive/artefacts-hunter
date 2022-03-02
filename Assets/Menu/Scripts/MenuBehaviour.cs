@@ -1,11 +1,16 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MenuBehaviour : MonoBehaviour
 {
+    [SerializeField] private Sprite muteOnImage;
+    [SerializeField] private Sprite muteOffImage;
+
     private Animator _characterAnimator;
     private GameObject _controlsPanel;
     private GameObject _creditsPanel;
+    private Image _toggleMuteBtn;
 
     private void Awake()
     {
@@ -14,6 +19,12 @@ public class MenuBehaviour : MonoBehaviour
         _controlsPanel.GetComponent<TextboxBehaviour>().DisableTextbox();
         _creditsPanel = GameObject.Find("CreditsPanel");
         _creditsPanel.GetComponent<TextboxBehaviour>().DisableTextbox();
+        _toggleMuteBtn = GameObject.Find("ToggleMuteButton").GetComponent<Image>();
+    }
+
+    private void Start()
+    {
+        SetMuteSprite();
     }
 
     public void ChooseLeftCharacter()
@@ -56,5 +67,17 @@ public class MenuBehaviour : MonoBehaviour
     public void ShowCreditsPanel()
     {
         _creditsPanel.SetActive(true);
+    }
+
+    private void SetMuteSprite()
+    {
+        _toggleMuteBtn.sprite = GameState.instance.mute ? muteOnImage : muteOffImage;
+    }
+
+    public void ToggleMute()
+    {
+        GameState.instance.mute = !GameState.instance.mute;
+        SetMuteSprite();
+        SoundManager.instance.ToggleMute();
     }
 }

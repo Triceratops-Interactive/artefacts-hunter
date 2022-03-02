@@ -10,6 +10,7 @@ class EnemyBehaviour : MonoBehaviour
     [SerializeField] private bool equalizeYFirst = true;
     [SerializeField] private float sameLineThreshold = 0.2f;
     [SerializeField] private Vector2 initialDirection = Vector2.down;
+    [SerializeField] private AudioClip slashClip;
 
     [SerializeField] private float disableDelay = 0.6f;
     [SerializeField] private UnityEvent defeatedCallback;
@@ -112,6 +113,10 @@ class EnemyBehaviour : MonoBehaviour
             _attackStartingTime -= Time.deltaTime;
             if (_attackStartingTime > 0) return;
 
+            if (slashClip != null)
+            {
+                SoundManager.instance.GetEffectSource().PlayOneShot(slashClip);
+            }
             _fightBehaviour.StartAttack(_attackDirection);
             _attackStarting = false;
         }

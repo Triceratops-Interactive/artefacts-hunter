@@ -592,7 +592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1753875564850349964, guid: 0b9383a22a3c8c645b5d7cad7708eb3f, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1753875564850349964, guid: 0b9383a22a3c8c645b5d7cad7708eb3f, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2675,7 +2675,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9000614551727618494, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9000614551727618494, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2752,6 +2752,10 @@ PrefabInstance:
     - target: {fileID: 9000614551727618495, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
       propertyPath: m_Name
       value: CanvasSceneOverlay
+      objectReference: {fileID: 0}
+    - target: {fileID: 9000614551727618495, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
@@ -5002,8 +5006,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1135334551}
   - {fileID: 251877255}
+  - {fileID: 1135334551}
   m_Father: {fileID: 367143136}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -27,7 +27,6 @@ public class FragmentMonologueBehaviour : DialogueBehaviour
     private void LoadMinigame()
     {
         Debug.Log("Loading Game...");
-        GameState.instance.playedGames[artefactIdx] = true;
         SceneManager.LoadScene(GameManager.instance.minigameScenes[artefactIdx]);
     }
 }

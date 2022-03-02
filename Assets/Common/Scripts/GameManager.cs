@@ -119,8 +119,9 @@ public class GameManager : MonoBehaviour
 
     private void DisplayDialogue()
     {
-        if (GameState.instance.NumPlayedGames() == 0)
+        if (GameState.instance.NumPlayedGames() == 0 && !GameState.instance.shownIntroDialogue)
         {
+            GameState.instance.shownIntroDialogue = true;
             DialogueManager.instance.DisplayDialogue(introDialogue);
         }
         else if (GameState.instance.NumPlayedGames() == 1 && !GameState.instance.shownFirstReturn)

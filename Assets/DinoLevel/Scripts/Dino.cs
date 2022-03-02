@@ -23,6 +23,7 @@ public class Dino : MonoBehaviour
         _rigidbody = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
         _audio = GetComponent<AudioSource>();
+        _audio.mute = GameState.instance.mute;
     }
 
     private void FixedUpdate()

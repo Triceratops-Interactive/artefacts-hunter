@@ -53,14 +53,25 @@ MonoBehaviour:
   - {fileID: 22100000, guid: cf6444b5ecd54a44694c0db746c521af, type: 2}
   - {fileID: 22100000, guid: 4ab83ef0100148c41aa0c11264152310, type: 2}
   - {fileID: 22100000, guid: 5fcd6614286e5a14e954a985c6e8c6b2, type: 2}
+  fightAnimators:
+  - {fileID: 22100000, guid: 519ecee7757575a48af004ec1a0ce8c0, type: 2}
+  - {fileID: 22100000, guid: b866903a5d55e104083b19762f432fc4, type: 2}
+  - {fileID: 22100000, guid: 87ea0f8162cdb4a4cb43e19e1e87551e, type: 2}
+  - {fileID: 22100000, guid: 3df4395830927424fa79769ed2bb798f, type: 2}
   characterImage:
   - {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - {fileID: 21300000, guid: a3fa86ade87fdeb4a96a1eac1176c409, type: 3}
   - {fileID: 21300000, guid: 4cfb1ba4e55902a45b148fbf18308813, type: 3}
   - {fileID: 21300000, guid: 14a0a455b9fd48642b13e6468cf09229, type: 3}
+  characterScarImage:
+  - {fileID: 21300000, guid: 4179ba3f5714709459f575a9041bffda, type: 3}
+  - {fileID: 21300000, guid: f70d65037201c96479e6275ce48b04e5, type: 3}
+  - {fileID: 21300000, guid: ca75ed915c2a04a499527f55f0c15624, type: 3}
+  - {fileID: 21300000, guid: ff840eb16a932b54aa91caaa57d2f591, type: 3}
   selectedCharacterIdx: 0
   readDescriptions: 
   playedGames: 
   shownFirstReturn: 0
   shownLastFightTalk: 0
   shownLastTalk: 0
+  playerScarred: 0

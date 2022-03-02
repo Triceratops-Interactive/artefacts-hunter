@@ -49,7 +49,7 @@ public class FightBehaviour : MonoBehaviour
         var hit = Physics2D.Raycast(transform.position, _attackDirection, attackDistance);
         _boxCollider.enabled = true;
         FightBehaviour attackedFighter;
-        if (hit.collider == null || (attackedFighter = hit.collider.gameObject.GetComponent<FightBehaviour>()) == null)
+        if (hit.collider == null || (attackedFighter = hit.collider.gameObject.GetComponent<FightBehaviour>()) == null || !attackedFighter.enabled)
         {
             _attacking = false;
             return;

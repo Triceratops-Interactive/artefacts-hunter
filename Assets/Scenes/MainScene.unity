@@ -407,20 +407,20 @@ MonoBehaviour:
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
   - dialogue:
     - "\u2019Caesar\u2019 gave it to me after a long fight, he realized his mistake."
-    characterSprite: {fileID: 21300000, guid: 4179ba3f5714709459f575a9041bffda, type: 3}
+    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
     - That is good to hear.
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
   - dialogue:
     - Huh, weird, I now have the same scar on my face as you.. what does this mean??
-    characterSprite: {fileID: 21300000, guid: 4179ba3f5714709459f575a9041bffda, type: 3}
+    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
     - "Don\u2019t you realize, young man, I am YOU! When I was your age, I lived
-      through all the same events."
+      through the same events."
     - My older self came here and guided me to fight Caesar. But I was too weak and
       had to escape.
     - "For years, I\u2019ve been trying to catch him afterwards, but time has made
-      me an old white man. So I\u2019ve continued this temporal loop by travelling
+      me become an old white man. So I\u2019ve continued this temporal loop by travelling
       back and guiding you."
     - But you finally managed to break this cycle and complete the exhibition! (and
       save the world of course..)
@@ -429,7 +429,7 @@ MonoBehaviour:
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
   - dialogue:
     - Farewell Janitor, I will never forget you/me.. you know what I mean!
-    characterSprite: {fileID: 21300000, guid: 4179ba3f5714709459f575a9041bffda, type: 3}
+    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
     - "Farewell, young man\u2026\u2026\u2026\u2026\u2026."
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
