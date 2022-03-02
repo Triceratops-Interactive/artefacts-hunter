@@ -21,6 +21,11 @@ public class Bird : MonoBehaviour {
 
 	void FixedUpdate()
 	{
+		if (DialogueManager.instance.IsDisplayingDialogue() || IngameMenuBehaviour.instance.IsMenuActive())
+		{
+			return;
+		}
+
 		transform.position = Vector2.MoveTowards (transform.position,
 												waypoints[waypointIndex].transform.position,
 												moveSpeed * Time.deltaTime);

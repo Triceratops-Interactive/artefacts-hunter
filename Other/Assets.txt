@@ -43,6 +43,7 @@ Hurt (enemy?): https://freesound.org/people/LukeSharples/sounds/209166/
 - tearing1 (maybe time travel): https://freesound.org/people/ProjectsU012/sounds/360959/
 - bassdrum2 (maybe wall hit): https://freesound.org/people/ProjectsU012/sounds/361010/
 - grab1 (sword slash): https://freesound.org/people/ProjectsU012/sounds/361007/
+- explosion1 (alternative time travel): https://freesound.org/people/ProjectsU012/sounds/360986/
 
 Zapsplat:
 - T rex steps, 4 versions

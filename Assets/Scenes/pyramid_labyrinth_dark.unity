@@ -1008,7 +1008,7 @@ PrefabInstance:
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 097a74085aeb04e48be555eaecbcb9ee, type: 3}
+      objectReference: {fileID: 8300000, guid: b8fb38e4fe103634ba9f4316a6b0d61b, type: 3}
     - target: {fileID: 9204197305139345338, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Name
       value: Sounds
@@ -78129,11 +78129,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6936612862385060858, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: speed.x
-      value: 8
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6936612862385060858, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: speed.y
-      value: 8
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6936612862385060858, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: camera_offset.y
