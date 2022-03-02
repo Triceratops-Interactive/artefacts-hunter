@@ -123,6 +123,56 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &54577226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 54577228}
+  - component: {fileID: 54577227}
+  m_Layer: 0
+  m_Name: Scripts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &54577227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54577226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d0223b9dc9a4563962d8cba258318e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  introDialogue:
+  - dialogue:
+    - ..Where am I?
+    - Incredible, this seems to be the pyramid of Khafre!
+    - I need to find a way out of here, but maybe I can search for the hidden burial
+      chamber of Khafre before.
+    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+--- !u!4 &54577228
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54577226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &143809081
 GameObject:
   m_ObjectHideFlags: 0
@@ -168,72 +218,6 @@ Transform:
   m_Father: {fileID: 1732235638}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &145999443 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-  m_PrefabInstance: {fileID: 1628197196}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &179086736
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3414685769428762192, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_Name
-      value: GameState
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762194, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3414685769428762195, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
-      propertyPath: playedGames.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 29cd983705ad6e7479e7a584f681cbc2, type: 3}
 --- !u!1 &185549979
 GameObject:
   m_ObjectHideFlags: 0
@@ -968,10 +952,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemFoundDialogue:
   - dialogue:
-    - "You\u2019ve found the eye of Horus! Your Range of View triples and you can
-      also see in the darkness."
+    - You've found the eye of Horus! Your Range of View triples and you can also
+      see in the darkness.
     characterSprite: {fileID: 0}
   itemToActivate: horuseye
+  itemActivateClip: {fileID: 8300000, guid: dcb982b138f94374e9b1450c445c90d9, type: 3}
 --- !u!1 &597370426
 GameObject:
   m_ObjectHideFlags: 0
@@ -1016,6 +1001,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
+      propertyPath: m_Volume
+      value: 0.609
+      objectReference: {fileID: 0}
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_audioClip
       value: 
@@ -77656,6 +77645,7 @@ MonoBehaviour:
     - You've found the golden boots! Your movement speed increases drastically.
     characterSprite: {fileID: 0}
   itemToActivate: boost
+  itemActivateClip: {fileID: 8300000, guid: dcb982b138f94374e9b1450c445c90d9, type: 3}
 --- !u!61 &932698738
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -77809,23 +77799,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   beforeFirstMinigameTalk:
   - dialogue:
-    - Hello my name is chafre, how did you find me?
+    - Hello my name is Khafre, how did you find me?
     - You must be an extraordinarily skilled adventurer to make it to my burial chamber.
+    - Now that you have freed me from my curse, I can finally travel to the field
+      of reeds where my soul can be at rest.
+    - In order to express my appreciation, I will grant you one wish.
     characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
   - dialogue:
-    - "Yes and I\u2019m also a very skilled time traveler.  Do you heard what human
-      beings did with the great sphinx of gizeh."
+    - I am a time traveller coming from the far future, looking for lost artefacts
+      for our museum exhibition.
+    - Hundreds of years after your death, the nose of the Sphinx was destroyed under
+      mysterious circumstances.
+    - Your majesty, please, can you restore it back to its former glory?
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
-    - How horrible, so much of my slaves have died to build this great monument,
-      but then someone destroys it wantonly. What are you doing here?
-    characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
-  - dialogue:
-    - I'm here looking for lost artefacts
-    characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
-  - dialogue:
-    - Then i have a present for you.
-    - I use my holy power to provide a whole new Sphinx monument for your museuem.
+    - What a disgusting act! It must have been committed by the same people that
+      put this hex on me.
+    - I will gladly fulfil this wish and also provide a Sphinx monument for your
+      museum.
+    - Farewell, brave archaeologist, may you do well in your further efforts to improve
+      the exhibition and make the world a better place!
     characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
 --- !u!4 &1227996990 stripped
 Transform:
@@ -77959,7 +77952,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _dialogue:
   - dialogue:
-    - Mummies want to chase off uninvited guests from the burial chamber.
+    - Mummies want to scare off uninvited guests from the burial chamber.
     - Check the area around them to find what you are looking for.
     characterSprite: {fileID: 0}
 --- !u!1 &1416648407
@@ -78149,6 +78142,10 @@ PrefabInstance:
     - target: {fileID: 6936612862385060858, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: DialogueDistance
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6936612862385060858, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
+      propertyPath: defeatedLoadScene
+      value: pyramid_labyrinth_dark
       objectReference: {fileID: 0}
     - target: {fileID: 6936612862385060860, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: m_Name
@@ -78343,67 +78340,6 @@ MonoBehaviour:
   - dialogue:
     - The left path is the right path.
     characterSprite: {fileID: 0}
---- !u!1001 &1628197196
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1732235638}
-    m_Modifications:
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943147, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943148, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_Name
-      value: LevelSceneOverlay
-      objectReference: {fileID: 0}
-    - target: {fileID: 3472240557976943148, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 4f2f3e2b775b0814ab43d920e3173f3f, type: 3}
 --- !u!1 &1687678117
 GameObject:
   m_ObjectHideFlags: 0
@@ -78545,9 +78481,8 @@ Transform:
   - {fileID: 1687678119}
   - {fileID: 143809083}
   - {fileID: 185549980}
-  - {fileID: 145999443}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1771423875
 GameObject:
@@ -78735,11 +78670,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemFoundDialogue:
   - dialogue:
-    - You found a grave chamber compass! The light signals if you move away or to
-      the grave.
+    - You've found a grave chamber compass! The light signals if you move away from
+      or towards the grave.
     - Red gets stronger if you move away.
     characterSprite: {fileID: 0}
   itemToActivate: light sensor
+  itemActivateClip: {fileID: 8300000, guid: dcb982b138f94374e9b1450c445c90d9, type: 3}
 --- !u!61 &1779333412
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -102091,6 +102027,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6920f5d64c620043827e15e89572046, type: 3}
+--- !u!1001 &2103448181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 912888610974473, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_Name
+      value: GameState
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 33cb71a64146c014e90b18d794013626, type: 3}
 --- !u!224 &1437421783517598707
 RectTransform:
   m_ObjectHideFlags: 0

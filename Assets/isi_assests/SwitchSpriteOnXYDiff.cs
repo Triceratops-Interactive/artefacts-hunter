@@ -114,8 +114,8 @@ public class SwitchSpriteOnXYDiff : MonoBehaviour
         PlayerBehaviour check_player = otherCollider.gameObject.GetComponent<PlayerBehaviour>();
         if (check_player != null)
         {
-            //Reset player
-            SceneManager.LoadScene("pyramid_labyrinth_dark");
+            //Reset scene
+            check_player.Attacked(0);
         }
 
     }

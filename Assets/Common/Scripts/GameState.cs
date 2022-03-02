@@ -34,8 +34,16 @@ public class GameState : MonoBehaviour
         if (instance == null)
         {
             instance = this;
-            readDescriptions = new bool[NumGames];
-            playedGames = new bool[NumGames];
+            if (readDescriptions.Length != NumGames)
+            {
+                readDescriptions = new bool[NumGames];
+            }
+
+            if (playedGames.Length != NumGames)
+            {
+                playedGames = new bool[NumGames];
+            }
+
             DontDestroyOnLoad(gameObject);
         }
         else

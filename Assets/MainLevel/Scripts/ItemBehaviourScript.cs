@@ -6,6 +6,7 @@ public class ItemBehaviourScript : DialogueBehaviour
 {
     [SerializeField] private DialogueElement[] itemFoundDialogue;
     [SerializeField] private String itemToActivate = "";
+    [SerializeField] private AudioClip itemActivateClip;
 
     private bool boost_enabled = false;
 
@@ -16,9 +17,13 @@ public class ItemBehaviourScript : DialogueBehaviour
 
     private void activateItem()
     {
+        if (itemActivateClip != null)
+        {
+            SoundManager.instance.GetEffectSource().PlayOneShot(itemActivateClip);
+        }
+        
         if(itemToActivate == "light sensor")
         {
-
             ControlLight control_light = GameObject.Find("Player").GetComponentInChildren<ControlLight>();
             control_light.enabled = true;
         }
