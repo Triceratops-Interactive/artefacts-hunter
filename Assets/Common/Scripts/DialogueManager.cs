@@ -49,7 +49,7 @@ public class DialogueManager : MonoBehaviour
             _dialoguePos = -1;
             _currentDisplayedCharacterCount = 0;
             EnablePanel(false);
-            SoundManager.instance.GetEffectSource().Stop();
+            StopSound();
             _callback?.Invoke();
 
             return;
@@ -77,8 +77,7 @@ public class DialogueManager : MonoBehaviour
         _currentDisplayedText = _currentElements[_elementPos].dialogue[_dialoguePos];
         if (textScrollClip != null)
         {
-            SoundManager.instance.GetEffectSource().Stop();
-            SoundManager.instance.GetEffectSource().PlayOneShot(textScrollClip);
+            PlaySound();
         }
     }
 
@@ -115,25 +114,38 @@ public class DialogueManager : MonoBehaviour
     {
         if (_currentDisplayedCharacterCount >= _currentDisplayedText.Length)
         {
-            SoundManager.instance.GetEffectSource().Stop();
+            StopSound();
             return;
         }
 
         if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive())
         {
-            SoundManager.instance.GetEffectSource().Stop();
+            StopSound();
             _soundInterrupted = true;
             return;
         }
 
         if (_soundInterrupted)
         {
-            SoundManager.instance.GetEffectSource().PlayOneShot(textScrollClip);
+            PlaySound();
             _soundInterrupted = false;
         }
 
-            _currentDisplayedCharacterCount++;
+        _currentDisplayedCharacterCount++;
         _textComponent.text = _currentDisplayedText.Substring(0, _currentDisplayedCharacterCount);
+    }
+
+    private void PlaySound()
+    {
+        SoundManager.instance.GetEffectSource().Stop();
+        SoundManager.instance.GetEffectSource().loop = true;
+        SoundManager.instance.GetEffectSource().PlayOneShot(textScrollClip);
+    }
+
+    private void StopSound()
+    {
+        SoundManager.instance.GetEffectSource().Stop();
+        SoundManager.instance.GetEffectSource().loop = false;
     }
 
     private void EnablePanel(bool enable)

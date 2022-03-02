@@ -100,6 +100,9 @@ MonoBehaviour:
   pathCreator: {fileID: 0}
   endOfPathInstruction: 1
   speed: 2
+  maxDistanceSound: 5
+  replaySoundDelay: 7
+  mummySound: {fileID: 8300000, guid: 209a95b27ad8f91448e41fc265be7e6d, type: 3}
 --- !u!61 &3631830063129451628
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -113,7 +116,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.04619336}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -124,7 +127,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.6}
+  m_Size: {x: 0.64, y: 1.0421367}
   m_EdgeRadius: 0
 --- !u!114 &2782563915282735772
 MonoBehaviour:

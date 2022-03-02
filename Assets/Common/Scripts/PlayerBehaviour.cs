@@ -12,6 +12,8 @@ public class PlayerBehaviour : MonoBehaviour
 
     [SerializeField] private float defeatedDelay = 2;
 
+    [SerializeField] private string defeatedLoadScene = "FinalLevel";
+
 
     private Animator _animator;
     private Rigidbody2D _rigidbody;
@@ -54,7 +56,7 @@ public class PlayerBehaviour : MonoBehaviour
             defeatedTime -= Time.deltaTime;
             if (defeatedTime > 0) return;
 
-            SceneManager.LoadScene("FinalLevel");
+            SceneManager.LoadScene(defeatedLoadScene);
         }
 
         if (fightMode)
@@ -146,9 +148,9 @@ public class PlayerBehaviour : MonoBehaviour
     }
 
     // Fight related
-    private void Attacked(int hp)
+    public void Attacked(int hp)
     {
-        HealthPanelBehaviour.Instance.SetHealth(hp);
+        HealthPanelBehaviour.Instance?.SetHealth(hp);
         if (hp <= 0)
         {
             _movement = Vector2.zero;
