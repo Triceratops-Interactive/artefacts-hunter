@@ -75,6 +75,11 @@ public class DialogueManager : MonoBehaviour
 
         _currentDisplayedCharacterCount = 0;
         _currentDisplayedText = _currentElements[_elementPos].dialogue[_dialoguePos];
+        if (GameState.instance.selectedCharacterIdx == GameState.JillWhiteIdx ||
+            GameState.instance.selectedCharacterIdx == GameState.JillBlackIdx)
+        {
+            _currentDisplayedText = _currentDisplayedText.Replace("young man", "young lady");
+        }
         if (textScrollClip != null)
         {
             PlaySound();

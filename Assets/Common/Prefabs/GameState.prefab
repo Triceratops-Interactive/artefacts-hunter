@@ -61,3 +61,6 @@ MonoBehaviour:
   selectedCharacterIdx: 0
   readDescriptions: 
   playedGames: 
+  shownFirstReturn: 0
+  shownLastFightTalk: 0
+  shownLastTalk: 0

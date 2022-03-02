@@ -9,14 +9,18 @@ public class GameManager : MonoBehaviour
     [FormerlySerializedAs("_dialogueElements")] [SerializeField]
     private DialogueElement[] introDialogue;
 
+    [SerializeField] private DialogueElement[] afterFirstLevelDialogue;
     [SerializeField] private DialogueElement[] beforeFinalLevelDialogue;
+    [SerializeField] private DialogueElement[] afterFinalLevelDialogue;
     [SerializeField] private DialogueElement[] beforeFirstArtefactDescription;
     [SerializeField] private DialogueElement[] afterFirstArtefactDescription;
     [SerializeField] private DialogueElement[] firstFragmentMonologue;
     [SerializeField] private DialogueElement[] furtherFragmentsMonologue;
+    [SerializeField] private DialogueElement[] lastFragmentMonologue;
     [SerializeField] private DialogueElement[] fragmentPlayAgainText;
     public DialogueElement[] notReadDescriptionMonologue;
 
+    [SerializeField] private float showFirstReturnDialogueDelay = 2;
     public String[] minigameScenes;
 
     private void Awake()
@@ -28,7 +32,7 @@ public class GameManager : MonoBehaviour
 
         instance = this;
     }
-    
+
     public DialogueElement[] GetDialogueBeforeDescription()
     {
         return GameState.instance.NumPlayedGames() == 0 ? beforeFirstArtefactDescription : null;
@@ -41,7 +45,17 @@ public class GameManager : MonoBehaviour
 
     public DialogueElement[] GetFragmentMonologue()
     {
-        return GameState.instance.NumPlayedGames() == 0 ? firstFragmentMonologue : furtherFragmentsMonologue;
+        if (GameState.instance.NumPlayedGames() == 0)
+        {
+            return firstFragmentMonologue;
+        } else if (GameState.instance.NumPlayedGames() == GameState.NumGames - 1)
+        {
+            return lastFragmentMonologue;
+        }
+        else
+        {
+            return furtherFragmentsMonologue;
+        }
     }
 
     public DialogueElement[] GetFragmentPlayAgainText()
@@ -66,7 +80,7 @@ public class GameManager : MonoBehaviour
         {
             GameObject.Find("SphinxNose").SetActive(false);
         }
-        
+
         if (GameState.instance.playedGames[GameState.DinoBoneIdx])
         {
             GameObject.Find("DinoBoneFragment").SetActive(false);
@@ -94,7 +108,12 @@ public class GameManager : MonoBehaviour
             else
             {
                 GameObject.Find("Laurel").SetActive(false);
-            }   
+            }
+        }
+
+        if (GameState.instance.shownLastTalk)
+        {
+            GameObject.Find("Janitor").SetActive(false);
         }
     }
 
@@ -103,9 +122,34 @@ public class GameManager : MonoBehaviour
         if (GameState.instance.NumPlayedGames() == 0)
         {
             DialogueManager.instance.DisplayDialogue(introDialogue);
-        } else if (GameState.NumGames - GameState.instance.NumPlayedGames() == 1)
-        {
-            DialogueManager.instance.DisplayDialogue(beforeFinalLevelDialogue);
         }
+        else if (GameState.instance.NumPlayedGames() == 1 && !GameState.instance.shownFirstReturn)
+        {
+            GameState.instance.shownFirstReturn = true;
+            var playerAnim = GameObject.Find("Player").GetComponent<Animator>();
+            playerAnim.Play("PlayerBreakdown");
+            Invoke(nameof(ShowDialogueAfterFirstMinigame), showFirstReturnDialogueDelay);
+        }
+        else if (GameState.NumGames - GameState.instance.NumPlayedGames() == 1 &&
+                 !GameState.instance.shownLastFightTalk)
+        {
+            GameState.instance.shownLastFightTalk = true;
+            DialogueManager.instance.DisplayDialogue(beforeFinalLevelDialogue);
+        } else if (GameState.instance.NumPlayedGames() == GameState.NumGames && !GameState.instance.shownLastTalk)
+        {
+            GameState.instance.shownLastTalk = true;
+            DialogueManager.instance.DisplayDialogue(afterFinalLevelDialogue, FadeOutJanitor);
+        }
+    }
+
+    private void ShowDialogueAfterFirstMinigame()
+    {
+        GameObject.Find("Player").GetComponent<Animator>().Play("PlayerIdleUp");
+        DialogueManager.instance.DisplayDialogue(afterFirstLevelDialogue);
+    }
+
+    private void FadeOutJanitor()
+    {
+        GameObject.Find("Janitor").GetComponent<JanitorBehaviour>().FadeOut();
     }
 }

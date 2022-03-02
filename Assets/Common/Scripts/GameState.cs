@@ -28,6 +28,9 @@ public class GameState : MonoBehaviour
 
     public bool[] readDescriptions;
     public bool[] playedGames;
+    public bool shownFirstReturn;
+    public bool shownLastFightTalk;
+    public bool shownLastTalk;
 
     private void Awake()
     {

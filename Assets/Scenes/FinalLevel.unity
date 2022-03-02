@@ -1273,6 +1273,9 @@ MonoBehaviour:
   selectedCharacterIdx: 0
   readDescriptions: 
   playedGames: 
+  shownFirstReturn: 0
+  shownLastFightTalk: 0
+  shownLastTalk: 0
 --- !u!4 &966362835
 Transform:
   m_ObjectHideFlags: 0
@@ -1499,21 +1502,19 @@ MonoBehaviour:
   downRight: {fileID: 1493862174688757122, guid: a43147c6802d8b04e883b4474f75de14, type: 3}
   introDialogue:
   - dialogue:
-    - I have already expected you. You will not win this.
+    - I have been awaiting you. My future self warned me that you would come and
+      try to stop me from ruling over the world.
+    - "Now, let\u2019s make this easy. Give up and I will spare your life."
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
   - dialogue:
-    - Should we attack him, your emperor?
-    characterSprite: {fileID: 21300000, guid: dabc2f68f99113f46ad97876279ea3f6, type: 3}
-  - dialogue:
-    - No, wait, I want to give him a chance.
-    - Do you really think you have a chance? Surrender or you'll pay the price.
-    characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
-  - dialogue:
-    - Never!
+    - I will not leave without a fight!
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
   - dialogue:
     - Then, prepare to be eliminated.. soldiers, attack!
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
+  - dialogue:
+    - Yes, sir! Chaaarge!
+    characterSprite: {fileID: 21300000, guid: dabc2f68f99113f46ad97876279ea3f6, type: 3}
   fightMusic: {fileID: 8300000, guid: 6211dd7d18ca2e4429ad8cd448a21cb5, type: 3}
   caesarFightDialogue:
   - dialogue:
@@ -1521,11 +1522,14 @@ MonoBehaviour:
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
   caesarDefeatedDialogue:
   - dialogue:
+    - Aaaah!
+    characterSprite: {fileID: 21300000, guid: 4179ba3f5714709459f575a9041bffda, type: 3}
+  - dialogue:
     - hngggg....
     - ... now that my end is near, I finally realize that I was wrong.
-    - All this bloodshed, and for what reason? Only power, power over the land, power
-      over the people.
-    - But I now see that you can not permanently rule over people with force.
+    - All this bloodshed, and for what reason? Only for power, power over the land,
+      power over the people.
+    - But I now see that one cannot permanently rule over people with force.
     - Let's end this fight. I will give you my Civic Crown and therefore lose all
       my time travelling abilities.
     - Now go, brave archaelogist, a celebration is awaiting you.

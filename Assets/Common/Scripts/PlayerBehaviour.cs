@@ -19,6 +19,7 @@ public class PlayerBehaviour : MonoBehaviour
     private Rigidbody2D _rigidbody;
     private BoxCollider2D _boxCollider;
     private FightBehaviour _fightBehaviour;
+    private JanitorBehaviour _janitor;
     private Vector2 _movement = Vector2.zero;
     private Vector2 _facingDirection = new Vector2(0, 1); // facing up by default
     private bool defeated;
@@ -29,6 +30,7 @@ public class PlayerBehaviour : MonoBehaviour
         _animator = GetComponent<Animator>();
         _rigidbody = GetComponent<Rigidbody2D>();
         _boxCollider = GetComponent<BoxCollider2D>();
+        _janitor = GameObject.Find("Janitor")?.GetComponent<JanitorBehaviour>();
 
         if (!fightMode)
         {
@@ -44,7 +46,8 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void Update()
     {
-        if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive())
+        if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive() ||
+            _janitor != null && _janitor.IsFadingOut())
         {
             _movement = Vector2.zero;
             SetAnimationAxes(0, 0);
