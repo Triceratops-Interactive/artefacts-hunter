@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,7 +10,7 @@ public class PlayerController : MonoBehaviour
     private Animator _animator;
 
     [Header("Player Movement")]
-    [SerializeField] private float speed = 8;
+    [SerializeField] private float speed = 6;
     [SerializeField] private float jumpForce = (float)6.7;
     [SerializeField] private int extraJumps = 1;
 
@@ -41,9 +42,6 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         
-
-        
-
         //if (Input.GetButtonDown("Jump") && _jumpCount < extraJumps)
         //{
         //    _rigidbody.velocity = Vector2.up * jumpForce;
@@ -55,9 +53,9 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         if (IsGrounded)
-        {
+        { 
             _jumpCount = 0;
-           _isJumping = false;
+            _isJumping = false;
         }
         
         if (Input.GetButtonDown("Jump") && _jumpCount < extraJumps)
@@ -97,13 +95,30 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private IEnumerator OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Killing"))
-            _animator.SetTrigger("dead");
+        {
+          _animator.SetTrigger("dead");
+          _rigidbody.simulated = false;
+          yield return new WaitForSeconds(2);
+          SceneManager.LoadScene("Dino_Escape");
+        }
+            
 
         //collision.gameObject.SetActive(false); //just deactivate
         //Destroy(collision.gameObject);
+    }
+    
+    private IEnumerator OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Killing"))
+        {
+            _animator.SetTrigger("dead");
+            _rigidbody.simulated = false;
+            yield return new WaitForSeconds(2);
+            SceneManager.LoadScene("Dino_Escape");
+        }
     }
 
 

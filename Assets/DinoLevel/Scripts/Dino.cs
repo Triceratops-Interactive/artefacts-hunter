@@ -9,7 +9,7 @@ public class Dino : MonoBehaviour
     private Animator _animator;
 
     [Header("Dino Movement")]
-    [SerializeField] private float speed = 7;
+    [SerializeField] private float speed = 4;
     [SerializeField] private float jumpForce = 6;
 
 
@@ -23,16 +23,7 @@ public class Dino : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
 
-        
-
-        //if (Input.GetButtonDown("Jump") && _jumpCount < extraJumps)
-        //{
-        //    _rigidbody.velocity = Vector2.up * jumpForce;
-        //    _jumpCount++;
-        //}
-            
     }
 
     private void FixedUpdate()
@@ -51,10 +42,11 @@ public class Dino : MonoBehaviour
             _animator.SetTrigger("dead");
             speed = 0;
         }
-        else if (collision.CompareTag("Jump"))
+        else if (collision.CompareTag("Dino_Jump"))
         {
             _animator.SetTrigger("jump");
             _rigidbody.velocity = Vector2.up * jumpForce;
+
         }
             
 

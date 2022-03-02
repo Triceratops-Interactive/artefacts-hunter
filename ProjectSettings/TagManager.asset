@@ -8,6 +8,7 @@ TagManager:
   - Legionary
   - Killing
   - Dino_Killing
+  - Dino_Jump
   layers:
   - Default
   - TransparentFX
