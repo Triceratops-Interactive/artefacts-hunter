@@ -25,6 +25,8 @@ public class MenuBehaviour : MonoBehaviour
     private void Start()
     {
         SetMuteSprite();
+        _characterAnimator.runtimeAnimatorController =
+            GameState.instance.menuAnimators[GameState.instance.selectedCharacterIdx];
     }
 
     public void ChooseLeftCharacter()
