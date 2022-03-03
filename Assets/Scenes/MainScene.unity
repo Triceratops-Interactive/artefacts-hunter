@@ -6450,6 +6450,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Laurel
       objectReference: {fileID: 0}
+    - target: {fileID: 4344183724707902354, guid: 4987988e4e6b05247ae03d5ec30553ac, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4344183724707902354, guid: 4987988e4e6b05247ae03d5ec30553ac, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4523311669175389718, guid: 4987988e4e6b05247ae03d5ec30553ac, type: 3}
       propertyPath: artefactIdx
       value: 2
@@ -6767,6 +6775,14 @@ PrefabInstance:
     - target: {fileID: 438981901510450247, guid: 4446cee9beb2f56429692f9b76570802, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 438981901510450264, guid: 4446cee9beb2f56429692f9b76570802, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 438981901510450264, guid: 4446cee9beb2f56429692f9b76570802, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4446cee9beb2f56429692f9b76570802, type: 3}
@@ -7469,6 +7485,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2142707386}
     m_Modifications:
+    - target: {fileID: 169460514914265674, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 169460514914265674, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4144848145973877786, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
       propertyPath: m_Name
       value: SphinxNoseSign
@@ -7483,7 +7507,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6068207327729027313, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.514
+      value: -1.674
       objectReference: {fileID: 0}
     - target: {fileID: 6068207327729027313, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7516,22 +7540,6 @@ PrefabInstance:
     - target: {fileID: 6068207327729027313, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7064500297604739200, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
-      propertyPath: m_Color.a
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7064500297604739200, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7064500297604739200, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7064500297604739200, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
-      propertyPath: m_Color.r
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf491e8785e7fa04881876a3342326cd, type: 3}
@@ -8601,6 +8609,10 @@ PrefabInstance:
     - target: {fileID: 9000614551727618495, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
       propertyPath: m_Name
       value: CanvasSceneOverlay
+      objectReference: {fileID: 0}
+    - target: {fileID: 9000614551727618495, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}

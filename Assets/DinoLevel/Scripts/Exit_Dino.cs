@@ -6,24 +6,19 @@ using UnityEngine.SceneManagement;
 
 public class Exit_Dino : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    [SerializeField] private DialogueElement[] exitDialogue;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
-            GameState.instance.playedGames[GameState.DinoBoneIdx] = true;
-            SceneManager.LoadScene("MainScene");
+            DialogueManager.instance.DisplayDialogue(exitDialogue, BackToMuseum);
         }
+    }
+
+    private void BackToMuseum()
+    {
+        GameState.instance.playedGames[GameState.DinoBoneIdx] = true;
+        SceneManager.LoadScene("MainScene");
     }
 }

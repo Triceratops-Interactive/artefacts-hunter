@@ -1895,11 +1895,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6323882700433001662, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 300
+      value: 370
       objectReference: {fileID: 0}
     - target: {fileID: 6323882700433001662, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 160
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 6323882700433001662, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1957,9 +1957,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6323882701075477350, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 325
+      objectReference: {fileID: 0}
+    - target: {fileID: 6323882701075477350, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 160
+      objectReference: {fileID: 0}
     - target: {fileID: 6323882701075477353, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
       propertyPath: m_Text
-      value: A Triceratops Interactive Game
+      value: 'A Triceratops Interactive Game
+
+
+        Original Sound Track by Plus
+
+
+        For
+        full credits see https://meierhofer08.
+
+        itch.io/artefactshunter'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
@@ -2567,16 +2584,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: ControlsPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 6323882701075477350, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 350
+      objectReference: {fileID: 0}
     - target: {fileID: 6323882701075477353, guid: 1cd933bad7a0e2845bf7190869def5bd, type: 3}
       propertyPath: m_Text
       value: 'Move with ''Arrows/WASD''
 
 
 
-        Interact/Next dialogue
+        Interact/Talk/
 
-        with
-        ''CTRL''
+        Next dialogue
+        with ''CTRL''
 
 
 
