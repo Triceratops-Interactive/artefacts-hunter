@@ -159,6 +159,7 @@ MonoBehaviour:
     - I need to find a way out of here, but maybe I can search for the hidden burial
       chamber of Khafre before.
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
 --- !u!4 &54577228
 Transform:
   m_ObjectHideFlags: 0
@@ -992,6 +993,7 @@ MonoBehaviour:
     - You've found the eye of Horus! Your Range of View triples and you can also
       see in the darkness.
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   itemToActivate: horuseye
   itemActivateClip: {fileID: 8300000, guid: dcb982b138f94374e9b1450c445c90d9, type: 3}
 --- !u!1001 &597628921
@@ -77851,6 +77853,7 @@ MonoBehaviour:
   - dialogue:
     - You've found the golden boots! Your movement speed increases drastically.
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   itemToActivate: boost
   itemActivateClip: {fileID: 8300000, guid: dcb982b138f94374e9b1450c445c90d9, type: 3}
 --- !u!61 &932698738
@@ -78007,6 +78010,7 @@ MonoBehaviour:
       of reeds where my soul can be at rest.
     - In order to express my appreciation, I will grant you one wish.
     characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - I am a time traveller coming from the far future, looking for lost artefacts
       for our museum exhibition.
@@ -78014,6 +78018,7 @@ MonoBehaviour:
       mysterious circumstances.
     - Your majesty, please, can you restore it back to its former glory?
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - What a disgusting act! It must have been committed by the same people that
       put this hex on me.
@@ -78022,6 +78027,7 @@ MonoBehaviour:
     - Farewell, brave archaeologist, may you do well in your further efforts to improve
       the exhibition!
     characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
+    textFinishClip: {fileID: 0}
 --- !u!4 &1227996990 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6179018369984223140, guid: d31bd261d25fe4f4fbfc0edddc93972a, type: 3}
@@ -78157,6 +78163,7 @@ MonoBehaviour:
     - Mummies want to scare off uninvited guests from the burial chamber.
     - Check the area around them to find what you are looking for.
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
 --- !u!1 &1416648407
 GameObject:
   m_ObjectHideFlags: 0
@@ -78417,19 +78424,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 18486671371058864, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: m_Size.x
-      value: 0.43939993
+      value: 0.38972604
       objectReference: {fileID: 0}
     - target: {fileID: 18486671371058864, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: m_Size.y
-      value: 0.7104938
+      value: 0.64307904
       objectReference: {fileID: 0}
     - target: {fileID: 18486671371058864, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: m_Offset.x
-      value: 0.0011275262
+      value: -0.0024206638
       objectReference: {fileID: 0}
     - target: {fileID: 18486671371058864, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: m_Offset.y
-      value: 0.001316905
+      value: -0.032390475
       objectReference: {fileID: 0}
     - target: {fileID: 6936612862385060858, guid: 329792b2d6529a54ea9b5afb6049470c, type: 3}
       propertyPath: speed.x
@@ -78538,6 +78545,7 @@ MonoBehaviour:
   - dialogue:
     - The left path is the right path.
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
 --- !u!1 &1687678117
 GameObject:
   m_ObjectHideFlags: 0
@@ -78938,6 +78946,7 @@ MonoBehaviour:
       or towards the grave.
     - Red gets stronger if you move away.
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   itemToActivate: light sensor
   itemActivateClip: {fileID: 8300000, guid: dcb982b138f94374e9b1450c445c90d9, type: 3}
 --- !u!61 &1779333412

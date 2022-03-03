@@ -1,0 +1,25 @@
+Authors: Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn), Mandi Paugh, bluecarrot16, Thane Brimhall (pennomi), laetissima, ElizaWy, Lanea Zimmerman (Sharm), David Conway Jr. (JaidynReiman), Joe White
+
+- body/female/human/black.png: by Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-ladies
+
+- hair/long_messy/female/dark_brown.png: by Mandi Paugh, bluecarrot16. License(s): GPL 2.0, GPL 3.0, CC-BY 3.0. 
+    - https://opengameart.org/content/puck-overland
+    - https://opengameart.org/content/lpc-hair
+
+- facial/glasses.png: by bluecarrot16, Thane Brimhall (pennomi), laetissima. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/clothing-facial-features-and-ui-elements
+    - https://opengameart.org/content/lpc-gentleman
+
+- torso/clothes/blouse_longsleeve/female/white.png: by ElizaWy, Lanea Zimmerman (Sharm). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-7-womens-shirts
+
+- legs/pants/female/maroon.png: by bluecarrot16, David Conway Jr. (JaidynReiman), Joe White, Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- feet/shoes/female/brown.png: by Joe White, Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
