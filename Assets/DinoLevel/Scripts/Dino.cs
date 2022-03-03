@@ -35,6 +35,8 @@ public class Dino : MonoBehaviour
             return;
         }
 
+        _animator.SetBool("run_active", true);
+
         if (!_startedAudio)
         {
             _startedAudio = true;
