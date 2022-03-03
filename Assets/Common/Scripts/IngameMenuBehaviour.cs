@@ -12,7 +12,7 @@ public class IngameMenuBehaviour : MonoBehaviour
     private Button _backToMenuBtn;
     private Button _quitGameBtn;
     private SpriteRenderer _levelSceneOverlay;
-    private Image _canvasSceneOverlay;
+    private SceneOverlayBehaviour _sceneOverlay;
     private bool _active;
 
     private void Update()
@@ -38,8 +38,11 @@ public class IngameMenuBehaviour : MonoBehaviour
         _backToMenuBtn = GameObject.Find("BackToMenuBtn").GetComponent<Button>();
         _quitGameBtn = GameObject.Find("QuitGameBtn").GetComponent<Button>();
         _levelSceneOverlay = GameObject.Find("LevelSceneOverlay")?.GetComponent<SpriteRenderer>();
-        _canvasSceneOverlay = GameObject.Find("CanvasSceneOverlay")?.GetComponent<Image>();
+        _sceneOverlay = GameObject.Find("CanvasSceneOverlay")?.GetComponent<SceneOverlayBehaviour>();
+    }
 
+    private void Start()
+    {
         EnablePanel(false);
     }
 
@@ -55,9 +58,16 @@ public class IngameMenuBehaviour : MonoBehaviour
             _levelSceneOverlay.gameObject.SetActive(enable);
         }
 
-        if (_canvasSceneOverlay != null)
+        if (_sceneOverlay != null && !_sceneOverlay.isTimeTravelling())
         {
-            _canvasSceneOverlay.gameObject.SetActive(enable);
+            if (enable)
+            {
+                _sceneOverlay.SetMenuOverlay();
+            }
+            else
+            {
+                _sceneOverlay.gameObject.SetActive(false);
+            }
         }
     }
 

@@ -51,7 +51,7 @@ public class PlayerBehaviour : MonoBehaviour
     private void Update()
     {
         if (IngameMenuBehaviour.instance != null && IngameMenuBehaviour.instance.IsMenuActive() ||
-            _janitor != null && _janitor.IsFadingOut())
+            _janitor != null && _janitor.IsFadingOut() || SceneOverlayBehaviour.instance.isTimeTravelling())
         {
             _movement = Vector2.zero;
             SetAnimationAxes(0, 0);

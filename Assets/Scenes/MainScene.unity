@@ -6805,15 +6805,7 @@ PrefabInstance:
       value: GameState
       objectReference: {fileID: 0}
     - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: shownLastTalk
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: shownFirstReturn
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: shownLastFightTalk
+      propertyPath: shownIntroDialogue
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
@@ -6822,15 +6814,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
       propertyPath: playedGames.Array.data[0]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: playedGames.Array.data[1]
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: playedGames.Array.data[2]
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
       propertyPath: m_RootOrder
@@ -8240,10 +8224,6 @@ PrefabInstance:
     - target: {fileID: 9000614551727618495, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
       propertyPath: m_Name
       value: CanvasSceneOverlay
-      objectReference: {fileID: 0}
-    - target: {fileID: 9000614551727618495, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7056ec35509f0b345b25710a16ccc20c, type: 3}

@@ -20,8 +20,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] private DialogueElement[] fragmentPlayAgainText;
     public DialogueElement[] notReadDescriptionMonologue;
 
-    [SerializeField] private float showFirstReturnDialogueDelay = 2;
     public String[] minigameScenes;
+
+    private SceneOverlayBehaviour _overlay;
 
     private void Awake()
     {
@@ -31,6 +32,7 @@ public class GameManager : MonoBehaviour
         }
 
         instance = this;
+        _overlay = GameObject.Find("CanvasSceneOverlay").GetComponent<SceneOverlayBehaviour>();
     }
 
     public DialogueElement[] GetDialogueBeforeDescription()
@@ -129,7 +131,7 @@ public class GameManager : MonoBehaviour
             GameState.instance.shownFirstReturn = true;
             var playerAnim = GameObject.Find("Player").GetComponent<Animator>();
             playerAnim.Play("PlayerBreakdown");
-            Invoke(nameof(ShowDialogueAfterFirstMinigame), showFirstReturnDialogueDelay);
+            _overlay.StartReverseTimeTravel(ShowDialogueAfterFirstMinigame);
         }
         else if (GameState.NumGames - GameState.instance.NumPlayedGames() == 1 &&
                  !GameState.instance.shownLastFightTalk)
@@ -146,6 +148,7 @@ public class GameManager : MonoBehaviour
     private void ShowDialogueAfterFirstMinigame()
     {
         GameObject.Find("Player").GetComponent<Animator>().Play("PlayerIdleUp");
+        _overlay.gameObject.SetActive(false);
         DialogueManager.instance.DisplayDialogue(afterFirstLevelDialogue);
     }
 
