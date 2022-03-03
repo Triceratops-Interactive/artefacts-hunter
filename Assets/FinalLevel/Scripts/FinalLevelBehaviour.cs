@@ -128,7 +128,8 @@ public class FinalLevelBehaviour : MonoBehaviour
         if (!_caesarFightStarted && GameObject.FindGameObjectsWithTag("Legionary").Length == 0)
         {
             _caesarFightStarted = true;
-            DialogueManager.instance.DisplayDialogue(caesarFightDialogue);
+            DialogueManager.instance.DisplayDialogue(caesarFightDialogue,
+                () => CaesarHealthPanelBehaviour.Instance.gameObject.SetActive(true));
             _caesar.GetComponent<EnemyBehaviour>().enabled = true;
             _caesar.GetComponent<FightBehaviour>().enabled = true;
             _caesar.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;

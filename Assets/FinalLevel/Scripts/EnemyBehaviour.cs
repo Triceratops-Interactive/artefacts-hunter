@@ -64,6 +64,11 @@ class EnemyBehaviour : MonoBehaviour
             return;
         }
 
+        if (gameObject.name.Equals("Caesar"))
+        {
+            CaesarHealthPanelBehaviour.Instance.SetHealth(newHp);
+        }
+
         if (newHp <= 0)
         {
             _animator.SetTrigger("breakdown");
