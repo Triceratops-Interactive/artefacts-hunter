@@ -59,7 +59,8 @@ public class FinalLevelBehaviour : MonoBehaviour
     private void PlayFightMusic()
     {
         SoundManager.instance.GetMusicSource().Stop();
-        SoundManager.instance.GetMusicSource().PlayOneShot(fightMusic);
+        SoundManager.instance.GetMusicSource().clip = fightMusic;
+        SoundManager.instance.GetMusicSource().Play();
     }
 
     private void GenerateFloor()

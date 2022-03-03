@@ -93,5 +93,6 @@ MonoBehaviour:
   timeTravelClip: {fileID: 8300000, guid: 789c0df6c11b5cf40b88316891fd77a1, type: 3}
   reverseTimeTravelClip: {fileID: 8300000, guid: a86c7e80f1a78bb468f3469de8c172f9, type: 3}
   timeTravelAnimationDuration: 1.594
+  reverseTimeTravelDuration: 3
   timeTravelAnimationMinAlpha: 0.1
   timeTravelAnimationMaxAlpha: 1

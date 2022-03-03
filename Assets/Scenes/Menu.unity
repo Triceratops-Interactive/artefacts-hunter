@@ -712,7 +712,7 @@ PrefabInstance:
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 02f4d65da9e1bd541bff98d2211c9e78, type: 3}
+      objectReference: {fileID: 8300000, guid: 49cd4348154d5d94a84ad85fee4cba45, type: 3}
     - target: {fileID: 9204197305139345338, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Name
       value: Sounds

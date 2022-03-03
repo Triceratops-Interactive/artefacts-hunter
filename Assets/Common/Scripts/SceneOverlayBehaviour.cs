@@ -9,6 +9,7 @@ public class SceneOverlayBehaviour : MonoBehaviour
     [SerializeField] private AudioClip timeTravelClip;
     [SerializeField] private AudioClip reverseTimeTravelClip;
     [SerializeField] private float timeTravelAnimationDuration = 1.594f;
+    [SerializeField] private float reverseTimeTravelDuration = 2;
     [SerializeField] private float timeTravelAnimationMinAlpha = 0.1f;
     [SerializeField] private float timeTravelAnimationMaxAlpha = 1;
 
@@ -57,7 +58,7 @@ public class SceneOverlayBehaviour : MonoBehaviour
     public void StartReverseTimeTravel(Action callback)
     {
         _callback = callback;
-        _timeTravelAnimationTime = timeTravelAnimationDuration;
+        _timeTravelAnimationTime = reverseTimeTravelDuration;
         SetTimeTravelColor(timeTravelAnimationMaxAlpha);
         SoundManager.instance.GetEffectSource().PlayOneShot(reverseTimeTravelClip);
         gameObject.SetActive(true);
@@ -107,7 +108,7 @@ public class SceneOverlayBehaviour : MonoBehaviour
             return;
         }
 
-        var timeTravelled = _timeTravelAnimationTime / timeTravelAnimationDuration;
+        var timeTravelled = _timeTravelAnimationTime / reverseTimeTravelDuration;
         var alpha = timeTravelAnimationMinAlpha +
                     timeTravelled * (timeTravelAnimationMaxAlpha - timeTravelAnimationMinAlpha);
         SetTimeTravelColor(alpha);

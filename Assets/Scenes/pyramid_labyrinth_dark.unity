@@ -1003,12 +1003,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Volume
-      value: 0.609
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: b8fb38e4fe103634ba9f4316a6b0d61b, type: 3}
+      objectReference: {fileID: 8300000, guid: 9ea779ef921d1ce4a9d328857fe04dfc, type: 3}
     - target: {fileID: 9204197305139345338, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Name
       value: Sounds
@@ -78020,7 +78020,7 @@ MonoBehaviour:
     - I will gladly fulfil this wish and also provide a Sphinx monument for your
       museum.
     - Farewell, brave archaeologist, may you do well in your further efforts to improve
-      the exhibition and make the world a better place!
+      the exhibition!
     characterSprite: {fileID: 21300000, guid: 3880815880f934e46b156a478940d020, type: 3}
 --- !u!4 &1227996990 stripped
 Transform:

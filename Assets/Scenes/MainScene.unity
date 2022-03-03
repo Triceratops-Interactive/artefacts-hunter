@@ -466,8 +466,10 @@ MonoBehaviour:
   - dialogue:
     - I should probably read the artifacts description first.
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
-  endgameClip: {fileID: 8300000, guid: 02f4d65da9e1bd541bff98d2211c9e78, type: 3}
+  endgameClip: {fileID: 8300000, guid: c2e1ca35d48b0b147a5a3cbef1012a92, type: 3}
   endgameClipVolume: 0.6
+  lastTalkClip: {fileID: 8300000, guid: 55e5131f3f164b248814fc16de46acf5, type: 3}
+  lastTalkVolume: 1
   minigameScenes:
   - Pyramid_labyrinth_dark
   - Dino_Escape
@@ -4098,15 +4100,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   descriptionText:
   - dialogue:
-    - The roman empire, lasting from 27 BC to AD 395 (as a unified entity), was one
-      of the largest empires that ever existed.
+    - '"The roman empire, lasting from 27 BC to AD 395 (as a unified entity), was
+      one of the largest empires that ever existed.'
     - At its greatest extent, it included the complete Mediterranean shoreline and
       also large parts of the middle east and the British Isles.
     - After a long period of democracy, Julius Caesar became the first dictator of
       Rome, before he was assassinated in 44 BC.
     - "It is believed that the artefact displayed here is a fragment of Caesar\u2019s
       Civic Crown, one of the highest military awards for a Roman general,"
-    - which he was awarded for his service in the Siege of Mytilene in 81 BC.
+    - which he was awarded for his service in the Siege of Mytilene in 81 BC."
     characterSprite: {fileID: 0}
   artefactIdx: 2
 --- !u!1001 &1353576163
@@ -8676,8 +8678,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Volume
-      value: 1
+      value: 0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 0f28bac2c486a3c41b2f1314c4539c65, type: 3}
     - target: {fileID: 9204197305139345338, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Name
       value: Sounds

@@ -1588,7 +1588,7 @@ MonoBehaviour:
   - dialogue:
     - Yes, sir! Chaaarge!
     characterSprite: {fileID: 21300000, guid: dabc2f68f99113f46ad97876279ea3f6, type: 3}
-  fightMusic: {fileID: 8300000, guid: 6211dd7d18ca2e4429ad8cd448a21cb5, type: 3}
+  fightMusic: {fileID: 8300000, guid: 32fb4f6e1a280d84895b8cb389144760, type: 3}
   caesarFightDialogue:
   - dialogue:
     - Enough of this nonsense, I will defeat you once and for all!
@@ -1677,9 +1677,13 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
+      propertyPath: m_Volume
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9204197304611774049, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: ef9122da7cc7de64e8dbd0cf3673e242, type: 3}
+      objectReference: {fileID: 8300000, guid: a3e6583a5cae3f748bd87529baa4462c, type: 3}
     - target: {fileID: 9204197305139345338, guid: 23c4acc2333f08442a3bc31a22fd19fc, type: 3}
       propertyPath: m_Name
       value: Sounds

@@ -20,7 +20,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] private DialogueElement[] fragmentPlayAgainText;
     public DialogueElement[] notReadDescriptionMonologue;
     [SerializeField] private AudioClip endgameClip;
-    [SerializeField] private float endgameClipVolume = 0.8f;
+    [SerializeField] private float endgameClipVolume = 0.5f;
+    [SerializeField] private AudioClip lastTalkClip;
+    [SerializeField] private float lastTalkVolume = 1;
 
     public String[] minigameScenes;
 
@@ -153,13 +155,18 @@ public class GameManager : MonoBehaviour
             if (!GameState.instance.shownLastTalk)
             {
                 GameState.instance.shownLastTalk = true;
+                SoundManager.instance.GetMusicSource().Stop();
+                SoundManager.instance.GetMusicSource().clip = lastTalkClip;
+                SoundManager.instance.GetMusicSource().volume = lastTalkVolume;
+                SoundManager.instance.GetMusicSource().Play();
                 DialogueManager.instance.DisplayDialogue(afterFinalLevelDialogue, FadeOutJanitor);
             }
             else
             {
                 SoundManager.instance.GetMusicSource().Stop();
-                SoundManager.instance.GetMusicSource().loop = true;
-                SoundManager.instance.GetMusicSource().PlayOneShot(endgameClip, endgameClipVolume);
+                SoundManager.instance.GetMusicSource().clip = endgameClip;
+                SoundManager.instance.GetMusicSource().volume = endgameClipVolume;
+                SoundManager.instance.GetMusicSource().Play();
             }
         }
     }
