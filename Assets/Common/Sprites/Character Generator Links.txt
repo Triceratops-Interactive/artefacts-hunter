@@ -4,5 +4,9 @@ Janitor: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Gen
 AFH-Sword: weapon=Slash_oversize_layered_saber
 AFH-Scar: wound_eye=Eye_eye
 
+Director: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_white&sex=male&eyes=Eyes_green&clothes=Sleeveless_white&jacket=Collared_coat_brown_striped&legs=Pants_maroon&shoes=Shoes_black&hair=Bedhead_light_brown&hat=Formal_brown&facial=Facial_monocle&neck=Tie_bow
+NPC1: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_olive&hair=Bedhead_black&vest=none&clothes=Sleeved_formal_striped&shoes=Shoes_brown&legs=Pants_blue
+NPC2: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_white&sex=female&dress=none&clothes=Tanktop_navy&vest=none&eyes=Eyes_gray&hair=Long_center_part_carrot&legs=Pants_sky&shoes=Shoes_black&headcover=none&earring=none&neck=none
+
 Legionary: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_white&shield=none&shoes=Armour_5&nose=none&hair=Plain_light_brown&hat=Maximus_silver&visor=none&accessory=none&headcover=none&eyepatch=none&earring=none&eyes=Eyes_blue&shoulders=Plate_8&armour=Legion_steel&legs=Armour_8&chainmail=none&wrists=none&bauldron=none&arms=Arms_2&weapon=Thrust_spear_2
 Caesar: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_white&eyes=Eyes_yellow&hat=Legion_gold&accessory=Legion_Plumage_red&wound_mouth=none&shadow=none&hair=Buzzcut_white&apron=none&bandages=none&chainmail=none&jacket=none&armour=Plate_special&vest=none&clothes=none&cape=Solid_red&shoes=Sandals_brown&shoulders=Epaulets_gold&arms=none&bauldron=none&bracers=none&wrists=none&gloves=none&legs=Pants_white&weapon=Slash_oversize_layered_longsword&shield=none

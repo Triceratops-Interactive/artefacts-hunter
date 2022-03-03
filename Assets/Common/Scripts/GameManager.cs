@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private DialogueElement[] lastFragmentMonologue;
     [SerializeField] private DialogueElement[] fragmentPlayAgainText;
     public DialogueElement[] notReadDescriptionMonologue;
+    [SerializeField] private AudioClip endgameClip;
+    [SerializeField] private float endgameClipVolume = 0.8f;
 
     public String[] minigameScenes;
 
@@ -50,7 +52,8 @@ public class GameManager : MonoBehaviour
         if (GameState.instance.NumPlayedGames() == 0)
         {
             return firstFragmentMonologue;
-        } else if (GameState.instance.NumPlayedGames() == GameState.NumGames - 1)
+        }
+        else if (GameState.instance.NumPlayedGames() == GameState.NumGames - 1)
         {
             return lastFragmentMonologue;
         }
@@ -117,6 +120,12 @@ public class GameManager : MonoBehaviour
         {
             GameObject.Find("Janitor").SetActive(false);
         }
+        else
+        {
+            GameObject.Find("Director").SetActive(false);
+            GameObject.Find("NPC1").SetActive(false);
+            GameObject.Find("NPC2").SetActive(false);
+        }
     }
 
     private void DisplayDialogue()
@@ -138,10 +147,20 @@ public class GameManager : MonoBehaviour
         {
             GameState.instance.shownLastFightTalk = true;
             DialogueManager.instance.DisplayDialogue(beforeFinalLevelDialogue);
-        } else if (GameState.instance.NumPlayedGames() == GameState.NumGames && !GameState.instance.shownLastTalk)
+        }
+        else if (GameState.instance.NumPlayedGames() == GameState.NumGames)
         {
-            GameState.instance.shownLastTalk = true;
-            DialogueManager.instance.DisplayDialogue(afterFinalLevelDialogue, FadeOutJanitor);
+            if (!GameState.instance.shownLastTalk)
+            {
+                GameState.instance.shownLastTalk = true;
+                DialogueManager.instance.DisplayDialogue(afterFinalLevelDialogue, FadeOutJanitor);
+            }
+            else
+            {
+                SoundManager.instance.GetMusicSource().Stop();
+                SoundManager.instance.GetMusicSource().loop = true;
+                SoundManager.instance.GetMusicSource().PlayOneShot(endgameClip, endgameClipVolume);
+            }
         }
     }
 

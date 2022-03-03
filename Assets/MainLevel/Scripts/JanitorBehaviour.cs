@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class JanitorBehaviour : DialogueBehaviour
 {
@@ -42,7 +43,7 @@ public class JanitorBehaviour : DialogueBehaviour
         if (_fadeOutTime < 0)
         {
             _fadingOut = false;
-            gameObject.SetActive(false);
+            SceneManager.LoadScene("MainScene");
         }
         else
         {

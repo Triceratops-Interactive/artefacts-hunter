@@ -1601,30 +1601,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameState
       objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: shownFirstReturn
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: shownIntroDialogue
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: playedGames.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: playedGames.Array.data[0]
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: playedGames.Array.data[1]
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 912888610974474, guid: 33cb71a64146c014e90b18d794013626, type: 3}
-      propertyPath: playedGames.Array.data[2]
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 912888610974475, guid: 33cb71a64146c014e90b18d794013626, type: 3}
       propertyPath: m_RootOrder
       value: 5
