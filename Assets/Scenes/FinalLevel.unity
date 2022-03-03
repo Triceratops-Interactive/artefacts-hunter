@@ -749,7 +749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 3
   attackPower: 1
-  attackHitDelay: 0.3
+  attackHitDelay: 0.2
   attackDistance: 1.5
 --- !u!114 &518969885
 MonoBehaviour:
@@ -1579,24 +1579,30 @@ MonoBehaviour:
       try to stop me from ruling over the world.
     - "Now, let\u2019s make this easy. Give up and I will spare your life."
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - I will not leave without a fight!
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - Then, prepare to be eliminated.. soldiers, attack!
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - Yes, sir! Chaaarge!
     characterSprite: {fileID: 21300000, guid: dabc2f68f99113f46ad97876279ea3f6, type: 3}
+    textFinishClip: {fileID: 0}
   fightMusic: {fileID: 8300000, guid: 32fb4f6e1a280d84895b8cb389144760, type: 3}
   caesarFightDialogue:
   - dialogue:
     - Enough of this nonsense, I will defeat you once and for all!
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
+    textFinishClip: {fileID: 0}
   caesarDefeatedDialogue:
   - dialogue:
     - Aaaah! My eye!
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - hngggg....
     - ... now that my end is near, I finally realize that I was wrong.
@@ -1607,6 +1613,7 @@ MonoBehaviour:
       my time travelling abilities.
     - Now go, brave archaelogist, a celebration is awaiting you.
     characterSprite: {fileID: 21300000, guid: cb6730e580b51c144b00f0d9576b94b0, type: 3}
+    textFinishClip: {fileID: 0}
 --- !u!1001 &1543220287
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -54,6 +54,13 @@ public class FightBehaviour : MonoBehaviour
             _attacking = false;
             return;
         }
+
+        if (!gameObject.name.Equals("Player") && !attackedFighter.gameObject.name.Equals("Player"))
+        {
+            // Enemies can't hurt enemies
+            _attacking = false;
+            return;
+        }
         
         attackedFighter.GetAttacked(attackPower);
         _attacking = false;
