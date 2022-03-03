@@ -19,6 +19,8 @@ public class DialogueManager : MonoBehaviour
     private string _currentDisplayedText;
     private int _currentDisplayedCharacterCount;
     private bool _soundInterrupted = false;
+    private AudioClip _currentClip;
+    private bool _currentTextFinished;
 
     public void DisplayDialogue(DialogueElement[] dialogueElements, Action callback = null)
     {
@@ -75,6 +77,8 @@ public class DialogueManager : MonoBehaviour
         }
 
         _currentDisplayedCharacterCount = 0;
+        _currentTextFinished = false;
+        _currentClip = _currentElements[_elementPos].textFinishClip;
         _currentDisplayedText = _currentElements[_elementPos].dialogue[_dialoguePos];
         if (GameState.instance.selectedCharacterIdx == GameState.JillWhiteIdx ||
             GameState.instance.selectedCharacterIdx == GameState.JillBlackIdx)
@@ -121,7 +125,15 @@ public class DialogueManager : MonoBehaviour
     {
         if (_currentDisplayedCharacterCount >= _currentDisplayedText.Length)
         {
-            StopSound();
+            if (!_currentTextFinished)
+            {
+                _currentTextFinished = true;
+                StopSound();
+                if (_currentClip != null)
+                {
+                    SoundManager.instance.GetEffectSource().PlayOneShot(_currentClip);
+                }
+            }
             return;
         }
 

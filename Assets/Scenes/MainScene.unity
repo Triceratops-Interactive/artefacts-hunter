@@ -339,6 +339,7 @@ MonoBehaviour:
   - dialogue:
     - "Excuse me Sir, is this the hall for the \u2018lost artefacts\u2019 exhibition?"
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "That\u2019s right young man, at least it SHOULD be."
     - "With our museum\u2019s low budget in recent years, we were only able to acquire
@@ -349,35 +350,43 @@ MonoBehaviour:
     - "leaving the exhibition half finished for quite some time now\u2026"
     - But now it seems they hired you to help with that, am I right?
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "Yes, I\u2019ve been employed to analyse the fragments, improve their descriptions"
     - and possibly find other interesting facts about them.
     - Within the next few weeks, I hope that I can make this exhibition more interesting
       to get visitors into the museum again.
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "Oh, I\u2019m sure of that.. *hohohoho*"
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 8300000, guid: 4dd9c5f2c7d26c94faaddc00673dd4d6, type: 3}
   afterFirstLevelDialogue:
   - dialogue:
     - "\u2026\u2026\u2026\u2026What\u2026\u2026.. just happened?"
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - Are you alright? There was a big flash in the hall and afterwards, you were
       gone.
     - After another flash just now, I found you lying on the floor.
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "I feel like I just had the weirdest dream\u2026 I dreamt that I went back
       into the time of the fragment I touched before and was able to recover the
       complete artefact."
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "I don\u2019t think that was a dream young man. The artefact is right there!"
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - Incredible!
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   beforeFinalLevelDialogue:
   - dialogue:
     - Welcome back, young man. I have just prepared a new fragment for examination,
@@ -387,9 +396,11 @@ MonoBehaviour:
     - you are the only one capable of defeating HIM, and complete the exhibition
       of course.
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - Who is HE?
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - You see, far in the future scientists have discovered a way to travel through
       time. But soon after,
@@ -401,19 +412,24 @@ MonoBehaviour:
     - "Our only chance is to travel back in time and stop him before it\u2019s too
       late!"
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   afterFinalLevelDialogue:
   - dialogue:
     - "You made it back alive! And you have the Civic Crown, which means\u2026"
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "\u2019Caesar\u2019 gave it to me after a long fight, he realized his mistake."
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - That is good to hear.
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - Huh, weird, I now have the same scar on my face as you.. what does this mean??
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "Don\u2019t you realize, young man, I am YOU! When I was your age, I lived
       through the same events."
@@ -424,19 +440,26 @@ MonoBehaviour:
       back and guiding you."
     - But you finally managed to break this cycle and complete the exhibition! (and
       save the world of course..)
+    characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
+  - dialogue:
     - Now it seems my time has come. As the time loop is gone, my existence is merely
       a glitch in the matrix.. *hohohoho*
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 8300000, guid: 4dd9c5f2c7d26c94faaddc00673dd4d6, type: 3}
   - dialogue:
     - Farewell Janitor, I will never forget you/me.. you know what I mean!
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   - dialogue:
     - "Farewell, young man\u2026\u2026\u2026\u2026\u2026."
     characterSprite: {fileID: 21300000, guid: 4590b9d50313bdd4eb9d6be79299f253, type: 3}
+    textFinishClip: {fileID: 0}
   beforeFirstArtefactDescription:
   - dialogue:
     - Okay so what do he have here?
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   afterFirstArtefactDescription:
   - dialogue:
     - "What is this? I feel like I know where the complete artefact can be found,
@@ -444,28 +467,34 @@ MonoBehaviour:
     - "Ah, probably just my intuition. I\u2019ll have a look at it up close so I
       can check for further clues."
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   firstFragmentMonologue:
   - dialogue:
     - Hmm? This feels odd.
     - Actually, my whole body feels kind of odd. Everything starts to blur...
     - What is happening?? Aaaaaah!
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   furtherFragmentsMonologue:
   - dialogue:
     - "Here we go again\u2026"
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   lastFragmentMonologue:
   - dialogue:
     - "Let\u2019s do this!"
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   fragmentPlayAgainText:
   - dialogue:
     - "Play the artefact\u2019s minigame again?"
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   notReadDescriptionMonologue:
   - dialogue:
     - I should probably read the artifacts description first.
     characterSprite: {fileID: 21300000, guid: c44e870a417f7af43802f41f3fc6ac2b, type: 3}
+    textFinishClip: {fileID: 0}
   endgameClip: {fileID: 8300000, guid: c2e1ca35d48b0b147a5a3cbef1012a92, type: 3}
   endgameClipVolume: 0.6
   lastTalkClip: {fileID: 8300000, guid: 55e5131f3f164b248814fc16de46acf5, type: 3}
@@ -945,6 +974,7 @@ MonoBehaviour:
   - dialogue:
     - Wow, what an amazing exhibition! How did you find all these artefacts??
     characterSprite: {fileID: 21300000, guid: 60b71473573f7ad4496f52060f1d736e, type: 3}
+    textFinishClip: {fileID: 0}
 --- !u!212 &293381190
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2519,6 +2549,7 @@ MonoBehaviour:
     - "Enjoy your day, some people might wanna say \u2018hi\u2019 to the new archaeology
       pop star."
     characterSprite: {fileID: 21300000, guid: b00e48b331e7ebe438995c3756bd541f, type: 3}
+    textFinishClip: {fileID: 0}
 --- !u!61 &793651091
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3579,6 +3610,7 @@ MonoBehaviour:
     - "during which approximately 75 percent of known species died. Its most probable
       cause was the impact of a 10km wide asteroid in the Gulf of Mexico.\u201D"
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   artefactIdx: 1
 --- !u!224 &1132221323 stripped
 RectTransform:
@@ -4110,6 +4142,7 @@ MonoBehaviour:
       Civic Crown, one of the highest military awards for a Roman general,"
     - which he was awarded for his service in the Siege of Mytilene in 81 BC."
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   artefactIdx: 2
 --- !u!1001 &1353576163
 PrefabInstance:
@@ -5112,6 +5145,7 @@ MonoBehaviour:
     - Do you know the guys from Triceratops Interactive? I heard that they are pretty
       cool dudes.
     characterSprite: {fileID: 21300000, guid: 1f311a28acbcf034880883732394a910, type: 3}
+    textFinishClip: {fileID: 0}
 --- !u!212 &1657427593
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7577,6 +7611,7 @@ MonoBehaviour:
     - though latest research indicates that a religious Muslim destroyed it in 1378
       after local peasants started worshipping it."
     characterSprite: {fileID: 0}
+    textFinishClip: {fileID: 0}
   artefactIdx: 0
 --- !u!1001 &3078529597926349732
 PrefabInstance:
@@ -8005,6 +8040,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1422779621}
     m_Modifications:
+    - target: {fileID: 6531910255875579460, guid: 6cdce158557f3a24cb2e7b7a83e835c0, type: 3}
+      propertyPath: afterFirstMinigameTalk.Array.data[2].textFinishClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 4dd9c5f2c7d26c94faaddc00673dd4d6, type: 3}
+    - target: {fileID: 6531910255875579460, guid: 6cdce158557f3a24cb2e7b7a83e835c0, type: 3}
+      propertyPath: afterFirstMinigameTalk.Array.data[2].dialogue.Array.data[0]
+      value: That, young man, is what you need to find out for yourself.. *hohohoho*
+      objectReference: {fileID: 0}
     - target: {fileID: 6531910255875579480, guid: 6cdce158557f3a24cb2e7b7a83e835c0, type: 3}
       propertyPath: m_Name
       value: Janitor

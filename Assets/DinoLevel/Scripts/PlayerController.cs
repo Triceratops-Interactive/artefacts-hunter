@@ -46,6 +46,7 @@ public class PlayerController : MonoBehaviour
     {
         if (DialogueManager.instance.IsDisplayingDialogue() || IngameMenuBehaviour.instance.IsMenuActive())
         {
+            _animator.SetTrigger("idle");
             _movement = 0;
             _jumpMovement = 0;
             return;
