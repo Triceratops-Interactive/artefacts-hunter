@@ -64,6 +64,8 @@ public class Dino : MonoBehaviour
         {
             _animator.SetTrigger("jump");
             _rigidbody.velocity = Vector2.up * jumpForce;
+            SoundManager.instance.GetEffectSource().PlayOneShot(roarClip);
+
         }
 
 
