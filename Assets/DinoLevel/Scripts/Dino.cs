@@ -11,10 +11,13 @@ public class Dino : MonoBehaviour
     private bool _startedAudio;
 
     [Header("Dino Movement")] [SerializeField]
-    private float speed = 4;
+    private float speed = 5;
 
     [SerializeField] private float jumpForce = 6;
     [SerializeField] private AudioClip destroyClip;
+    [SerializeField] private AudioClip roarClip;
+    [SerializeField] private AudioClip hurtClip;
+
 
 
     // Start is called before the first frame update
@@ -24,6 +27,7 @@ public class Dino : MonoBehaviour
         _animator = GetComponent<Animator>();
         _audio = GetComponent<AudioSource>();
         _audio.mute = GameState.instance.mute;
+        SoundManager.instance.GetEffectSource().PlayOneShot(roarClip);
     }
 
     private void FixedUpdate()
@@ -52,6 +56,7 @@ public class Dino : MonoBehaviour
         if (collision.CompareTag("Dino_Killing"))
         {
             _animator.SetTrigger("dead");
+            SoundManager.instance.GetEffectSource().PlayOneShot(hurtClip);
             _audio.Stop();
             speed = 0;
         }

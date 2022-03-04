@@ -9,11 +9,12 @@ public class PlayerController : MonoBehaviour
     private Animator _animator;
 
     [Header("Player Movement")] [SerializeField]
-    private float speed = 6;
+    private float speed = (float)5.2;
 
     [SerializeField] private float jumpForce = (float) 6.7;
     [SerializeField] private int extraJumps = 1;
     [SerializeField] private AudioClip jumpClip;
+    [SerializeField] private AudioClip dieClip;
 
     [Header("Ground Check")] [SerializeField]
     private Transform groundCheck; //game object for the middlepoint 
@@ -21,6 +22,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float checkRadius = (float) 0.02;
     [SerializeField] private LayerMask whatIsGround; //mask to detect if in radius of groundCheck +
 
+    [SerializeField] private RuntimeAnimatorController[] boyGirlAnimator;
     // [Header("Count")]
     // [SerializeField] private UnityEngine.UI.Text countText;
 
@@ -39,6 +41,11 @@ public class PlayerController : MonoBehaviour
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+
+        if (GameState.instance.selectedCharacterIdx < 2)
+            _animator.runtimeAnimatorController = boyGirlAnimator[0];
+        else
+            _animator.runtimeAnimatorController = boyGirlAnimator[1];
     }
 
     // Update is called once per frame
@@ -115,6 +122,7 @@ public class PlayerController : MonoBehaviour
         {
             _animator.SetTrigger("dead");
             _rigidbody.simulated = false;
+            SoundManager.instance.GetEffectSource().PlayOneShot(dieClip);
             yield return new WaitForSeconds(2);
             SceneManager.LoadScene("Dino_Escape");
         }
@@ -130,6 +138,7 @@ public class PlayerController : MonoBehaviour
         {
             _animator.SetTrigger("dead");
             _rigidbody.simulated = false;
+            SoundManager.instance.GetEffectSource().PlayOneShot(dieClip);
             yield return new WaitForSeconds(2);
             SceneManager.LoadScene("Dino_Escape");
         }
